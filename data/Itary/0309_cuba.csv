@@ -1,0 +1,297 @@
+,Statcast Metrics
+Rk.,,Pitcher,,Batter,Game Pitch #,Pitch,PA,Inning,Result,Pitch Type,Pitch Vel  (MPH),Spin (RPM),VBreak (In.)Vertical Break (Inches),,HBreak (In.)Horizontal Break (Inches),
+1, , Mitchell Stumpo, , Yurisbel Gracial, 295, 12, 85, 10," In play, out(s)", Slider, 87.9, 2364, 34, ↓, 3, ←
+2, , Mitchell Stumpo, , Yurisbel Gracial, 294, 11, 85, 10, Swinging Strike, Slider, 87.9, 2349, 31, ↓, 3, ←
+3, , Mitchell Stumpo, , Alfredo Despaigne, 293, 10, 84, 10," In play, out(s)", Slider, 88.6, 2357, 31, ↓, 6, ←
+4, , Mitchell Stumpo, , Alfredo Despaigne, 292, 9, 84, 10, Swinging Strike, Slider, 89.3, 2281, 30, ↓, 6, ←
+5, , Mitchell Stumpo, , Luis Robert Jr., 291, 8, 83, 10," In play, run(s)", Slider, 89.6, 2330, 31, ↓, 1, ←
+6, , Mitchell Stumpo, , Luis Robert Jr., 290, 7, 83, 10, Foul, Slider, 88.8, 2352, 30, ↓, 0, 
+7, , Mitchell Stumpo, , Luis Robert Jr., 289, 6, 83, 10, Foul, Slider, 88.6, 2300, 30, ↓, 3, →
+8, , Mitchell Stumpo, , Luis Robert Jr., 288, 5, 83, 10, Ball, Slider, 87.0, 2226, 30, ↓, 1, →
+9, , Mitchell Stumpo, , Luis Robert Jr., 287, 4, 83, 10, Swinging Strike, Slider, 87.9, 2212, 29, ↓, 2, →
+10, , Mitchell Stumpo, , Luis Robert Jr., 286, 3, 83, 10, Ball, Slider, 87.7, 2238, 30, ↓, 2, →
+11, , Mitchell Stumpo, , Luis Robert Jr., 285, 2, 83, 10, Foul, 4-Seam Fastball, 93.1, 2366, 18, ↓, 9, ←
+12, , Mitchell Stumpo, , Yoan Moncada, 284, 1, 82, 10," In play, out(s)", 4-Seam Fastball, 93.3, 2333, 16, ↓, 8, ←
+13, , Onelki Garcia, , Ben DeLuzio, 283, 12, 81, 10," In play, out(s)", Changeup, 85.1, 1789, 33, ↓, 17, →
+14, , Onelki Garcia, , Ben DeLuzio, 282, 11, 81, 10, Called Strike, Changeup, 90.7, 1973, 25, ↓, 17, →
+15, , Onelki Garcia, , Nicky Lopez, 281, 10, 80, 10," In play, run(s)", Slider, 84.6, 2019, 38, ↓, 3, →
+16, , Onelki Garcia, , Nicky Lopez, 280, 9, 80, 10, Ball, Changeup, 86.6, 1895, 30, ↓, 18, →
+17, , Onelki Garcia, , Nicky Lopez, 279, 8, 80, 10, Ball, Slider, 84.9, 2037, 37, ↓, 1, →
+18, , Onelki Garcia, , Nicky Lopez, 278, 7, 80, 10, Foul, Slider, 86.5, 1999, 34, ↓, 6, →
+19, , Onelki Garcia, , Nicky Lopez, 277, 6, 80, 10, Foul, Slider, 84.2, 1965, 35, ↓, 1, →
+20, , Onelki Garcia, , Brett Sullivan, 276, 5, 78, 10," In play, out(s)", Changeup, 83.7, 1867, 35, ↓, 19, →
+21, , Onelki Garcia, , Brett Sullivan, 275, 4, 78, 10, Ball, Slider, 85.1, 2039, 36, ↓, 0, 
+22, , Onelki Garcia, , Brett Sullivan, 274, 3, 78, 10, Foul, Slider, 83.6, 2026, 38, ↓, 2, →
+23, , Onelki Garcia, , Brett Sullivan, 273, 2, 78, 10, Foul, Slider, 85.8, 2142, 30, ↓, 1, →
+24, , Onelki Garcia, , Dominic Fletcher, 272, 1, 77, 10," In play, run(s)", Slider, 86.7, 1963, 29, ↓, 6, →
+25, , Raidel Martinez, , Vinnie Pasquantino, 271, 18, 76, 10," In play, out(s)", 4-Seam Fastball, 94.4, 2212, 9, ↓, 2, ←
+26, , Raidel Martinez, , Vinnie Pasquantino, 270, 17, 76, 10, Ball, Slider, 83.2, 1235, 21, ↓, 5, ←
+27, , Raidel Martinez, , Vinnie Pasquantino, 269, 16, 76, 10, Ball, 4-Seam Fastball, 94.5, 2278, 12, ↓, 7, ←
+28, , Raidel Martinez, , John Valente, 268, 15, 75, 10," In play, run(s)", Cutter, 88.0, 1936, 29, ↓, 2, →
+29, , Raidel Martinez, , John Valente, 267, 14, 75, 10, Foul, 4-Seam Fastball, 93.4, 2135, 12, ↓, 9, ←
+30, , Raidel Martinez, , John Valente, 266, 13, 75, 10, Foul, 4-Seam Fastball, 92.1, 2086, 12, ↓, 3, ←
+31, , Raidel Martinez, , John Valente, 265, 12, 75, 10, Ball, 4-Seam Fastball, 92.2, 2145, 13, ↓, 7, ←
+32, , Matt Festa, , Yoelkis Guibert, 264, 34, 74, 9," In play, out(s)", 4-Seam Fastball, 93.1, 2476, 15, ↓, 6, ←
+33, , Matt Festa, , Yoelkis Guibert, 263, 33, 74, 9, Called Strike, Slider, 88.3, 2683, 29, ↓, 1, →
+34, , Matt Festa, , Yoelkis Guibert, 262, 32, 74, 9, Called Strike, 4-Seam Fastball, 92.6, 2389, 18, ↓, 7, ←
+35, , Matt Festa, , Yoelkis Guibert, 261, 31, 74, 9, Ball, Slider, 86.9, 2676, 31, ↓, 3, →
+36, , Matt Festa, , Yoelkis Guibert, 260, 30, 74, 9, Ball, 4-Seam Fastball, 92.6, 2374, 18, ↓, 4, ←
+37, , Matt Festa, , Yoelkis Guibert, 259, 29, 74, 9, Ball, Slider, 89.8, 2576, 27, ↓, 3, →
+38, , Matt Festa, , Luis Mateo, 258, 28, 73, 9," In play, out(s)", Slider, 84.3, 2741, 35, ↓, 14, →
+39, , Matt Festa, , Luis Mateo, 257, 27, 73, 9, Ball, Slider, 83.9, 2742, 37, ↓, 15, →
+40, , Matt Festa, , Luis Mateo, 256, 26, 73, 9, Swinging Strike, Slider, 83.6, 2736, 39, ↓, 17, →
+41, , Matt Festa, , Luis Mateo, 255, 25, 73, 9, Ball, Slider, 84.8, 2693, 36, ↓, 15, →
+42, , Matt Festa, , Luis Mateo, 254, 24, 73, 9, Foul, 4-Seam Fastball, 92.2, 2333, 18, ↓, 5, ←
+43, , Matt Festa, , Yadir Drake, 253, 23, 72, 9, Swinging Strike, 4-Seam Fastball, 92.3, 2430, 20, ↓, 3, ←
+44, , Matt Festa, , Yadir Drake, 252, 22, 72, 9, Foul, Slider, 83.8, 2707, 35, ↓, 10, →
+45, , Matt Festa, , Yadir Drake, 251, 21, 72, 9, Ball, Slider, 84.4, 2737, 36, ↓, 10, →
+46, , Matt Festa, , Yadir Drake, 250, 20, 72, 9, Called Strike, Slider, 82.8, 2701, 37, ↓, 10, →
+47, , Raidel Martinez, , Sal Frelick, 249, 11, 71, 9," In play, out(s)", 4-Seam Fastball, 94.6, 2151, 11, ↓, 6, ←
+48, , Raidel Martinez, , Miles Mastrobuoni, 248, 10, 70, 9," In play, out(s)", 4-Seam Fastball, 94.2, 2220, 11, ↓, 7, ←
+49, , Raidel Martinez, , Miles Mastrobuoni, 247, 9, 70, 9, Ball, Changeup, 85.0, 1265, 29, ↓, 10, ←
+50, , Raidel Martinez, , Miles Mastrobuoni, 246, 8, 70, 9, Called Strike, Changeup, 87.8, 1394, 26, ↓, 11, ←
+51, , Raidel Martinez, , Ben DeLuzio, 245, 7, 69, 9, Foul Tip, 4-Seam Fastball, 94.7, 2249, 10, ↓, 5, ←
+52, , Raidel Martinez, , Ben DeLuzio, 244, 6, 69, 9, Called Strike, 4-Seam Fastball, 94.6, 2228, 10, ↓, 6, ←
+53, , Raidel Martinez, , Ben DeLuzio, 243, 5, 69, 9, Foul, 4-Seam Fastball, 92.2, 2219, 12, ↓, 6, ←
+54, , Matt Festa, , Lorenzo Quintana, 242, 19, 68, 8," In play, out(s)", Slider, 83.1, 2715, 37, ↓, 13, →
+55, , Matt Festa, , Lorenzo Quintana, 241, 18, 68, 8, Called Strike, Slider, 84.3, 2685, 36, ↓, 16, →
+56, , Matt Festa, , Erisbel Arruebarrena, 240, 17, 67, 8," In play, run(s)", Slider, 83.2, 2649, 38, ↓, 16, →
+57, , Matt Festa, , Erisbel Arruebarrena, 239, 16, 67, 8, Ball, Slider, 84.0, 2673, 37, ↓, 13, →
+58, , Matt Festa, , Yoenis Cespedes, 238, 15, 66, 8," In play, out(s)", Slider, 83.2, 2651, 37, ↓, 12, →
+59, , Matt Festa, , Yoenis Cespedes, 237, 14, 66, 8, Swinging Strike, Slider, 83.5, 2727, 36, ↓, 13, →
+60, , Matt Festa, , Yoenis Cespedes, 236, 13, 66, 8, Ball, Slider, 84.1, 2627, 38, ↓, 14, →
+61, , Matt Festa, , Alfredo Despaigne, 235, 12, 65, 8," In play, no out", 4-Seam Fastball, 94.0, 2417, 17, ↓, 9, ←
+62, , Matt Festa, , Alfredo Despaigne, 234, 11, 65, 8, Ball, Slider, 85.2, 2844, 31, ↓, 16, →
+63, , Matt Festa, , Alfredo Despaigne, 233, 10, 65, 8, Called Strike, 4-Seam Fastball, 93.5, 2257, 18, ↓, 7, ←
+64, , Matt Festa, , Luis Robert Jr., 232, 9, 64, 8, Swinging Strike, Slider, 90.4, 2599, 26, ↓, 5, →
+65, , Matt Festa, , Luis Robert Jr., 231, 8, 64, 8, Foul, Slider, 84.3, 2634, 34, ↓, 15, →
+66, , Matt Festa, , Luis Robert Jr., 230, 7, 64, 8, Foul, 4-Seam Fastball, 93.3, 2374, 17, ↓, 4, ←
+67, , Matt Festa, , Luis Robert Jr., 229, 6, 64, 8, Foul, Slider, 84.5, 2666, 37, ↓, 16, →
+68, , Matt Festa, , Luis Robert Jr., 228, 5, 64, 8, Foul, Slider, 84.6, 2663, 36, ↓, 14, →
+69, , Matt Festa, , Luis Robert Jr., 227, 4, 64, 8, Foul, Slider, 84.6, 2802, 37, ↓, 13, →
+70, , Matt Festa, , Luis Robert Jr., 226, 3, 64, 8, Foul, 4-Seam Fastball, 93.7, 2465, 15, ↓, 6, ←
+71, , Matt Festa, , Luis Robert Jr., 225, 2, 64, 8, Foul, 4-Seam Fastball, 92.8, 2367, 19, ↓, 7, ←
+72, , Matt Festa, , Luis Robert Jr., 224, 1, 64, 8, Foul, Slider, 83.8, 2773, 38, ↓, 11, →
+73, , Raidel Martinez, , Nicky Lopez, 223, 4, 63, 8," In play, out(s)", Sinker, 88.4, 1441, 27, ↓, 11, ←
+74, , Raidel Martinez, , Nicky Lopez, 222, 3, 63, 8, Ball, 4-Seam Fastball, 94.9, 2290, 12, ↓, 8, ←
+75, , Raidel Martinez, , Nicky Lopez, 221, 2, 63, 8, Called Strike, 4-Seam Fastball, 83.8, 1191, 22, ↓, 7, ←
+76, , Raidel Martinez, , David Fletcher, 220, 1, 62, 8," In play, out(s)", 4-Seam Fastball, 94.1, 2237, 11, ↓, 4, ←
+77, , Livan Moinelo, , Brett Sullivan, 219, 30, 61, 8," In play, out(s)", 4-Seam Fastball, 94.1, 2290, 12, ↓, 0, 
+78, , Livan Moinelo, , Brett Sullivan, 218, 29, 61, 8, Ball In Dirt, Changeup, 83.0, 1822, 28, ↓, 13, →
+79, , Livan Moinelo, , Brett Sullivan, 217, 28, 61, 8, Foul, Slider, 86.4, 2730, 31, ↓, 4, ←
+80, , Livan Moinelo, , Brett Sullivan, 216, 27, 61, 8, Swinging Strike, Slider, 86.3, 2474, 32, ↓, 5, ←
+81, , Livan Moinelo, , Brett Sullivan, 215, 26, 61, 8, Called Strike, Slider, 84.4, 2673, 37, ↓, 7, ←
+82, , Livan Moinelo, , Brett Sullivan, 214, 25, 61, 8, Ball, 4-Seam Fastball, 94.4, 2321, 13, ↓, 3, →
+83, , Livan Moinelo, , Brett Sullivan, 213, 24, 61, 8, Ball, 4-Seam Fastball, 92.6, 2310, 14, ↓, 4, →
+84, , Livan Moinelo, , Dominic Fletcher, 212, 23, 60, 8, Ball, Slider, 86.4, 2580, 31, ↓, 1, ←
+85, , Livan Moinelo, , Dominic Fletcher, 211, 22, 60, 8, Ball, 4-Seam Fastball, 95.2, 2341, 11, ↓, 1, →
+86, , Livan Moinelo, , Dominic Fletcher, 210, 21, 60, 8, Ball, 4-Seam Fastball, 87.8, 2563, 27, ↓, 0, 
+87, , Livan Moinelo, , Dominic Fletcher, 209, 20, 60, 8, Ball, 4-Seam Fastball, 95.2, 2332, 10, ↓, 7, →
+88, , Livan Moinelo, , Vinnie Pasquantino, 208, 19, 59, 8," In play, no out", Slider, 88.0, 2540, 29, ↓, 3, ←
+89, , Livan Moinelo, , Vinnie Pasquantino, 207, 18, 59, 8, Ball, Slider, 88.4, 2606, 29, ↓, 4, ←
+90, , Joe LaSorsa, , Yoan Moncada, 206, 12, 58, 7, Swinging Strike, Slider, 78.4, 2329, 44, ↓, 7, ←
+91, , Joe LaSorsa, , Yoan Moncada, 205, 11, 58, 7, Foul, Slider, 78.4, 2246, 41, ↓, 9, ←
+92, , Joe LaSorsa, , Yoan Moncada, 204, 10, 58, 7, Called Strike, Changeup, 89.1, 2132, 29, ↓, 20, →
+93, , Joe LaSorsa, , Yoan Moncada, 203, 9, 58, 7, Called Strike, Changeup, 89.0, 2132, 28, ↓, 20, →
+94, , Joe LaSorsa, , Yoelkis Guibert, 202, 8, 57, 7," In play, out(s)", Slider, 75.9, 2216, 44, ↓, 10, ←
+95, , Joe LaSorsa, , Yoelkis Guibert, 201, 7, 57, 7, Foul, Slider, 75.6, 2192, 48, ↓, 11, ←
+96, , Joe LaSorsa, , Yoelkis Guibert, 200, 6, 57, 7, Foul, Changeup, 89.5, 2142, 28, ↓, 21, →
+97, , Joe LaSorsa, , Yoelkis Guibert, 199, 5, 57, 7, Foul Bunt, Changeup, 89.3, 2115, 29, ↓, 19, →
+98, , Joe LaSorsa, , Dayan Garcia, 198, 4, 56, 7, Hit By Pitch, Slider, 77.7, 2264, 44, ↓, 9, ←
+99, , Joe LaSorsa, , Dayan Garcia, 197, 3, 56, 7, Foul, Slider, 76.0, 2241, 45, ↓, 12, ←
+100, , Joe LaSorsa, , Dayan Garcia, 196, 2, 56, 7, Foul, Changeup, 88.9, 2144, 27, ↓, 20, →
+101, , Joe LaSorsa, , Dayan Garcia, 195, 1, 56, 7, Called Strike, Changeup, 89.4, 2183, 24, ↓, 18, →
+102, , Vinny Nittoli, , Yadir Drake, 194, 29, 55, 7, Swinging Strike, Slider, 81.4, 2595, 33, ↓, 8, →
+103, , Vinny Nittoli, , Yadir Drake, 193, 28, 55, 7, Ball, Slider, 82.7, 2713, 30, ↓, 4, →
+104, , Vinny Nittoli, , Yadir Drake, 192, 27, 55, 7, Foul Bunt, Slider, 82.4, 2573, 36, ↓, 4, →
+105, , Vinny Nittoli, , Yadir Drake, 191, 26, 55, 7, Foul Bunt, 4-Seam Fastball, 89.8, 2373, 22, ↓, 9, ←
+106, , Vinny Nittoli, , Yadir Drake, 190, 25, 55, 7, Ball, Slider, 82.2, 2494, 37, ↓, 5, →
+107, , Vinny Nittoli, , Lorenzo Quintana, 189, 24, 54, 7," In play, run(s)", Slider, 80.9, 2616, 37, ↓, 12, →
+108, , Vinny Nittoli, , Lorenzo Quintana, 188, 23, 54, 7, Ball In Dirt, Slider, 82.9, 2638, 31, ↓, 2, →
+109, , Vinny Nittoli, , Lorenzo Quintana, 187, 22, 54, 7, Called Strike, Slider, 81.3, 2579, 31, ↓, 4, →
+110, , Vinny Nittoli, , Erisbel Arruebarrena, 186, 21, 53, 7," In play, no out", 4-Seam Fastball, 90.9, 2453, 20, ↓, 9, ←
+111, , Vinny Nittoli, , Erisbel Arruebarrena, 185, 20, 53, 7, Foul, 4-Seam Fastball, 90.2, 2475, 20, ↓, 10, ←
+112, , Vinny Nittoli, , Erisbel Arruebarrena, 184, 19, 53, 7, Ball, Slider, 83.6, 2579, 33, ↓, 1, ←
+113, , Vinny Nittoli, , Erisbel Arruebarrena, 183, 18, 53, 7, Ball, Slider, 82.0, 2733, 37, ↓, 9, →
+114, , Vinny Nittoli, , Erisbel Arruebarrena, 182, 17, 53, 7, Called Strike, 4-Seam Fastball, 90.9, 2428, 19, ↓, 11, ←
+115, , Vinny Nittoli, , Erisbel Arruebarrena, 181, 16, 53, 7, Ball, Slider, 82.2, 2590, 31, ↓, 5, →
+116, , Vinny Nittoli, , Erisbel Arruebarrena, 180, 15, 53, 7, Foul Tip, Slider, 81.5, 2537, 35, ↓, 8, →
+117, , Livan Moinelo, , John Valente, 179, 17, 52, 7," In play, out(s)", Slider, 88.4, 2556, 35, ↓, 5, ←
+118, , Livan Moinelo, , John Valente, 178, 16, 52, 7, Foul, 4-Seam Fastball, 96.1, 2412, 9, ↓, 4, →
+119, , Livan Moinelo, , John Valente, 177, 15, 52, 7, Foul, Slider, 88.8, 2715, 32, ↓, 5, ←
+120, , Livan Moinelo, , John Valente, 176, 14, 52, 7, Swinging Strike, Slider, 88.8, 2777, 30, ↓, 7, ←
+121, , Livan Moinelo, , John Valente, 175, 13, 52, 7, Swinging Strike, Slider, 88.2, 2625, 28, ↓, 7, ←
+122, , Livan Moinelo, , Sal Frelick, 174, 12, 51, 7," In play, out(s)", Changeup, 84.3, 1863, 28, ↓, 16, →
+123, , Livan Moinelo, , Sal Frelick, 173, 11, 51, 7, Foul, Slider, 89.7, 2697, 29, ↓, 6, ←
+124, , Livan Moinelo, , Sal Frelick, 172, 10, 51, 7, Called Strike, 4-Seam Fastball, 95.3, 2377, 11, ↓, 3, →
+125, , Livan Moinelo, , Sal Frelick, 171, 9, 51, 7, Foul, 4-Seam Fastball, 95.2, 2416, 9, ↓, 8, →
+126, , Livan Moinelo, , Sal Frelick, 170, 8, 51, 7, Ball, Slider, 88.8, 2568, 29, ↓, 4, ←
+127, , Livan Moinelo, , Miles Mastrobuoni, 169, 7, 50, 7," In play, run(s)", 4-Seam Fastball, 95.7, 2445, 8, ↓, 6, →
+128, , Livan Moinelo, , Miles Mastrobuoni, 168, 6, 50, 7, Swinging Strike, Slider, 89.0, 2722, 28, ↓, 7, ←
+129, , Livan Moinelo, , Miles Mastrobuoni, 167, 5, 50, 7, Called Strike, Slider, 89.2, 2697, 28, ↓, 6, ←
+130, , Livan Moinelo, , Miles Mastrobuoni, 166, 4, 50, 7, Ball, 4-Seam Fastball, 95.9, 2454, 8, ↓, 8, →
+131, , Livan Moinelo, , Ben DeLuzio, 165, 3, 49, 7, Swinging Strike, Slider, 89.6, 2746, 29, ↓, 7, ←
+132, , Livan Moinelo, , Ben DeLuzio, 164, 2, 49, 7, Foul, Slider, 88.4, 2650, 29, ↓, 4, ←
+133, , Livan Moinelo, , Ben DeLuzio, 163, 1, 49, 7, Called Strike, 4-Seam Fastball, 90.5, 2560, 24, ↓, 1, ←
+134, , Naykel Cruz, , Nicky Lopez, 162, 8, 48, 7," In play, no out", Curveball, 76.3, 2402, 62, ↓, 4, ←
+135, , Naykel Cruz, , Nicky Lopez, 161, 7, 48, 7, Ball, Curveball, 76.4, 2332, 62, ↓, 2, ←
+136, , Naykel Cruz, , Nicky Lopez, 160, 6, 48, 7, Ball, Curveball, 76.7, 2413, 63, ↓, 2, ←
+137, , Naykel Cruz, , Nicky Lopez, 159, 5, 48, 7, Called Strike, 4-Seam Fastball, 90.1, 2195, 16, ↓, 9, →
+138, , Vinny Nittoli, , Yoenis Cespedes, 158, 14, 47, 6," In play, out(s)", 4-Seam Fastball, 92.1, 2568, 16, ↓, 11, ←
+139, , Vinny Nittoli, , Yoenis Cespedes, 157, 13, 47, 6, Called Strike, Sinker, 91.3, 2530, 19, ↓, 12, ←
+140, , Vinny Nittoli, , Alfredo Despaigne, 156, 12, 46, 6, Called Strike, Sinker, 91.2, 2485, 18, ↓, 12, ←
+141, , Vinny Nittoli, , Alfredo Despaigne, 155, 11, 46, 6, Foul, Slider, 82.6, 2591, 29, ↓, 7, →
+142, , Vinny Nittoli, , Alfredo Despaigne, 154, 10, 46, 6, Ball, Slider, 81.7, 2626, 33, ↓, 12, →
+143, , Vinny Nittoli, , Alfredo Despaigne, 153, 9, 46, 6, Foul, 4-Seam Fastball, 91.8, 2469, 17, ↓, 10, ←
+144, , Vinny Nittoli, , Alfredo Despaigne, 152, 8, 46, 6, Swinging Strike, Slider, 83.5, 2810, 34, ↓, 10, →
+145, , Vinny Nittoli, , Alfredo Despaigne, 151, 7, 46, 6, Called Strike, 4-Seam Fastball, 91.5, 2474, 17, ↓, 9, ←
+146, , Vinny Nittoli, , Alfredo Despaigne, 150, 6, 46, 6, Ball, Slider, 83.5, 2726, 32, ↓, 6, →
+147, , Vinny Nittoli, , Alfredo Despaigne, 149, 5, 46, 6, Ball, 4-Seam Fastball, 91.8, 2418, 17, ↓, 10, ←
+148, , Vinny Nittoli, , Luis Robert Jr., 148, 4, 45, 6, Swinging Strike, Slider, 82.4, 2634, 35, ↓, 13, →
+149, , Vinny Nittoli, , Luis Robert Jr., 147, 3, 45, 6, Foul, Sinker, 91.9, 2565, 17, ↓, 12, ←
+150, , Vinny Nittoli, , Luis Robert Jr., 146, 2, 45, 6, Swinging Strike, Slider, 82.0, 2840, 35, ↓, 7, →
+151, , Vinny Nittoli, , Luis Robert Jr., 145, 1, 45, 6, Swinging Strike, Slider, 81.8, 2771, 36, ↓, 10, →
+152, , Naykel Cruz, , David Fletcher, 144, 4, 44, 6," In play, out(s)", Slider, 82.3, 1718, 24, ↓, 6, →
+153, , Naykel Cruz, , Brett Sullivan, 143, 3, 43, 6," In play, run(s)", 4-Seam Fastball, 90.7, 2185, 18, ↓, 10, →
+154, , Naykel Cruz, , Brett Sullivan, 142, 2, 43, 6, Ball, 4-Seam Fastball, 90.8, 2221, 18, ↓, 10, →
+155, , Naykel Cruz, , Brett Sullivan, 141, 1, 43, 6, Foul, 4-Seam Fastball, 89.9, 1992, 19, ↓, 7, →
+156, , Jose Rodriguez, , Dominic Fletcher, 140, 8, 42, 6," In play, no out", Curveball, 77.4, 2539, 46, ↓, 15, →
+157, , Jose Rodriguez, , Dominic Fletcher, 139, 7, 42, 6, Ball, Curveball, 77.4, 2483, 46, ↓, 15, →
+158, , Jose Rodriguez, , Vinnie Pasquantino, 138, 6, 41, 6," In play, no out", 4-Seam Fastball, 90.3, 2075, 20, ↓, 11, ←
+159, , Jose Rodriguez, , Vinnie Pasquantino, 137, 5, 41, 6, Called Strike, Curveball, 76.8, 2459, 46, ↓, 13, →
+160, , Jose Rodriguez, , John Valente, 136, 4, 40, 6," In play, out(s)", 4-Seam Fastball, 89.3, 2053, 20, ↓, 11, ←
+161, , Jose Rodriguez, , Sal Frelick, 135, 3, 39, 6," In play, no out", 4-Seam Fastball, 90.5, 2012, 20, ↓, 11, ←
+162, , Jose Rodriguez, , Sal Frelick, 134, 2, 39, 6, Ball, 4-Seam Fastball, 90.6, 2081, 16, ↓, 0, 
+163, , Jose Rodriguez, , Sal Frelick, 133, 1, 39, 6, Called Strike, 4-Seam Fastball, 89.6, 2173, 20, ↓, 12, ←
+164, , Andre Pallante, , Yoan Moncada, 132, 25, 38, 5, Foul Tip, 4-Seam Fastball, 94.8, 2200, 19, ↓, 4, ←
+165, , Andre Pallante, , Yoan Moncada, 131, 24, 38, 5, Foul, 4-Seam Fastball, 96.6, 2210, 20, ↓, 5, ←
+166, , Andre Pallante, , Yoan Moncada, 130, 23, 38, 5, Ball In Dirt, Curveball, 77.6, 2861, 66, ↓, 7, →
+167, , Andre Pallante, , Yoan Moncada, 129, 22, 38, 5, Called Strike, 4-Seam Fastball, 96.7, 2326, 16, ↓, 8, ←
+168, , Andre Pallante, , Yoan Moncada, 128, 21, 38, 5, Swinging Strike, Curveball, 75.3, 2855, 68, ↓, 9, →
+169, , Andre Pallante, , Yoelkis Guibert, 127, 20, 37, 5, Ball, 4-Seam Fastball, 96.8, 2320, 15, ↓, 10, ←
+170, , Andre Pallante, , Yoelkis Guibert, 126, 19, 37, 5, Ball, 4-Seam Fastball, 97.3, 2327, 16, ↓, 9, ←
+171, , Andre Pallante, , Yoelkis Guibert, 125, 18, 37, 5, Ball, 4-Seam Fastball, 98.2, 2327, 17, ↓, 4, ←
+172, , Andre Pallante, , Yoelkis Guibert, 124, 17, 37, 5, Swinging Strike, 4-Seam Fastball, 98.8, 2372, 16, ↓, 10, ←
+173, , Andre Pallante, , Yoelkis Guibert, 123, 16, 37, 5, Ball, 4-Seam Fastball, 98.6, 2371, 14, ↓, 9, ←
+174, , Andre Pallante, , Yadil Mujica, 122, 15, 36, 5," In play, out(s)", Curveball, 77.0, 2927, 67, ↓, 7, →
+175, , Andre Pallante, , Yadil Mujica, 121, 14, 36, 5, Foul, 4-Seam Fastball, 98.8, 2373, 17, ↓, 9, ←
+176, , Andre Pallante, , Yadil Mujica, 120, 13, 36, 5, Swinging Strike, 4-Seam Fastball, 98.0, 2375, 19, ↓, 6, ←
+177, , Andre Pallante, , Yadil Mujica, 119, 12, 36, 5, Missed Bunt, 4-Seam Fastball, 97.4, 2302, 16, ↓, 8, ←
+178, , Andre Pallante, , Yadir Drake, 118, 11, 35, 5," In play, out(s)", 4-Seam Fastball, 95.8, 2267, 19, ↓, 6, ←
+179, , Andre Pallante, , Yadir Drake, 117, 10, 35, 5, Ball, 4-Seam Fastball, 95.7, 2337, 20, ↓, 1, ←
+180, , Andre Pallante, , Lorenzo Quintana, 116, 9, 34, 5, Ball, 4-Seam Fastball, 96.6, 2315, 19, ↓, 2, ←
+181, , Andre Pallante, , Lorenzo Quintana, 115, 8, 34, 5, Ball, Curveball, 74.7, 2832, 73, ↓, 7, →
+182, , Andre Pallante, , Lorenzo Quintana, 114, 7, 34, 5, Ball, 4-Seam Fastball, 97.5, 2273, 16, ↓, 1, ←
+183, , Andre Pallante, , Lorenzo Quintana, 113, 6, 34, 5, Foul, Cutter, 87.8, 2311, 35, ↓, 7, →
+184, , Andre Pallante, , Lorenzo Quintana, 112, 5, 34, 5, Ball, Cutter, 89.6, 2489, 34, ↓, 5, →
+185, , Andre Pallante, , Lorenzo Quintana, 111, 4, 34, 5, Foul, 4-Seam Fastball, 96.8, 2316, 19, ↓, 10, ←
+186, , Roenis Elias, , Miles Mastrobuoni, 110, 67, 33, 5, Swinging Strike, Curveball, 76.6, 2580, 52, ↓, 10, ←
+187, , Roenis Elias, , Miles Mastrobuoni, 109, 66, 33, 5, Ball, 4-Seam Fastball, 91.4, 2270, 19, ↓, 10, →
+188, , Roenis Elias, , Miles Mastrobuoni, 108, 65, 33, 5, Ball, Curveball, 79.5, 2509, 52, ↓, 8, ←
+189, , Roenis Elias, , Miles Mastrobuoni, 107, 64, 33, 5, Called Strike, Curveball, 77.1, 2524, 57, ↓, 15, ←
+190, , Roenis Elias, , Miles Mastrobuoni, 106, 63, 33, 5, Called Strike, Changeup, 84.5, 1853, 25, ↓, 17, →
+191, , Roenis Elias, , Ben DeLuzio, 105, 62, 32, 5," In play, out(s)", Changeup, 83.3, 1872, 30, ↓, 21, →
+192, , Roenis Elias, , Ben DeLuzio, 104, 61, 32, 5, Swinging Strike, Changeup, 86.4, 1961, 31, ↓, 21, →
+193, , Roenis Elias, , Ben DeLuzio, 103, 60, 32, 5, Swinging Strike, Changeup, 85.8, 1911, 32, ↓, 19, →
+194, , Roenis Elias, , Nicky Lopez, 102, 59, 31, 5," In play, out(s)", Changeup, 83.3, 1854, 33, ↓, 21, →
+195, , Roenis Elias, , Nicky Lopez, 101, 58, 31, 5, Foul, 4-Seam Fastball, 92.3, 2304, 14, ↓, 10, →
+196, , Andre Pallante, , Erisbel Arruebarrena, 100, 3, 30, 4," In play, out(s)", 4-Seam Fastball, 97.5, 2267, 17, ↓, 9, ←
+197, , Andre Pallante, , Yoenis Cespedes, 99, 2, 29, 4," In play, out(s)", 4-Seam Fastball, 96.7, 2187, 17, ↓, 7, ←
+198, , Andre Pallante, , Alfredo Despaigne, 98, 1, 28, 4," In play, no out", 4-Seam Fastball, 96.0, 2120, 19, ↓, 8, ←
+199, , Roenis Elias, , David Fletcher, 97, 57, 27, 4," In play, out(s)", Curveball, 77.4, 2521, 57, ↓, 12, ←
+200, , Roenis Elias, , David Fletcher, 96, 56, 27, 4, Called Strike, Changeup, 84.8, 1873, 27, ↓, 16, →
+201, , Roenis Elias, , David Fletcher, 95, 55, 27, 4, Ball, Changeup, 85.3, 1806, 30, ↓, 17, →
+202, , Roenis Elias, , Brett Sullivan, 94, 54, 26, 4," In play, out(s)", 4-Seam Fastball, 91.7, 2303, 17, ↓, 8, →
+203, , Roenis Elias, , Brett Sullivan, 93, 53, 26, 4, Ball, Curveball, 78.3, 2531, 53, ↓, 9, ←
+204, , Roenis Elias, , Dominic Fletcher, 92, 52, 25, 4," In play, out(s)", Curveball, 76.1, 2555, 54, ↓, 17, ←
+205, , Roenis Elias, , Dominic Fletcher, 91, 51, 25, 4, Swinging Strike, 4-Seam Fastball, 91.7, 2346, 15, ↓, 10, →
+206, , Roenis Elias, , Dominic Fletcher, 90, 50, 25, 4, Foul, 4-Seam Fastball, 90.5, 2261, 18, ↓, 8, →
+207, , Roenis Elias, , Dominic Fletcher, 89, 49, 25, 4, Ball, 4-Seam Fastball, 90.5, 2248, 15, ↓, 11, →
+208, , Roenis Elias, , Dominic Fletcher, 88, 48, 25, 4, Ball, 4-Seam Fastball, 91.7, 2290, 15, ↓, 6, →
+209, , Matt Harvey, , Luis Robert Jr., 87, 40, 24, 3," In play, out(s)", Slider, 84.7, 2470, 31, ↓, 1, →
+210, , Matt Harvey, , Luis Robert Jr., 86, 39, 24, 3, Ball, Slider, 84.3, 2456, 33, ↓, 1, →
+211, , Matt Harvey, , Yoan Moncada, 85, 38, 23, 3," In play, out(s)", Slider, 82.6, 2493, 35, ↓, 1, →
+212, , Matt Harvey, , Yoan Moncada, 84, 37, 23, 3, Foul, Changeup, 81.5, 1753, 33, ↓, 15, ←
+213, , Matt Harvey, , Yoan Moncada, 83, 36, 23, 3, Ball In Dirt, Curveball, 77.5, 2806, 60, ↓, 5, →
+214, , Matt Harvey, , Yoan Moncada, 82, 35, 23, 3, Foul, Sinker, 90.2, 2283, 20, ↓, 15, ←
+215, , Matt Harvey, , Yoan Moncada, 81, 34, 23, 3, Ball, Slider, 84.4, 2357, 31, ↓, 0, 
+216, , Matt Harvey, , Yoan Moncada, 80, 33, 23, 3, Swinging Strike, Slider, 83.5, 2344, 34, ↓, 1, ←
+217, , Matt Harvey, , Yoan Moncada, 79, 32, 23, 3, Ball, Changeup, 83.0, 1833, 32, ↓, 15, ←
+218, , Matt Harvey, , Yoelkis Guibert, 78, 31, 22, 3," In play, out(s)", Sinker, 89.0, 2306, 24, ↓, 17, ←
+219, , Matt Harvey, , Yadil Mujica, 77, 30, 21, 3," In play, no out", Sinker, 89.8, 2209, 20, ↓, 15, ←
+220, , Matt Harvey, , Yadil Mujica, 76, 29, 21, 3, Foul, Slider, 84.8, 2339, 30, ↓, 2, ←
+221, , Matt Harvey, , Yadil Mujica, 75, 28, 21, 3, Foul Bunt, Sinker, 88.6, 2256, 24, ↓, 17, ←
+222, , Matt Harvey, , Yadil Mujica, 74, 27, 21, 3, Missed Bunt, Sinker, 87.8, 2183, 25, ↓, 17, ←
+223, , Matt Harvey, , Yadir Drake, 73, 26, 20, 3," In play, no out", Curveball, 78.7, 2618, 50, ↓, 11, →
+224, , Matt Harvey, , Yadir Drake, 72, 25, 20, 3, Called Strike, Sinker, 88.1, 2247, 19, ↓, 15, ←
+225, , Roenis Elias, , Vinnie Pasquantino, 71, 47, 19, 3," In play, out(s)", Curveball, 77.7, 2528, 50, ↓, 15, ←
+226, , Roenis Elias, , Vinnie Pasquantino, 70, 46, 19, 3, Swinging Strike, Curveball, 77.0, 2466, 56, ↓, 19, ←
+227, , Roenis Elias, , Vinnie Pasquantino, 69, 45, 19, 3, Ball, Curveball, 78.4, 2414, 51, ↓, 11, ←
+228, , Roenis Elias, , Vinnie Pasquantino, 68, 44, 19, 3, Called Strike, Changeup, 86.3, 1967, 25, ↓, 14, →
+229, , Roenis Elias, , Vinnie Pasquantino, 67, 43, 19, 3, Ball, 4-Seam Fastball, 92.1, 2353, 20, ↓, 13, →
+230, , Roenis Elias, , John Valente, 66, 42, 18, 3, Swinging Strike, Changeup, 85.5, 2066, 27, ↓, 15, →
+231, , Roenis Elias, , John Valente, 65, 41, 18, 3, Foul, Curveball, 77.1, 2634, 59, ↓, 16, ←
+232, , Roenis Elias, , John Valente, 64, 40, 18, 3, Foul, Sinker, 92.1, 2326, 19, ↓, 17, →
+233, , Roenis Elias, , John Valente, 63, 39, 18, 3, Swinging Strike, 4-Seam Fastball, 93.1, 2377, 14, ↓, 13, →
+234, , Roenis Elias, , Sal Frelick, 62, 38, 17, 3," In play, out(s)", 4-Seam Fastball, 93.1, 2353, 12, ↓, 12, →
+235, , Roenis Elias, , Miles Mastrobuoni, 61, 37, 16, 3," In play, no out", 4-Seam Fastball, 93.1, 2323, 15, ↓, 11, →
+236, , Roenis Elias, , Miles Mastrobuoni, 60, 36, 16, 3, Called Strike, 4-Seam Fastball, 90.5, 2277, 21, ↓, 13, →
+237, , Matt Harvey, , Lorenzo Quintana, 59, 24, 15, 2," In play, out(s)", Sinker, 89.0, 2281, 19, ↓, 15, ←
+238, , Matt Harvey, , Lorenzo Quintana, 58, 23, 15, 2, Foul, Curveball, 78.3, 2415, 50, ↓, 1, →
+239, , Matt Harvey, , Erisbel Arruebarrena, 57, 22, 14, 2, Ball, Slider, 84.9, 2391, 29, ↓, 3, →
+240, , Matt Harvey, , Erisbel Arruebarrena, 56, 21, 14, 2, Ball, Slider, 83.6, 2397, 30, ↓, 2, →
+241, , Matt Harvey, , Erisbel Arruebarrena, 55, 20, 14, 2, Ball, Curveball, 79.4, 2661, 46, ↓, 14, →
+242, , Matt Harvey, , Erisbel Arruebarrena, 54, 19, 14, 2, Ball, Sinker, 89.4, 2144, 20, ↓, 14, ←
+243, , Matt Harvey, , Erisbel Arruebarrena, 53, 18, 14, 2, Swinging Strike, Curveball, 78.5, 2514, 53, ↓, 10, →
+244, , Matt Harvey, , Erisbel Arruebarrena, 52, 17, 14, 2, Foul, Sinker, 89.9, 2133, 22, ↓, 12, ←
+245, , Matt Harvey, , Yoenis Cespedes, 51, 16, 13, 2," In play, out(s)", Curveball, 77.6, 2599, 50, ↓, 5, →
+246, , Matt Harvey, , Yoenis Cespedes, 50, 15, 13, 2, Foul, Cutter, 86.1, 2377, 28, ↓, 4, ←
+247, , Matt Harvey, , Yoenis Cespedes, 49, 14, 13, 2, Ball, Sinker, 88.5, 2153, 25, ↓, 18, ←
+248, , Matt Harvey, , Yoenis Cespedes, 48, 13, 13, 2, Called Strike, Cutter, 86.1, 2401, 29, ↓, 3, ←
+249, , Matt Harvey, , Alfredo Despaigne, 47, 12, 12, 2," In play, out(s)", Sinker, 88.5, 2094, 23, ↓, 16, ←
+250, , Matt Harvey, , Alfredo Despaigne, 46, 11, 12, 2, Ball, Changeup, 83.4, 1762, 29, ↓, 18, ←
+251, , Matt Harvey, , Alfredo Despaigne, 45, 10, 12, 2, Called Strike, Sinker, 88.3, 2254, 23, ↓, 14, ←
+252, , Roenis Elias, , Ben DeLuzio, 44, 35, 11, 2," In play, out(s)", 4-Seam Fastball, 92.7, 2247, 14, ↓, 12, →
+253, , Roenis Elias, , Ben DeLuzio, 43, 34, 11, 2, Ball In Dirt, Changeup, 87.3, 1990, 26, ↓, 20, →
+254, , Roenis Elias, , Ben DeLuzio, 42, 33, 11, 2, Ball In Dirt, Changeup, 87.1, 2022, 26, ↓, 20, →
+255, , Roenis Elias, , Nicky Lopez, 41, 32, 10, 2," In play, out(s)", 4-Seam Fastball, 92.6, 2231, 14, ↓, 10, →
+256, , Roenis Elias, , Nicky Lopez, 40, 31, 10, 2, Called Strike, 4-Seam Fastball, 92.7, 2266, 14, ↓, 10, →
+257, , Roenis Elias, , Nicky Lopez, 39, 30, 10, 2, Foul, 4-Seam Fastball, 91.8, 2265, 17, ↓, 9, →
+258, , Roenis Elias, , David Fletcher, 38, 29, 9, 2," In play, no out", 4-Seam Fastball, 92.8, 2341, 15, ↓, 9, →
+259, , Roenis Elias, , Brett Sullivan, 37, 28, 8, 2," In play, out(s)", Curveball, 77.9, 2574, 51, ↓, 14, ←
+260, , Roenis Elias, , Brett Sullivan, 36, 27, 8, 2, Foul, 4-Seam Fastball, 92.3, 2358, 16, ↓, 9, →
+261, , Roenis Elias, , Brett Sullivan, 35, 26, 8, 2, Foul, Changeup, 84.6, 1968, 31, ↓, 21, →
+262, , Roenis Elias, , Brett Sullivan, 34, 25, 8, 2, Foul, Curveball, 77.9, 2546, 52, ↓, 17, ←
+263, , Roenis Elias, , Brett Sullivan, 33, 24, 8, 2, Foul, 4-Seam Fastball, 93.4, 2384, 14, ↓, 9, →
+264, , Roenis Elias, , Brett Sullivan, 32, 23, 8, 2, Foul, 4-Seam Fastball, 93.2, 2339, 14, ↓, 9, →
+265, , Roenis Elias, , Brett Sullivan, 31, 22, 8, 2, Called Strike, 4-Seam Fastball, 92.8, 2378, 13, ↓, 7, →
+266, , Matt Harvey, , Luis Robert Jr., 30, 9, 7, 1," In play, out(s)", 4-Seam Fastball, 89.8, 2233, 19, ↓, 12, ←
+267, , Matt Harvey, , Luis Robert Jr., 29, 8, 7, 1, Called Strike, Cutter, 86.4, 2412, 26, ↓, 7, ←
+268, , Matt Harvey, , Yoan Moncada, 28, 7, 6, 1," In play, out(s)", Sinker, 88.9, 2317, 20, ↓, 17, ←
+269, , Matt Harvey, , Yoan Moncada, 27, 6, 6, 1, Ball, Cutter, 86.1, 2391, 26, ↓, 4, ←
+270, , Matt Harvey, , Yoan Moncada, 26, 5, 6, 1, Foul, Sinker, 89.2, 2288, 20, ↓, 14, ←
+271, , Matt Harvey, , Yoelkis Guibert, 25, 4, 5, 1," In play, out(s)", 4-Seam Fastball, 87.8, 2069, 21, ↓, 11, ←
+272, , Matt Harvey, , Yoelkis Guibert, 24, 3, 5, 1, Ball, Slider, 85.3, 2316, 31, ↓, 3, ←
+273, , Matt Harvey, , Yoelkis Guibert, 23, 2, 5, 1, Called Strike, 4-Seam Fastball, 88.5, 2134, 21, ↓, 11, ←
+274, , Matt Harvey, , Yoelkis Guibert, 22, 1, 5, 1, Ball, Sinker, 89.2, 2223, 23, ↓, 14, ←
+275, , Roenis Elias, , Dominic Fletcher, 21, 21, 4, 1," In play, out(s)", 4-Seam Fastball, 92.5, 2263, 15, ↓, 10, →
+276, , Roenis Elias, , Dominic Fletcher, 20, 20, 4, 1, Ball, Changeup, 86.2, 2065, 27, ↓, 17, →
+277, , Roenis Elias, , Dominic Fletcher, 19, 19, 4, 1, Ball, 4-Seam Fastball, 92.1, 2257, 17, ↓, 8, →
+278, , Roenis Elias, , Dominic Fletcher, 18, 18, 4, 1, Ball, 4-Seam Fastball, 91.6, 2213, 20, ↓, 5, →
+279, , Roenis Elias, , Dominic Fletcher, 17, 17, 4, 1, Called Strike, Changeup, 84.8, 1974, 30, ↓, 20, →
+280, , Roenis Elias, , Dominic Fletcher, 16, 16, 4, 1, Foul, 4-Seam Fastball, 92.4, 2272, 15, ↓, 11, →
+281, , Roenis Elias, , Vinnie Pasquantino, 15, 15, 3, 1, Ball, Curveball, 77.3, 2320, 53, ↓, 15, ←
+282, , Roenis Elias, , Vinnie Pasquantino, 14, 14, 3, 1, Foul, 4-Seam Fastball, 92.8, 2347, 14, ↓, 8, →
+283, , Roenis Elias, , Vinnie Pasquantino, 13, 13, 3, 1, Ball, Changeup, 85.3, 1953, 26, ↓, 19, →
+284, , Roenis Elias, , Vinnie Pasquantino, 12, 12, 3, 1, Foul, 4-Seam Fastball, 92.9, 2255, 17, ↓, 8, →
+285, , Roenis Elias, , Vinnie Pasquantino, 11, 11, 3, 1, Ball, 4-Seam Fastball, 91.2, 2235, 22, ↓, 11, →
+286, , Roenis Elias, , Vinnie Pasquantino, 10, 10, 3, 1, Ball, 4-Seam Fastball, 92.3, 2295, 16, ↓, 8, →
+287, , Roenis Elias, , Vinnie Pasquantino, 9, 9, 3, 1, Foul, Changeup, 85.4, 1746, 26, ↓, 17, →
+288, , Roenis Elias, , John Valente, 8, 8, 2, 1, Swinging Strike, Changeup, 85.2, 1928, 32, ↓, 16, →
+289, , Roenis Elias, , John Valente, 7, 7, 2, 1, Ball, Changeup, 86.4, 2042, 26, ↓, 17, →
+290, , Roenis Elias, , John Valente, 6, 6, 2, 1, Foul, 4-Seam Fastball, 93.0, 2316, 14, ↓, 8, →
+291, , Roenis Elias, , John Valente, 5, 5, 2, 1, Foul, 4-Seam Fastball, 93.2, 2401, 15, ↓, 9, →
+292, , Roenis Elias, , John Valente, 4, 4, 2, 1, Called Strike, 4-Seam Fastball, 93.3, 2355, 16, ↓, 9, →
+293, , Roenis Elias, , Sal Frelick, 3, 3, 1, 1," In play, out(s)", 4-Seam Fastball, 92.2, 2357, 15, ↓, 10, →
+294, , Roenis Elias, , Sal Frelick, 2, 2, 1, 1, Ball, 4-Seam Fastball, 92.5, 2264, 15, ↓, 9, →
+295, , Roenis Elias, , Sal Frelick, 1, 1, 1, 1, Ball, 4-Seam Fastball, 92.3, 2294, 17, ↓, 7, →

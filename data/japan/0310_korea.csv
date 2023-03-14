@@ -1,0 +1,330 @@
+,Statcast Metrics
+Rk.,,Pitcher,,Batter,Game Pitch #,Pitch,PA,Inning,Result,Pitch Type,Pitch Vel  (MPH),Spin (RPM),VBreak (In.)Vertical Break (Inches),,HBreak (In.)Horizontal Break (Inches),
+1, , Hiroto Takahashi, , Euiji Yang, 328, 12, 80, 9," In play, out(s)", 4-Seam Fastball, 97.0, 2070, 15, ↓, 9, ←
+2, , Hiroto Takahashi, , Euiji Yang, 327, 11, 80, 9, Ball, Sinker, 96.8, 1990, 18, ↓, 13, ←
+3, , Hiroto Takahashi, , Euiji Yang, 326, 10, 80, 9, Foul, 4-Seam Fastball, 97.3, 2126, 14, ↓, 10, ←
+4, , Hiroto Takahashi, , Euiji Yang, 325, 9, 80, 9, Foul, 4-Seam Fastball, 97.3, 2143, 12, ↓, 8, ←
+5, , Hiroto Takahashi, , Baekho Kang, 324, 8, 79, 9," In play, out(s)", Sinker, 96.6, 2083, 17, ↓, 11, ←
+6, , Hiroto Takahashi, , Baekho Kang, 323, 7, 79, 9, Ball, Sinker, 88.6, 1269, 35, ↓, 11, ←
+7, , Hiroto Takahashi, , Baekho Kang, 322, 6, 79, 9, Ball, Sinker, 97.3, 2076, 16, ↓, 12, ←
+8, , Hiroto Takahashi, , Kunwoo Park, 321, 5, 78, 9, Swinging Strike, Sinker, 90.4, 1557, 29, ↓, 11, ←
+9, , Hiroto Takahashi, , Kunwoo Park, 320, 4, 78, 9, Ball, Sinker, 90.9, 1303, 27, ↓, 10, ←
+10, , Hiroto Takahashi, , Kunwoo Park, 319, 3, 78, 9, Ball, 4-Seam Fastball, 97.1, 2170, 12, ↓, 8, ←
+11, , Hiroto Takahashi, , Kunwoo Park, 318, 2, 78, 9, Swinging Strike, Sinker, 89.9, 1338, 28, ↓, 9, ←
+12, , Hiroto Takahashi, , Kunwoo Park, 317, 1, 78, 9, Foul, Sinker, 96.4, 2076, 16, ↓, 13, ←
+13, , Se Woong Park, , Takumi Ohshiro, 316, 11, 77, 8, Swinging Strike, Curveball, 79.9, 2440, 58, ↓, 7, →
+14, , Se Woong Park, , Takumi Ohshiro, 315, 10, 77, 8, Called Strike, Curveball, 78.6, 2540, 61, ↓, 10, →
+15, , Se Woong Park, , Takumi Ohshiro, 314, 9, 77, 8, Ball, Slider, 84.1, 3141, 37, ↓, 4, ←
+16, , Se Woong Park, , Takumi Ohshiro, 313, 8, 77, 8, Called Strike, 4-Seam Fastball, 92.8, 2217, 19, ↓, 7, ←
+17, , Se Woong Park, , Takumu Nakano, 312, 7, 76, 8," In play, out(s)", Cutter, 85.6, 2267, 35, ↓, 5, →
+18, , Se Woong Park, , Takumu Nakano, 311, 6, 76, 8, Ball, Changeup, 83.6, 1139, 35, ↓, 14, ←
+19, , Se Woong Park, , Takumu Nakano, 310, 5, 76, 8, Called Strike, Cutter, 85.5, 2270, 34, ↓, 4, →
+20, , Se Woong Park, , Shugo Maki, 309, 4, 75, 8," In play, out(s)", Curveball, 75.8, 2389, 65, ↓, 9, →
+21, , Se Woong Park, , Shugo Maki, 308, 3, 75, 8, Called Strike, Cutter, 85.1, 2221, 34, ↓, 6, →
+22, , Yuki Matsui, , Hyun Soo Kim, 307, 23, 74, 8, Swinging Strike, Changeup, 87.3, 1531, 30, ↓, 9, →
+23, , Yuki Matsui, , Hyun Soo Kim, 306, 22, 74, 8, Foul, 4-Seam Fastball, 92.0, 2445, 13, ↓, 4, →
+24, , Yuki Matsui, , Hyun Soo Kim, 305, 21, 74, 8, Foul, Changeup, 87.7, 1291, 31, ↓, 12, →
+25, , Yuki Matsui, , Hyun Soo Kim, 304, 20, 74, 8, Foul, 4-Seam Fastball, 91.9, 2595, 13, ↓, 2, →
+26, , Yuki Matsui, , Hyun Soo Kim, 303, 19, 74, 8, Ball, 4-Seam Fastball, 90.5, 2461, 13, ↓, 6, →
+27, , Yuki Matsui, , Hyun Soo Kim, 302, 18, 74, 8, Swinging Strike, 4-Seam Fastball, 92.2, 2561, 11, ↓, 5, →
+28, , Yuki Matsui, , Hyun Soo Kim, 301, 17, 74, 8, Ball, Slider, 84.6, 2842, 37, ↓, 7, ←
+29, , Yuki Matsui, , Hae-Min Park, 300, 16, 73, 8," In play, out(s)", Slider, 81.1, 2863, 50, ↓, 3, ←
+30, , Yuki Matsui, , Hae-Min Park, 299, 15, 73, 8, Foul, 4-Seam Fastball, 92.6, 2465, 10, ↓, 4, →
+31, , Yuki Matsui, , Hae-Min Park, 298, 14, 73, 8, Foul, 4-Seam Fastball, 91.3, 2373, 14, ↓, 2, →
+32, , Yuki Matsui, , Hae-Min Park, 297, 13, 73, 8, Foul, Changeup, 87.9, 1584, 33, ↓, 14, →
+33, , Yuki Matsui, , Hae-Min Park, 296, 12, 73, 8, Foul, Changeup, 88.1, 1348, 32, ↓, 9, →
+34, , Yuki Matsui, , Hae-Min Park, 295, 11, 73, 8, Foul, 4-Seam Fastball, 91.1, 2373, 15, ↓, 3, →
+35, , Yuki Matsui, , Hae-Min Park, 294, 10, 73, 8, Swinging Strike, 4-Seam Fastball, 90.7, 2419, 14, ↓, 3, →
+36, , Yuki Matsui, , Hae-Min Park, 293, 9, 73, 8, Called Strike, 4-Seam Fastball, 91.9, 2457, 14, ↓, 3, →
+37, , Yuki Matsui, , Hae-Min Park, 292, 8, 73, 8, Ball, 4-Seam Fastball, 92.4, 2496, 14, ↓, 3, →
+38, , Yuki Matsui, , Hae-Min Park, 291, 7, 73, 8, Ball, Curveball, 74.0, 2559, 71, ↓, 5, ←
+39, , Yuki Matsui, , Jung Hoo Lee, 290, 6, 72, 8," In play, out(s)", 4-Seam Fastball, 93.1, 2444, 14, ↓, 6, →
+40, , Yuki Matsui, , Jung Hoo Lee, 289, 5, 72, 8, Ball, Changeup, 88.3, 1477, 25, ↓, 16, →
+41, , Yuki Matsui, , Jung Hoo Lee, 288, 4, 72, 8, Foul, 4-Seam Fastball, 91.8, 2574, 11, ↓, 2, →
+42, , Yuki Matsui, , Jung Hoo Lee, 287, 3, 72, 8, Called Strike, 4-Seam Fastball, 89.9, 2425, 12, ↓, 6, →
+43, , Yuki Matsui, , Jung Hoo Lee, 286, 2, 72, 8, Ball, 4-Seam Fastball, 91.8, 2470, 11, ↓, 3, →
+44, , Yuki Matsui, , Jung Hoo Lee, 285, 1, 72, 8, Ball, 4-Seam Fastball, 91.6, 2498, 11, ↓, 4, →
+45, , Se Woong Park, , Kazuma Okamoto, 284, 2, 71, 7," In play, out(s)", 4-Seam Fastball, 93.0, 2130, 17, ↓, 10, ←
+46, , Se Woong Park, , Kazuma Okamoto, 283, 1, 71, 7, Called Strike, Cutter, 86.8, 2426, 31, ↓, 5, →
+47, , Eui Lee Lee, , Masataka Yoshida, 282, 22, 70, 7, Ball, 4-Seam Fastball, 94.6, 2240, 13, ↓, 0, 
+48, , Eui Lee Lee, , Masataka Yoshida, 281, 21, 70, 7, Ball, 4-Seam Fastball, 94.5, 2221, 13, ↓, 4, →
+49, , Eui Lee Lee, , Masataka Yoshida, 280, 20, 70, 7, Called Strike, 4-Seam Fastball, 93.9, 2163, 16, ↓, 1, →
+50, , Eui Lee Lee, , Masataka Yoshida, 279, 19, 70, 7, Ball, 4-Seam Fastball, 94.8, 2078, 13, ↓, 5, →
+51, , Eui Lee Lee, , Masataka Yoshida, 278, 18, 70, 7, Ball, 4-Seam Fastball, 94.8, 2003, 15, ↓, 2, →
+52, , Eui Lee Lee, , Munetaka Murakami, 277, 17, 69, 7, Called Strike, 4-Seam Fastball, 94.8, 2101, 16, ↓, 2, →
+53, , Eui Lee Lee, , Munetaka Murakami, 276, 16, 69, 7, Ball, Slider, 86.0, 2804, 37, ↓, 1, ←
+54, , Eui Lee Lee, , Munetaka Murakami, 275, 15, 69, 7, Ball, 4-Seam Fastball, 95.4, 1874, 15, ↓, 3, →
+55, , Eui Lee Lee, , Munetaka Murakami, 274, 14, 69, 7, Ball, 4-Seam Fastball, 95.8, 2124, 13, ↓, 4, →
+56, , Eui Lee Lee, , Munetaka Murakami, 273, 13, 69, 7, Foul, 4-Seam Fastball, 94.9, 2168, 13, ↓, 6, →
+57, , Eui Lee Lee, , Munetaka Murakami, 272, 12, 69, 7, Called Strike, 4-Seam Fastball, 96.3, 2267, 12, ↓, 5, →
+58, , Eui Lee Lee, , Shohei Ohtani, 271, 11, 68, 7, Ball, 4-Seam Fastball, 95.0, 2086, 12, ↓, 5, →
+59, , Eui Lee Lee, , Shohei Ohtani, 270, 10, 68, 7, Ball, Curveball, 80.6, 3128, 61, ↓, 3, ←
+60, , Eui Lee Lee, , Shohei Ohtani, 269, 9, 68, 7, Foul, 4-Seam Fastball, 95.9, 2272, 12, ↓, 5, →
+61, , Eui Lee Lee, , Shohei Ohtani, 268, 8, 68, 7, Swinging Strike, 4-Seam Fastball, 94.5, 2138, 15, ↓, 2, →
+62, , Eui Lee Lee, , Shohei Ohtani, 267, 7, 68, 7, Ball, 4-Seam Fastball, 95.0, 2300, 13, ↓, 2, →
+63, , Eui Lee Lee, , Shohei Ohtani, 266, 6, 68, 7, Ball, 4-Seam Fastball, 95.6, 2151, 13, ↓, 2, →
+64, , Eui Lee Lee, , Kensuke Kondoh, 265, 5, 67, 7, Ball, 4-Seam Fastball, 95.5, 2112, 13, ↓, 5, →
+65, , Eui Lee Lee, , Kensuke Kondoh, 264, 4, 67, 7, Ball In Dirt, 4-Seam Fastball, 96.4, 2278, 8, ↓, 6, →
+66, , Eui Lee Lee, , Kensuke Kondoh, 263, 3, 67, 7, Ball In Dirt, Slider, 85.5, 2736, 39, ↓, 1, ←
+67, , Eui Lee Lee, , Kensuke Kondoh, 262, 2, 67, 7, Ball, 4-Seam Fastball, 95.6, 2158, 12, ↓, 2, →
+68, , Eui Lee Lee, , Kensuke Kondoh, 261, 1, 67, 7, Called Strike, 4-Seam Fastball, 95.9, 2235, 10, ↓, 7, →
+69, , Chang Mo Koo, , Lars Nootbaar, 260, 10, 66, 7," In play, no out", Slider, 83.0, 1984, 34, ↓, 2, ←
+70, , Chang Mo Koo, , Lars Nootbaar, 259, 9, 66, 7, Ball, Sinker, 89.8, 1937, 17, ↓, 12, →
+71, , Chang Mo Koo, , Lars Nootbaar, 258, 8, 66, 7, Foul, 4-Seam Fastball, 89.6, 2024, 17, ↓, 8, →
+72, , Chang Mo Koo, , Lars Nootbaar, 257, 7, 66, 7, Ball, Slider, 82.7, 2071, 35, ↓, 1, ←
+73, , Chang Mo Koo, , Yuhei Nakamura, 256, 6, 65, 7," In play, out(s)", Slider, 83.5, 2021, 31, ↓, 1, ←
+74, , Chang Mo Koo, , Yuhei Nakamura, 255, 5, 65, 7, Foul, 4-Seam Fastball, 89.4, 1992, 16, ↓, 9, →
+75, , Chang Mo Koo, , Yuhei Nakamura, 254, 4, 65, 7, Ball, Changeup, 82.9, 1433, 36, ↓, 10, →
+76, , Chang Mo Koo, , Yuhei Nakamura, 253, 3, 65, 7, Ball, 4-Seam Fastball, 90.6, 1976, 15, ↓, 9, →
+77, , Chang Mo Koo, , Yuhei Nakamura, 252, 2, 65, 7, Called Strike, Changeup, 90.4, 1872, 18, ↓, 10, →
+78, , Chang Mo Koo, , Takumu Nakano, 251, 1, 64, 7," In play, no out", Sinker, 89.6, 1913, 17, ↓, 13, →
+79, , Yuki  Udagawa, , Ha-Seong Kim, 250, 11, 63, 7, Swinging Strike, Splitter, 86.5, 944, 37, ↓, 5, ←
+80, , Yuki  Udagawa, , Ha-Seong Kim, 249, 10, 63, 7, Ball, 4-Seam Fastball, 95.4, 2358, 13, ↓, 8, ←
+81, , Yuki  Udagawa, , Ha-Seong Kim, 248, 9, 63, 7, Foul, 4-Seam Fastball, 93.4, 2251, 13, ↓, 6, ←
+82, , Yuki  Udagawa, , Ha-Seong Kim, 247, 8, 63, 7, Ball, 4-Seam Fastball, 94.9, 2275, 12, ↓, 9, ←
+83, , Yuki  Udagawa, , Ha-Seong Kim, 246, 7, 63, 7, Called Strike, 4-Seam Fastball, 94.0, 2224, 14, ↓, 6, ←
+84, , Yuki  Udagawa, , Tommy Edman, 245, 6, 62, 7," In play, out(s)", 4-Seam Fastball, 93.9, 2272, 13, ↓, 8, ←
+85, , Yuki  Udagawa, , Tommy Edman, 244, 5, 62, 7, Ball, Splitter, 85.1, 1002, 39, ↓, 2, →
+86, , Yuki  Udagawa, , Jeong Choi, 243, 4, 61, 7, Called Strike, Slider, 84.2, 1493, 40, ↓, 5, ←
+87, , Yuki  Udagawa, , Jeong Choi, 242, 3, 61, 7, Called Strike, Splitter, 86.8, 870, 29, ↓, 2, ←
+88, , Yuki  Udagawa, , Jeong Choi, 241, 2, 61, 7, Foul, 4-Seam Fastball, 93.4, 2261, 12, ↓, 5, ←
+89, , Yuki  Udagawa, , Jeong Choi, 240, 1, 61, 7, Ball, 4-Seam Fastball, 94.1, 2270, 10, ↓, 7, ←
+90, , Wooyoung Jung, , Shugo Maki, 239, 7, 60, 6," In play, out(s)", Slider, 86.4, 2293, 35, ↓, 3, ←
+91, , Wooyoung Jung, , Shugo Maki, 238, 6, 60, 6, Swinging Strike, Sinker, 90.9, 2065, 35, ↓, 17, ←
+92, , Wooyoung Jung, , Shugo Maki, 237, 5, 60, 6, Ball, Sinker, 91.9, 2057, 33, ↓, 18, ←
+93, , Wooyoung Jung, , Kazuma Okamoto, 236, 4, 59, 6," In play, run(s)", Sinker, 92.0, 2008, 34, ↓, 16, ←
+94, , Wooyoung Jung, , Kazuma Okamoto, 235, 3, 59, 6, Foul, Sinker, 90.6, 2014, 36, ↓, 17, ←
+95, , Wooyoung Jung, , Kazuma Okamoto, 234, 2, 59, 6, Ball, Sinker, 91.2, 2011, 37, ↓, 18, ←
+96, , Wooyoung Jung, , Kazuma Okamoto, 233, 1, 59, 6, Foul, Sinker, 91.7, 1984, 35, ↓, 16, ←
+97, , Won Jung Kim, , Masataka Yoshida, 232, 6, 58, 6," In play, run(s)", Sinker, 90.9, 2359, 16, ↓, 14, ←
+98, , Won Jung Kim, , Masataka Yoshida, 231, 5, 58, 6, Ball, Curveball, 72.9, 2159, 65, ↓, 6, →
+99, , Won Jung Kim, , Munetaka Murakami, 230, 4, 57, 6," In play, run(s)", Sinker, 90.9, 2384, 16, ↓, 13, ←
+100, , Won Jung Kim, , Munetaka Murakami, 229, 3, 57, 6, Swinging Strike, Slider, 82.4, 1148, 38, ↓, 6, ←
+101, , Won Jung Kim, , Munetaka Murakami, 228, 2, 57, 6, Called Strike, 4-Seam Fastball, 91.1, 2363, 17, ↓, 12, ←
+102, , Won Jung Kim, , Shohei Ohtani, 227, 1, 56, 6," In play, run(s)", Changeup, 80.5, 1087, 43, ↓, 8, ←
+103, , Yun Sik Kim, , Kensuke Kondoh, 226, 15, 55, 6, Ball, 4-Seam Fastball, 89.0, 2173, 19, ↓, 9, →
+104, , Yun Sik Kim, , Kensuke Kondoh, 225, 14, 55, 6, Called Strike, Changeup, 87.1, 2083, 26, ↓, 11, →
+105, , Yun Sik Kim, , Kensuke Kondoh, 224, 13, 55, 6, Called Strike, Changeup, 87.7, 2071, 21, ↓, 10, →
+106, , Yun Sik Kim, , Kensuke Kondoh, 223, 12, 55, 6, Ball, Changeup, 88.9, 2218, 22, ↓, 11, →
+107, , Yun Sik Kim, , Kensuke Kondoh, 222, 11, 55, 6, Ball, 4-Seam Fastball, 89.2, 2222, 20, ↓, 7, →
+108, , Yun Sik Kim, , Kensuke Kondoh, 221, 10, 55, 6, Ball, Slider, 81.3, 2336, 39, ↓, 0, 
+109, , Yun Sik Kim, , Lars Nootbaar, 220, 9, 54, 6, Hit By Pitch, 4-Seam Fastball, 88.2, 2155, 20, ↓, 8, →
+110, , Yun Sik Kim, , Lars Nootbaar, 219, 8, 54, 6, Ball, Slider, 80.5, 2304, 42, ↓, 1, →
+111, , Yun Sik Kim, , Yuhei Nakamura, 218, 7, 53, 6, Ball, Slider, 73.3, 1146, 41, ↓, 1, →
+112, , Yun Sik Kim, , Yuhei Nakamura, 217, 6, 53, 6, Foul, Changeup, 75.4, 1082, 43, ↓, 9, →
+113, , Yun Sik Kim, , Yuhei Nakamura, 216, 5, 53, 6, Foul, 4-Seam Fastball, 89.2, 2191, 20, ↓, 9, →
+114, , Yun Sik Kim, , Yuhei Nakamura, 215, 4, 53, 6, Foul, Changeup, 88.8, 2221, 20, ↓, 10, →
+115, , Yun Sik Kim, , Yuhei Nakamura, 214, 3, 53, 6, Ball In Dirt, Slider, 74.1, 1113, 40, ↓, 4, →
+116, , Yun Sik Kim, , Yuhei Nakamura, 213, 2, 53, 6, Ball, 4-Seam Fastball, 89.3, 2152, 20, ↓, 9, →
+117, , Yun Sik Kim, , Yuhei Nakamura, 212, 1, 53, 6, Ball In Dirt, Slider, 83.3, 2143, 41, ↓, 1, ←
+118, , Cheol Wong Jeong, , Takumu Nakano, 211, 14, 52, 6," In play, no out", 4-Seam Fastball, 91.1, 2125, 18, ↓, 9, ←
+119, , Cheol Wong Jeong, , Takumu Nakano, 210, 13, 52, 6, Foul, 4-Seam Fastball, 92.4, 2229, 17, ↓, 11, ←
+120, , Cheol Wong Jeong, , Takumu Nakano, 209, 12, 52, 6, Foul, 4-Seam Fastball, 92.4, 2264, 15, ↓, 9, ←
+121, , Cheol Wong Jeong, , Takumu Nakano, 208, 11, 52, 6, Ball, 4-Seam Fastball, 92.3, 2089, 18, ↓, 8, ←
+122, , Cheol Wong Jeong, , Takumu Nakano, 207, 10, 52, 6, Foul, 4-Seam Fastball, 91.9, 2166, 19, ↓, 10, ←
+123, , Cheol Wong Jeong, , Takumu Nakano, 206, 9, 52, 6, Foul, 4-Seam Fastball, 91.5, 2149, 17, ↓, 9, ←
+124, , Cheol Wong Jeong, , Takumu Nakano, 205, 8, 52, 6, Called Strike, Curveball, 80.5, 2009, 46, ↓, 1, →
+125, , Cheol Wong Jeong, , Takumu Nakano, 204, 7, 52, 6, Ball, Slider, 81.2, 2620, 41, ↓, 3, ←
+126, , Cheol Wong Jeong, , Takumu Nakano, 203, 6, 52, 6, Called Strike, 4-Seam Fastball, 92.5, 2051, 15, ↓, 8, ←
+127, , Shota Imanaga, , Euiji Yang, 202, 48, 51, 6," In play, out(s)", Splitter, 84.0, 1101, 36, ↓, 0, 
+128, , Shota Imanaga, , Euiji Yang, 201, 47, 51, 6, Ball, 4-Seam Fastball, 94.5, 2592, 10, ↓, 8, →
+129, , Shota Imanaga, , Euiji Yang, 200, 46, 51, 6, Foul, Splitter, 85.1, 1034, 30, ↓, 6, →
+130, , Shota Imanaga, , Euiji Yang, 199, 45, 51, 6, Ball, 4-Seam Fastball, 94.3, 2510, 13, ↓, 9, →
+131, , Shota Imanaga, , Euiji Yang, 198, 44, 51, 6, Foul, Splitter, 84.3, 1232, 35, ↓, 1, →
+132, , Shota Imanaga, , Euiji Yang, 197, 43, 51, 6, Swinging Strike, Splitter, 83.9, 1137, 33, ↓, 5, →
+133, , Shota Imanaga, , Euiji Yang, 196, 42, 51, 6, Called Strike, Splitter, 83.4, 972, 37, ↓, 3, →
+134, , Shota Imanaga, , Baekho Kang, 195, 41, 50, 6, Swinging Strike, Slider, 85.1, 2566, 36, ↓, 11, ←
+135, , Shota Imanaga, , Baekho Kang, 194, 40, 50, 6, Called Strike, 4-Seam Fastball, 94.9, 2443, 11, ↓, 9, →
+136, , Shota Imanaga, , Baekho Kang, 193, 39, 50, 6, Foul, 4-Seam Fastball, 93.6, , 10, ↓, 9, →
+137, , Shota Imanaga, , Baekho Kang, 192, 38, 50, 6, Ball, Slider, 84.1, 2530, 37, ↓, 0, 
+138, , Shota Imanaga, , Kunwoo Park, 191, 37, 49, 6," In play, run(s)", 4-Seam Fastball, 95.6, 2616, 9, ↓, 8, →
+139, , Shota Imanaga, , Kunwoo Park, 190, 36, 49, 6, Ball, Splitter, 85.2, 1098, 29, ↓, 6, →
+140, , Shota Imanaga, , Kunwoo Park, 189, 35, 49, 6, Swinging Strike, 4-Seam Fastball, 95.0, 2605, 11, ↓, 9, →
+141, , Shota Imanaga, , Kunwoo Park, 188, 34, 49, 6, Swinging Strike, Slider, 83.9, 2487, 34, ↓, 2, ←
+142, , Shota Imanaga, , Hyun Soo Kim, 187, 33, 48, 6," In play, out(s)", 4-Seam Fastball, 94.8, 2523, 12, ↓, 9, →
+143, , Shota Imanaga, , Hyun Soo Kim, 186, 32, 48, 6, Foul, 4-Seam Fastball, 95.1, 2555, 8, ↓, 8, →
+144, , Shota Imanaga, , Hyun Soo Kim, 185, 31, 48, 6, Foul, 4-Seam Fastball, 94.8, 2645, 10, ↓, 10, →
+145, , Shota Imanaga, , Hyun Soo Kim, 184, 30, 48, 6, Ball, 4-Seam Fastball, 94.6, 2614, 9, ↓, 9, →
+146, , Shota Imanaga, , Hyun Soo Kim, 183, 29, 48, 6, Ball, Slider, 82.9, 2638, 40, ↓, 10, ←
+147, , Shota Imanaga, , Hyun Soo Kim, 182, 28, 48, 6, Ball, Slider, 83.5, 2738, 37, ↓, 9, ←
+148, , Shota Imanaga, , Hyun Soo Kim, 181, 27, 48, 6, Swinging Strike, Slider, 83.5, 2545, 36, ↓, 6, ←
+149, , Shota Imanaga, , Hyun Soo Kim, 180, 26, 48, 6, Called Strike, Slider, 81.0, 2653, 38, ↓, 5, ←
+150, , Cheol Wong Jeong, , Shugo Maki, 179, 5, 47, 5," In play, out(s)", Changeup, 82.6, 2381, 35, ↓, 8, ←
+151, , Cheol Wong Jeong, , Shugo Maki, 178, 4, 47, 5, Ball, 4-Seam Fastball, 92.1, 2172, 12, ↓, 9, ←
+152, , Cheol Wong Jeong, , Shugo Maki, 177, 3, 47, 5, Swinging Strike, Slider, 82.6, 2211, 42, ↓, 1, ←
+153, , Cheol Wong Jeong, , Shugo Maki, 176, 2, 47, 5, Called Strike, 4-Seam Fastball, 92.4, 2237, 16, ↓, 8, ←
+154, , Cheol Wong Jeong, , Shugo Maki, 175, 1, 47, 5, Ball In Dirt, Slider, 81.0, 2159, 42, ↓, 0, 
+155, , Been Gwak, , Kazuma Okamoto, 174, 13, 46, 5," In play, no out", Curveball, 73.7, 2447, 66, ↓, 9, →
+156, , Been Gwak, , Kazuma Okamoto, 173, 12, 46, 5, Ball, Curveball, 75.0, 2570, 65, ↓, 7, →
+157, , Been Gwak, , Kazuma Okamoto, 172, 11, 46, 5, Foul, 4-Seam Fastball, 94.6, 2348, 14, ↓, 12, ←
+158, , Been Gwak, , Masataka Yoshida, 171, 10, 45, 5," In play, run(s)", Sinker, 95.5, 2398, 13, ↓, 13, ←
+159, , Been Gwak, , Masataka Yoshida, 170, 9, 45, 5, Foul, 4-Seam Fastball, 95.5, 2344, 14, ↓, 12, ←
+160, , Been Gwak, , Munetaka Murakami, 169, 8, 44, 5," In play, out(s)", Sinker, 94.5, 2349, 19, ↓, 17, ←
+161, , Been Gwak, , Munetaka Murakami, 168, 7, 44, 5, Foul, 4-Seam Fastball, 95.4, 2364, 13, ↓, 13, ←
+162, , Been Gwak, , Munetaka Murakami, 167, 6, 44, 5, Ball, Cutter, 88.3, 2269, 29, ↓, 2, ←
+163, , Been Gwak, , Munetaka Murakami, 166, 5, 44, 5, Ball, 4-Seam Fastball, 94.8, 2362, 12, ↓, 14, ←
+164, , Been Gwak, , Shohei Ohtani, 165, 4, 43, 5," In play, no out", Cutter, 87.6, 2076, 32, ↓, 2, ←
+165, , Been Gwak, , Shohei Ohtani, 164, 3, 43, 5, Called Strike, Cutter, 87.0, 2171, 33, ↓, 3, ←
+166, , Been Gwak, , Shohei Ohtani, 163, 2, 43, 5, Ball, 4-Seam Fastball, 94.1, 2165, 14, ↓, 12, ←
+167, , Been Gwak, , Shohei Ohtani, 162, 1, 43, 5, Ball, Sinker, 94.0, 2141, 16, ↓, 14, ←
+168, , Tae-in Won, , Kensuke Kondoh, 161, 29, 42, 5," In play, run(s)", Changeup, 78.8, 1681, 34, ↓, 14, ←
+169, , Tae-in Won, , Kensuke Kondoh, 160, 28, 42, 5, Foul, 4-Seam Fastball, 90.5, 1854, 17, ↓, 7, ←
+170, , Tae-in Won, , Kensuke Kondoh, 159, 27, 42, 5, Called Strike, 4-Seam Fastball, 90.6, 2174, 16, ↓, 10, ←
+171, , Tae-in Won, , Kensuke Kondoh, 158, 26, 42, 5, Ball, Changeup, 78.1, 1712, 33, ↓, 14, ←
+172, , Tae-in Won, , Kensuke Kondoh, 157, 25, 42, 5, Ball, 4-Seam Fastball, 90.8, 1888, 17, ↓, 8, ←
+173, , Tae-in Won, , Kensuke Kondoh, 156, 24, 42, 5, Called Strike, Cutter, 85.0, 2141, 28, ↓, 3, →
+174, , Tae-in Won, , Kensuke Kondoh, 155, 23, 42, 5, Ball, 4-Seam Fastball, 90.8, 2049, 14, ↓, 6, ←
+175, , Shota Imanaga, , ByungHo Park, 154, 25, 41, 5," In play, out(s)", Sinker, 94.9, 2643, 9, ↓, 12, →
+176, , Shota Imanaga, , ByungHo Park, 153, 24, 41, 5, Ball, Cutter, 92.9, 2471, 15, ↓, 2, →
+177, , Shota Imanaga, , Jung Hoo Lee, 152, 23, 40, 5," In play, no out", 4-Seam Fastball, 94.9, 2678, 8, ↓, 9, →
+178, , Shota Imanaga, , Jung Hoo Lee, 151, 22, 40, 5, Called Strike, 4-Seam Fastball, 93.5, 2624, 11, ↓, 7, →
+179, , Shota Imanaga, , Jung Hoo Lee, 150, 21, 40, 5, Ball, 4-Seam Fastball, 94.2, 2671, 11, ↓, 7, →
+180, , Shota Imanaga, , Jung Hoo Lee, 149, 20, 40, 5, Ball, Slider, 82.6, 2871, 35, ↓, 5, ←
+181, , Shota Imanaga, , Jung Hoo Lee, 148, 19, 40, 5, Ball, 4-Seam Fastball, 94.4, 2662, 10, ↓, 10, →
+182, , Shota Imanaga, , Ha-Seong Kim, 147, 18, 39, 5," In play, out(s)", Curveball, 73.8, 2510, 66, ↓, 7, ←
+183, , Shota Imanaga, , Tommy Edman, 146, 17, 38, 5, Swinging Strike, Splitter, 85.3, 1187, 33, ↓, 6, →
+184, , Shota Imanaga, , Tommy Edman, 145, 16, 38, 5, Swinging Strike, Splitter, 84.0, 1187, 32, ↓, 3, →
+185, , Shota Imanaga, , Tommy Edman, 144, 15, 38, 5, Called Strike, 4-Seam Fastball, 93.2, 2467, 13, ↓, 8, →
+186, , Shota Imanaga, , Tommy Edman, 143, 14, 38, 5, Ball In Dirt, Cutter, 89.8, 2201, 22, ↓, 3, →
+187, , Shota Imanaga, , Jeong Choi, 142, 13, 37, 5," In play, no out", Sinker, 94.5, 2645, 12, ↓, 12, →
+188, , Shota Imanaga, , Jeong Choi, 141, 12, 37, 5, Called Strike, 4-Seam Fastball, 94.0, 2645, 13, ↓, 9, →
+189, , Tae-in Won, , Lars Nootbaar, 140, 22, 36, 4," In play, out(s)", 4-Seam Fastball, 91.6, 2149, 16, ↓, 7, ←
+190, , Tae-in Won, , Lars Nootbaar, 139, 21, 36, 4, Ball, 4-Seam Fastball, 91.7, 2074, 16, ↓, 10, ←
+191, , Tae-in Won, , Lars Nootbaar, 138, 20, 36, 4, Called Strike, Changeup, 80.8, 1651, 30, ↓, 15, ←
+192, , Tae-in Won, , Lars Nootbaar, 137, 19, 36, 4, Swinging Strike, Changeup, 79.3, 1661, 33, ↓, 14, ←
+193, , Tae-in Won, , Yuhei Nakamura, 136, 18, 35, 4, Swinging Strike, Changeup, 78.9, 1623, 32, ↓, 15, ←
+194, , Tae-in Won, , Yuhei Nakamura, 135, 17, 35, 4, Ball, Cutter, 87.0, 2338, 29, ↓, 3, →
+195, , Tae-in Won, , Yuhei Nakamura, 134, 16, 35, 4, Ball, Changeup, 81.6, 1797, 25, ↓, 16, ←
+196, , Tae-in Won, , Yuhei Nakamura, 133, 15, 35, 4, Called Strike, 4-Seam Fastball, 91.5, 2170, 15, ↓, 9, ←
+197, , Tae-in Won, , Yuhei Nakamura, 132, 14, 35, 4, Called Strike, 4-Seam Fastball, 90.7, 2185, 12, ↓, 9, ←
+198, , Tae-in Won, , Takumu Nakano, 131, 13, 34, 4," In play, out(s)", 4-Seam Fastball, 90.1, 2007, 14, ↓, 9, ←
+199, , Shota Imanaga, , Euiji Yang, 130, 11, 33, 4," In play, out(s)", 4-Seam Fastball, 95.8, 2514, 11, ↓, 10, →
+200, , Shota Imanaga, , Euiji Yang, 129, 10, 33, 4, Foul, 4-Seam Fastball, 96.2, 2636, 8, ↓, 6, →
+201, , Shota Imanaga, , Euiji Yang, 128, 9, 33, 4, Called Strike, Curveball, 73.8, 2430, 64, ↓, 7, ←
+202, , Shota Imanaga, , Baekho Kang, 127, 8, 32, 4, Swinging Strike, 4-Seam Fastball, 95.1, 2559, 9, ↓, 7, →
+203, , Shota Imanaga, , Baekho Kang, 126, 7, 32, 4, Foul, 4-Seam Fastball, 95.6, 2571, 9, ↓, 9, →
+204, , Shota Imanaga, , Baekho Kang, 125, 6, 32, 4, Ball, Slider, 86.1, 2605, 31, ↓, 2, ←
+205, , Shota Imanaga, , Baekho Kang, 124, 5, 32, 4, Ball, 4-Seam Fastball, 95.1, 2505, 11, ↓, 10, →
+206, , Shota Imanaga, , Baekho Kang, 123, 4, 32, 4, Swinging Strike, 4-Seam Fastball, 95.3, 2557, 11, ↓, 7, →
+207, , Shota Imanaga, , Baekho Kang, 122, 3, 32, 4, Called Strike, 4-Seam Fastball, 95.5, 2559, 8, ↓, 8, →
+208, , Shota Imanaga, , Kunwoo Park, 121, 2, 31, 4," In play, out(s)", Splitter, 84.5, 1097, 33, ↓, 3, →
+209, , Shota Imanaga, , Kunwoo Park, 120, 1, 31, 4, Foul, 4-Seam Fastball, 95.0, 2603, 11, ↓, 10, →
+210, , Tae-in Won, , Shugo Maki, 119, 12, 30, 3," In play, out(s)", Cutter, 85.1, 2413, 30, ↓, 5, →
+211, , Tae-in Won, , Kazuma Okamoto, 118, 11, 29, 3," In play, out(s)", Changeup, 78.9, 1664, 36, ↓, 16, ←
+212, , Tae-in Won, , Kazuma Okamoto, 117, 10, 29, 3, Ball, 4-Seam Fastball, 92.2, 2253, 13, ↓, 11, ←
+213, , Tae-in Won, , Kazuma Okamoto, 116, 9, 29, 3, Ball In Dirt, 4-Seam Fastball, 91.8, 2138, 15, ↓, 10, ←
+214, , Tae-in Won, , Kazuma Okamoto, 115, 8, 29, 3, Swinging Strike, Changeup, 79.5, 1852, 31, ↓, 15, ←
+215, , Tae-in Won, , Kazuma Okamoto, 114, 7, 29, 3, Called Strike, Changeup, 79.0, 1616, 33, ↓, 15, ←
+216, , Tae-in Won, , Masataka Yoshida, 113, 6, 28, 3," In play, run(s)", Changeup, 79.7, 1741, 32, ↓, 14, ←
+217, , Tae-in Won, , Masataka Yoshida, 112, 5, 28, 3, Ball, Changeup, 80.5, 1695, 31, ↓, 15, ←
+218, , Tae-in Won, , Masataka Yoshida, 111, 4, 28, 3, Called Strike, 4-Seam Fastball, 91.4, 2073, 15, ↓, 8, ←
+219, , Tae-in Won, , Munetaka Murakami, 110, 3, 27, 3," In play, out(s)", 4-Seam Fastball, 91.9, 2107, 16, ↓, 10, ←
+220, , Tae-in Won, , Munetaka Murakami, 109, 2, 27, 3, Ball, Cutter, 86.5, 2107, 29, ↓, 2, ←
+221, , Tae-in Won, , Munetaka Murakami, 108, 1, 27, 3, Ball In Dirt, Changeup, 79.2, 1720, 34, ↓, 16, ←
+222, , Kwang Hyun Kim, , Kensuke Kondoh, 107, 59, 25, 3," In play, run(s)", 4-Seam Fastball, 91.2, 2051, 18, ↓, 3, →
+223, , Kwang Hyun Kim, , Kensuke Kondoh, 106, 58, 25, 3, Ball, 4-Seam Fastball, 89.7, 2014, 19, ↓, 1, →
+224, , Kwang Hyun Kim, , Kensuke Kondoh, 105, 57, 25, 3, Called Strike, Slider, 85.4, 2013, 32, ↓, 3, ←
+225, , Kwang Hyun Kim, , Lars Nootbaar, 104, 56, 24, 3," In play, run(s)", Slider, 83.6, 2013, 37, ↓, 3, ←
+226, , Kwang Hyun Kim, , Lars Nootbaar, 103, 55, 24, 3, Ball, Slider, 85.5, 1995, 29, ↓, 4, ←
+227, , Kwang Hyun Kim, , Lars Nootbaar, 102, 54, 24, 3, Swinging Strike, Slider, 82.3, 2021, 35, ↓, 5, ←
+228, , Kwang Hyun Kim, , Lars Nootbaar, 101, 53, 24, 3, Ball, Slider, 85.4, 2024, 32, ↓, 4, ←
+229, , Kwang Hyun Kim, , Lars Nootbaar, 100, 52, 24, 3, Ball, 4-Seam Fastball, 91.7, 2063, 18, ↓, 3, →
+230, , Kwang Hyun Kim, , Lars Nootbaar, 99, 51, 24, 3, Foul Bunt, 4-Seam Fastball, 89.7, 1877, 20, ↓, 1, →
+231, , Kwang Hyun Kim, , Yuhei Nakamura, 98, 50, 23, 3, Ball, Slider, 84.0, 2040, 32, ↓, 6, ←
+232, , Kwang Hyun Kim, , Yuhei Nakamura, 97, 49, 23, 3, Foul, Slider, 84.8, 1960, 28, ↓, 5, ←
+233, , Kwang Hyun Kim, , Yuhei Nakamura, 96, 48, 23, 3, Called Strike, Slider, 85.2, 2029, 31, ↓, 2, ←
+234, , Kwang Hyun Kim, , Yuhei Nakamura, 95, 47, 23, 3, Ball, Slider, 83.4, 1957, 34, ↓, 5, ←
+235, , Kwang Hyun Kim, , Yuhei Nakamura, 94, 46, 23, 3, Ball, 4-Seam Fastball, 90.7, 2109, 18, ↓, 1, →
+236, , Kwang Hyun Kim, , Yuhei Nakamura, 93, 45, 23, 3, Ball, Slider, 86.1, 2018, 29, ↓, 3, ←
+237, , Kwang Hyun Kim, , Yuhei Nakamura, 92, 44, 23, 3, Called Strike, Slider, 84.8, 2012, 30, ↓, 5, ←
+238, , Kwang Hyun Kim, , Sosuke Genda, 91, 43, 22, 3, Ball, Slider, 81.5, 2086, 42, ↓, 6, ←
+239, , Kwang Hyun Kim, , Sosuke Genda, 90, 42, 22, 3, Ball, Changeup, 79.9, 1510, 27, ↓, 10, →
+240, , Kwang Hyun Kim, , Sosuke Genda, 89, 41, 22, 3, Ball, 4-Seam Fastball, 91.4, 2198, 18, ↓, 4, →
+241, , Kwang Hyun Kim, , Sosuke Genda, 88, 40, 22, 3, Foul, Slider, 85.2, 2030, 35, ↓, 6, ←
+242, , Kwang Hyun Kim, , Sosuke Genda, 87, 39, 22, 3, Ball, Slider, 88.3, 2237, 28, ↓, 5, ←
+243, , Kwang Hyun Kim, , Sosuke Genda, 86, 38, 22, 3, Foul, Curveball, 70.2, 2119, 70, ↓, 9, ←
+244, , Kwang Hyun Kim, , Sosuke Genda, 85, 37, 22, 3, Foul, 4-Seam Fastball, 89.4, 1979, 22, ↓, 5, →
+245, , Kwang Hyun Kim, , Sosuke Genda, 84, 36, 22, 3, Called Strike, Slider, 77.6, 1958, 43, ↓, 4, ←
+246, , Yu Darvish, , Hyun Soo Kim, 83, 48, 21, 3," In play, out(s)", 4-Seam Fastball, 94.2, 2481, 15, ↓, 10, ←
+247, , Yu Darvish, , Hyun Soo Kim, 82, 47, 21, 3, Called Strike, Curveball, 73.6, 2738, 66, ↓, 12, →
+248, , Yu Darvish, , ByungHo Park, 81, 46, 20, 3, Hit By Pitch, 2-Seam Fastball, 93.8, 2439, 18, ↓, 16, ←
+249, , Yu Darvish, , ByungHo Park, 80, 45, 20, 3, Ball In Dirt, 2-Seam Fastball, 94.5, 2447, 17, ↓, 16, ←
+250, , Yu Darvish, , ByungHo Park, 79, 44, 20, 3, Called Strike, Slider, 83.2, 2909, 41, ↓, 11, →
+251, , Yu Darvish, , Jung Hoo Lee, 78, 43, 19, 3," In play, run(s)", 4-Seam Fastball, 95.2, 2507, 11, ↓, 6, ←
+252, , Yu Darvish, , Ha-Seong Kim, 77, 42, 18, 3," In play, no out", Slider, 83.6, 2781, 43, ↓, 12, →
+253, , Yu Darvish, , Ha-Seong Kim, 76, 41, 18, 3, Swinging Strike, Cutter, 85.0, 2768, 39, ↓, 4, →
+254, , Yu Darvish, , Ha-Seong Kim, 75, 40, 18, 3, Ball, Slider, 81.7, 2697, 47, ↓, 13, →
+255, , Yu Darvish, , Ha-Seong Kim, 74, 39, 18, 3, Ball, 4-Seam Fastball, 94.2, 2424, 11, ↓, 7, ←
+256, , Yu Darvish, , Ha-Seong Kim, 73, 38, 18, 3, Called Strike, Cutter, 85.8, 2791, 37, ↓, 5, →
+257, , Yu Darvish, , Ha-Seong Kim, 72, 37, 18, 3, Ball, Cutter, 86.5, 2732, 36, ↓, 5, →
+258, , Yu Darvish, , Tommy Edman, 71, 36, 17, 3," In play, out(s)", Splitter, 87.8, 1616, 32, ↓, 5, ←
+259, , Yu Darvish, , Tommy Edman, 70, 35, 17, 3, Swinging Strike, Slider, 80.8, 2858, 45, ↓, 16, →
+260, , Yu Darvish, , Tommy Edman, 69, 34, 17, 3, Ball, Slider, 80.9, 2832, 47, ↓, 18, →
+261, , Yu Darvish, , Jeong Choi, 68, 33, 16, 3," In play, out(s)", 4-Seam Fastball, 94.3, 2427, 12, ↓, 5, ←
+262, , Yu Darvish, , Euiji Yang, 67, 32, 15, 3," In play, run(s)", Slider, 84.1, 2814, 44, ↓, 14, →
+263, , Yu Darvish, , Euiji Yang, 66, 31, 15, 3, Foul, 2-Seam Fastball, 95.1, 2337, 18, ↓, 16, ←
+264, , Yu Darvish, , Euiji Yang, 65, 30, 15, 3, Ball In Dirt, Slider, 85.7, 3108, 37, ↓, 14, →
+265, , Yu Darvish, , Euiji Yang, 64, 29, 15, 3, Foul, 4-Seam Fastball, 95.8, 2563, 11, ↓, 7, ←
+266, , Yu Darvish, , Euiji Yang, 63, 28, 15, 3, Called Strike, Slider, 85.0, 2941, 35, ↓, 14, →
+267, , Yu Darvish, , Euiji Yang, 62, 27, 15, 3, Foul Bunt, Slider, 83.4, 2929, 39, ↓, 9, →
+268, , Yu Darvish, , Baekho Kang, 61, 26, 14, 3," In play, no out", 4-Seam Fastball, 93.2, 2378, 14, ↓, 8, ←
+269, , Yu Darvish, , Baekho Kang, 60, 25, 14, 3, Foul, Cutter, 85.0, 2686, 38, ↓, 4, →
+270, , Yu Darvish, , Baekho Kang, 59, 24, 14, 3, Ball, Cutter, 85.1, 2813, 39, ↓, 6, →
+271, , Kwang Hyun Kim, , Shugo Maki, 58, 35, 13, 2, Swinging Strike, Changeup, 78.7, 1653, 31, ↓, 10, →
+272, , Kwang Hyun Kim, , Shugo Maki, 57, 34, 13, 2, Called Strike, Curveball, 73.6, 2160, 59, ↓, 3, ←
+273, , Kwang Hyun Kim, , Shugo Maki, 56, 33, 13, 2, Foul, Slider, 86.5, 2084, 31, ↓, 2, ←
+274, , Kwang Hyun Kim, , Shugo Maki, 55, 32, 13, 2, Ball, Slider, 86.5, 2011, 31, ↓, 2, ←
+275, , Kwang Hyun Kim, , Kazuma Okamoto, 54, 31, 12, 2, Swinging Strike, Changeup, 77.8, 1519, 35, ↓, 12, →
+276, , Kwang Hyun Kim, , Kazuma Okamoto, 53, 30, 12, 2, Swinging Strike, Slider, 83.5, 2101, 36, ↓, 5, ←
+277, , Kwang Hyun Kim, , Kazuma Okamoto, 52, 29, 12, 2, Called Strike, Changeup, 81.4, 1538, 29, ↓, 11, →
+278, , Kwang Hyun Kim, , Masataka Yoshida, 51, 28, 11, 2," In play, no out", Slider, 87.1, 2051, 31, ↓, 5, ←
+279, , Kwang Hyun Kim, , Masataka Yoshida, 50, 27, 11, 2, Called Strike, Slider, 81.3, 1938, 39, ↓, 4, ←
+280, , Kwang Hyun Kim, , Masataka Yoshida, 49, 26, 11, 2, Ball, 4-Seam Fastball, 89.9, 2188, 16, ↓, 1, →
+281, , Kwang Hyun Kim, , Masataka Yoshida, 48, 25, 11, 2, Swinging Strike, 4-Seam Fastball, 91.9, 2127, 16, ↓, 2, →
+282, , Kwang Hyun Kim, , Masataka Yoshida, 47, 24, 11, 2, Ball, 4-Seam Fastball, 91.0, 2213, 15, ↓, 1, →
+283, , Kwang Hyun Kim, , Munetaka Murakami, 46, 23, 10, 2, Called Strike, 4-Seam Fastball, 91.8, 2227, 15, ↓, 5, →
+284, , Kwang Hyun Kim, , Munetaka Murakami, 45, 22, 10, 2, Called Strike, 4-Seam Fastball, 90.9, 2155, 18, ↓, 1, ←
+285, , Kwang Hyun Kim, , Munetaka Murakami, 44, 21, 10, 2, Ball, Slider, 86.9, 2133, 29, ↓, 3, ←
+286, , Kwang Hyun Kim, , Munetaka Murakami, 43, 20, 10, 2, Called Strike, Slider, 79.4, 1973, 45, ↓, 5, ←
+287, , Yu Darvish, , Kunwoo Park, 42, 23, 9, 2," In play, out(s)", Slider, 82.7, 2797, 38, ↓, 17, →
+288, , Yu Darvish, , Kunwoo Park, 41, 22, 9, 2, Called Strike, Slider, 82.8, 2735, 42, ↓, 15, →
+289, , Yu Darvish, , Kunwoo Park, 40, 21, 9, 2, Ball, 4-Seam Fastball, 93.0, 2381, 13, ↓, 5, ←
+290, , Yu Darvish, , Hyun Soo Kim, 39, 20, 8, 2," In play, out(s)", Cutter, 85.4, 2943, 39, ↓, 6, →
+291, , Yu Darvish, , Hyun Soo Kim, 38, 19, 8, 2, Ball, Cutter, 87.3, 2783, 33, ↓, 6, →
+292, , Yu Darvish, , ByungHo Park, 37, 18, 7, 2, Swinging Strike, Slider, 83.8, 2907, 43, ↓, 14, →
+293, , Yu Darvish, , ByungHo Park, 36, 17, 7, 2, Foul, Cutter, 83.3, 2799, 37, ↓, 9, →
+294, , Yu Darvish, , ByungHo Park, 35, 16, 7, 2, Ball, Slider, 84.8, 2784, 39, ↓, 14, →
+295, , Yu Darvish, , ByungHo Park, 34, 15, 7, 2, Ball, Slider, 84.0, 2855, 38, ↓, 13, →
+296, , Yu Darvish, , ByungHo Park, 33, 14, 7, 2, Ball, 2-Seam Fastball, 93.3, 2357, 19, ↓, 16, ←
+297, , Yu Darvish, , ByungHo Park, 32, 13, 7, 2, Called Strike, 4-Seam Fastball, 92.7, 2422, 14, ↓, 9, ←
+298, , Kwang Hyun Kim, , Shohei Ohtani, 31, 19, 6, 1, Swinging Strike, Slider, 87.1, 2278, 30, ↓, 4, ←
+299, , Kwang Hyun Kim, , Shohei Ohtani, 30, 18, 6, 1, Foul, Slider, 85.1, 2268, 36, ↓, 4, ←
+300, , Kwang Hyun Kim, , Shohei Ohtani, 29, 17, 6, 1, Ball, Slider, 87.2, 2168, 31, ↓, 3, ←
+301, , Kwang Hyun Kim, , Shohei Ohtani, 28, 16, 6, 1, Ball, Slider, 87.6, 2374, 27, ↓, 5, ←
+302, , Kwang Hyun Kim, , Shohei Ohtani, 27, 15, 6, 1, Swinging Strike, 4-Seam Fastball, 92.2, 2232, 15, ↓, 4, →
+303, , Kwang Hyun Kim, , Shohei Ohtani, 26, 14, 6, 1, Ball, Curveball, 76.2, 2437, 60, ↓, 5, ←
+304, , Kwang Hyun Kim, , Shohei Ohtani, 25, 13, 6, 1, Foul, Curveball, 71.0, 2187, 66, ↓, 5, ←
+305, , Kwang Hyun Kim, , Kensuke Kondoh, 24, 12, 5, 1, Swinging Strike, 4-Seam Fastball, 91.1, 2111, 16, ↓, 1, →
+306, , Kwang Hyun Kim, , Kensuke Kondoh, 23, 11, 5, 1, Foul, Slider, 83.6, 2094, 36, ↓, 6, ←
+307, , Kwang Hyun Kim, , Kensuke Kondoh, 22, 10, 5, 1, Ball, Slider, 83.9, 1955, 39, ↓, 3, ←
+308, , Kwang Hyun Kim, , Kensuke Kondoh, 21, 9, 5, 1, Ball, Slider, 87.9, 2147, 34, ↓, 3, ←
+309, , Kwang Hyun Kim, , Kensuke Kondoh, 20, 8, 5, 1, Foul, Curveball, 69.0, , 73, ↓, 8, ←
+310, , Kwang Hyun Kim, , Kensuke Kondoh, 19, 7, 5, 1, Ball, 4-Seam Fastball, 92.5, 2186, 17, ↓, 5, →
+311, , Kwang Hyun Kim, , Kensuke Kondoh, 18, 6, 5, 1, Swinging Strike, 4-Seam Fastball, 90.9, 2079, 19, ↓, 1, ←
+312, , Kwang Hyun Kim, , Lars Nootbaar, 17, 5, 4, 1," In play, out(s)", Slider, 80.3, 2048, 42, ↓, 5, ←
+313, , Kwang Hyun Kim, , Lars Nootbaar, 16, 4, 4, 1, Ball, Slider, 85.2, 2167, 30, ↓, 6, ←
+314, , Kwang Hyun Kim, , Lars Nootbaar, 15, 3, 4, 1, Ball, 4-Seam Fastball, 91.6, 2262, 15, ↓, 2, →
+315, , Kwang Hyun Kim, , Lars Nootbaar, 14, 2, 4, 1, Called Strike, Slider, 85.2, 2176, 31, ↓, 5, ←
+316, , Kwang Hyun Kim, , Lars Nootbaar, 13, 1, 4, 1, Ball, Slider, 80.7, 2094, 39, ↓, 4, ←
+317, , Yu Darvish, , Jung Hoo Lee, 12, 12, 3, 1," In play, out(s)", 4-Seam Fastball, 96.0, 2528, 12, ↓, 8, ←
+318, , Yu Darvish, , Jung Hoo Lee, 11, 11, 3, 1, Foul, Cutter, 87.0, 1415, 36, ↓, 5, →
+319, , Yu Darvish, , Jung Hoo Lee, 10, 10, 3, 1, Ball, 4-Seam Fastball, 95.4, 2529, 11, ↓, 7, ←
+320, , Yu Darvish, , Jung Hoo Lee, 9, 9, 3, 1, Foul, Cutter, 86.3, 2874, 38, ↓, 6, →
+321, , Yu Darvish, , Ha-Seong Kim, 8, 8, 2, 1," In play, out(s)", Slider, 82.6, 2925, 47, ↓, 17, →
+322, , Yu Darvish, , Ha-Seong Kim, 7, 7, 2, 1, Ball, 4-Seam Fastball, 95.6, 2394, 9, ↓, 8, ←
+323, , Yu Darvish, , Ha-Seong Kim, 6, 6, 2, 1, Ball, Slider, 85.5, 2873, 36, ↓, 13, →
+324, , Yu Darvish, , Ha-Seong Kim, 5, 5, 2, 1, Foul, 4-Seam Fastball, 95.1, 2500, 13, ↓, 10, ←
+325, , Yu Darvish, , Ha-Seong Kim, 4, 4, 2, 1, Called Strike, 4-Seam Fastball, 93.8, 2450, 13, ↓, 9, ←
+326, , Yu Darvish, , Tommy Edman, 3, 3, 1, 1," In play, out(s)", 4-Seam Fastball, 93.3, 2291, 16, ↓, 8, ←
+327, , Yu Darvish, , Tommy Edman, 2, 2, 1, 1, Ball, 4-Seam Fastball, 94.3, 2325, 14, ↓, 8, ←
+328, , Yu Darvish, , Tommy Edman, 1, 1, 1, 1, Called Strike, Cutter, 84.7, 2681, 39, ↓, 3, →

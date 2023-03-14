@@ -1,0 +1,287 @@
+,Statcast Metrics
+Rk.,,Pitcher,,Batter,Game Pitch #,Pitch,PA,Inning,Result,Pitch Type,Pitch Vel  (MPH),Spin (RPM),VBreak (In.)Vertical Break (Inches),,HBreak (In.)Horizontal Break (Inches),
+1, , Chia-Hao Sung, , Robel Garcia, 285, 12, 88, 9, Swinging Strike, Changeup, 84.5, 1776, 28, ↓, 15, ←
+2, , Chia-Hao Sung, , Robel Garcia, 284, 11, 88, 9, Ball, Changeup, 84.3, 1736, 28, ↓, 15, ←
+3, , Chia-Hao Sung, , Robel Garcia, 283, 10, 88, 9, Foul, Cutter, 85.2, 2206, 32, ↓, 0, 
+4, , Chia-Hao Sung, , Robel Garcia, 282, 9, 88, 9, Called Strike, Changeup, 83.3, 1749, 26, ↓, 13, ←
+5, , Chia-Hao Sung, , Robel Garcia, 281, 8, 88, 9, Ball, Sinker, 90.4, 1988, 21, ↓, 13, ←
+6, , Chia-Hao Sung, , Brett Sullivan, 280, 7, 87, 9," In play, no out", Sinker, 90.9, 2063, 19, ↓, 10, ←
+7, , Chia-Hao Sung, , Brett Sullivan, 279, 6, 87, 9, Ball, Sinker, 91.2, 2010, 21, ↓, 12, ←
+8, , Chia-Hao Sung, , Dominic Fletcher, 278, 5, 86, 9," In play, out(s)", Sinker, 90.9, 2046, 20, ↓, 14, ←
+9, , Chia-Hao Sung, , Vinnie Pasquantino, 277, 4, 85, 9," In play, out(s)", Sinker, 90.1, 1998, 22, ↓, 13, ←
+10, , Chia-Hao Sung, , Vinnie Pasquantino, 276, 3, 85, 9, Ball, Sinker, 89.4, 2048, 23, ↓, 15, ←
+11, , Claudio Scotti, , Kun-Yu Chiang, 275, 12, 84, 8," In play, out(s)", 4-Seam Fastball, 91.7, 2109, 17, ↓, 6, ←
+12, , Claudio Scotti, , Kun-Yu Chiang, 274, 11, 84, 8, Ball, 4-Seam Fastball, 92.3, 2090, 16, ↓, 5, ←
+13, , Claudio Scotti, , Kun-Yu Chiang, 273, 10, 84, 8, Ball, Curveball, 76.1, 2389, 55, ↓, 7, →
+14, , Claudio Scotti, , Chin Cheng, 272, 9, 83, 8," In play, out(s)", Changeup, 82.7, 1851, 27, ↓, 11, ←
+15, , Claudio Scotti, , Chin Cheng, 271, 8, 83, 8, Foul, 4-Seam Fastball, 92.7, 2013, 16, ↓, 6, ←
+16, , Claudio Scotti, , Chin Cheng, 270, 7, 83, 8, Foul, 4-Seam Fastball, 92.5, 2125, 14, ↓, 4, ←
+17, , Claudio Scotti, , Chin Cheng, 269, 6, 83, 8, Swinging Strike, 4-Seam Fastball, 92.4, 2113, 15, ↓, 6, ←
+18, , Claudio Scotti, , Chin Cheng, 268, 5, 83, 8, Foul, 4-Seam Fastball, 91.3, 2175, 15, ↓, 5, ←
+19, , Claudio Scotti, , Chin Cheng, 267, 4, 83, 8, Ball, 4-Seam Fastball, 91.3, 2202, 16, ↓, 6, ←
+20, , Claudio Scotti, , Chin Cheng, 266, 3, 83, 8, Ball, Curveball, 72.6, 2908, 71, ↓, 5, →
+21, , Claudio Scotti, , Chieh-Hsien Chen, 265, 2, 82, 8," In play, no out", 4-Seam Fastball, 91.3, 2123, 19, ↓, 7, ←
+22, , Claudio Scotti, , Chieh-Hsien Chen, 264, 1, 82, 8, Ball, 4-Seam Fastball, 91.0, 2110, 18, ↓, 5, ←
+23, , Joey Marciano, , Kungkuan Giljegiljaw, 263, 28, 81, 8," In play, run(s)", Slider, 83.9, 2645, 43, ↓, 3, →
+24, , Joey Marciano, , Kungkuan Giljegiljaw, 262, 27, 81, 8, Ball, Sinker, 94.0, 2319, 20, ↓, 12, →
+25, , Joey Marciano, , Kungkuan Giljegiljaw, 261, 26, 81, 8, Foul, Slider, 82.7, 2618, 46, ↓, 1, ←
+26, , Joey Marciano, , Kungkuan Giljegiljaw, 260, 25, 81, 8, Foul, Slider, 82.1, 2667, 49, ↓, 1, ←
+27, , Joey Marciano, , Kungkuan Giljegiljaw, 259, 24, 81, 8, Ball, Slider, 82.8, 2607, 47, ↓, 1, ←
+28, , Joey Marciano, , Nien-Ting Wu, 258, 23, 80, 8," In play, no out", 4-Seam Fastball, 91.1, 2306, 18, ↓, 9, →
+29, , Joey Marciano, , Nien-Ting Wu, 257, 22, 80, 8, Ball, Slider, 83.9, 2654, 49, ↓, 0, 
+30, , Joey Marciano, , Nien-Ting Wu, 256, 21, 80, 8, Called Strike, Slider, 83.5, 2758, 50, ↓, 0, 
+31, , Joey Marciano, , Nien-Ting Wu, 255, 20, 80, 8, Ball, 4-Seam Fastball, 91.6, 2295, 17, ↓, 9, →
+32, , Joey Marciano, , Yu Chang, 254, 19, 79, 8, Ball, Slider, 83.2, 2652, 50, ↓, 4, →
+33, , Joey Marciano, , Yu Chang, 253, 18, 79, 8, Ball, Slider, 83.4, 2676, 45, ↓, 7, →
+34, , Joey Marciano, , Yu Chang, 252, 17, 79, 8, Ball, Slider, 82.5, 2674, 52, ↓, 2, ←
+35, , Joey Marciano, , Yu Chang, 251, 16, 79, 8, Called Strike, Slider, 84.3, 2745, 44, ↓, 2, ←
+36, , Joey Marciano, , Yu Chang, 250, 15, 79, 8, Ball, Slider, 86.7, 2784, 41, ↓, 5, →
+37, , Joey Marciano, , Chen-Wei Chen, 249, 14, 78, 8," In play, out(s)", Slider, 84.0, 2676, 48, ↓, 3, ←
+38, , Chia-Hao Sung, , David Fletcher, 248, 2, 77, 8," In play, out(s)", Sinker, 91.5, 2152, 18, ↓, 15, ←
+39, , Chia-Hao Sung, , David Fletcher, 247, 1, 77, 8, Called Strike, Cutter, 85.3, 2351, 31, ↓, 1, ←
+40, , Yen-Ching Lu, , Sal Frelick, 246, 36, 76, 8, Ball, 4-Seam Fastball, 91.5, 2474, 16, ↓, 6, →
+41, , Yen-Ching Lu, , Sal Frelick, 245, 35, 76, 8, Called Strike, Slider, 80.3, 2333, 46, ↓, 0, 
+42, , Yen-Ching Lu, , Sal Frelick, 244, 34, 76, 8, Ball, 4-Seam Fastball, 90.4, 2358, 16, ↓, 9, →
+43, , Yen-Ching Lu, , Sal Frelick, 243, 33, 76, 8, Ball, Curveball, 72.8, 2456, 66, ↓, 7, ←
+44, , Yen-Ching Lu, , Sal Frelick, 242, 32, 76, 8, Called Strike, Slider, 80.7, 2271, 43, ↓, 3, ←
+45, , Yen-Ching Lu, , Sal Frelick, 241, 31, 76, 8, Ball, Slider, 81.3, 2347, 41, ↓, 2, ←
+46, , Yen-Ching Lu, , Miles Mastrobuoni, 240, 30, 75, 8," In play, out(s)", 4-Seam Fastball, 90.3, 2338, 18, ↓, 8, →
+47, , Yen-Ching Lu, , Miles Mastrobuoni, 239, 29, 75, 8, Ball, Slider, 82.7, 2258, 41, ↓, 1, ←
+48, , Yen-Ching Lu, , Miles Mastrobuoni, 238, 28, 75, 8, Ball, Sinker, 92.2, 2483, 13, ↓, 12, →
+49, , Yen-Ching Lu, , Miles Mastrobuoni, 237, 27, 75, 8, Called Strike, Slider, 81.5, 2274, 41, ↓, 4, ←
+50, , Yen-Ching Lu, , Miles Mastrobuoni, 236, 26, 75, 8, Called Strike, Slider, 79.6, 2285, 46, ↓, 2, ←
+51, , Yen-Ching Lu, , Miles Mastrobuoni, 235, 25, 75, 8, Ball, 4-Seam Fastball, 90.7, 2383, 16, ↓, 7, →
+52, , Yen-Ching Lu, , Ben DeLuzio, 234, 24, 74, 8, Swinging Strike, Slider, 83.2, 2307, 40, ↓, 3, ←
+53, , Yen-Ching Lu, , Ben DeLuzio, 233, 23, 74, 8, Ball, Slider, 82.2, 2232, 40, ↓, 3, ←
+54, , Yen-Ching Lu, , Ben DeLuzio, 232, 22, 74, 8, Foul, 4-Seam Fastball, 90.0, 2280, 16, ↓, 9, →
+55, , Yen-Ching Lu, , Ben DeLuzio, 231, 21, 74, 8, Foul, Changeup, 88.7, 2308, 18, ↓, 10, →
+56, , Yen-Ching Lu, , Ben DeLuzio, 230, 20, 74, 8, Foul, Changeup, 88.0, 2202, 18, ↓, 11, →
+57, , Yen-Ching Lu, , Ben DeLuzio, 229, 19, 74, 8, Ball, Curveball, 68.5, 2180, 71, ↓, 10, ←
+58, , Joey Marciano, , Li Lin, 228, 13, 73, 7," In play, out(s)", Slider, 84.8, 2767, 46, ↓, 1, ←
+59, , Joey Marciano, , Li Lin, 227, 12, 73, 7, Swinging Strike, Slider, 85.2, 2791, 43, ↓, 0, 
+60, , Joey Marciano, , Li Lin, 226, 11, 73, 7, Foul, Sinker, 95.5, 2403, 19, ↓, 11, →
+61, , Joey Marciano, , Kuo-Chen Fan, 225, 10, 72, 7," In play, run(s)", Slider, 83.4, 2720, 45, ↓, 5, ←
+62, , Joey Marciano, , Kun-Yu Chiang, 224, 9, 71, 7," In play, no out", Slider, 84.3, 2716, 46, ↓, 1, →
+63, , Joey Marciano, , Kun-Yu Chiang, 223, 8, 71, 7, Foul, Sinker, 95.1, 2252, 17, ↓, 14, →
+64, , Joey Marciano, , Kun-Yu Chiang, 222, 7, 71, 7, Foul, Slider, 83.6, 2702, 46, ↓, 0, 
+65, , Joey Marciano, , Kun-Yu Chiang, 221, 6, 71, 7, Foul, Sinker, 94.7, 2324, 16, ↓, 13, →
+66, , Joey Marciano, , Kun-Yu Chiang, 220, 5, 71, 7, Called Strike, Sinker, 92.9, 2261, 19, ↓, 14, →
+67, , Joey Marciano, , Kun-Yu Chiang, 219, 4, 71, 7, Ball, Slider, 83.6, 2675, 44, ↓, 6, ←
+68, , Joey Marciano, , Kun-Yu Chiang, 218, 3, 71, 7, Foul, Slider, 82.8, 2692, 45, ↓, 4, ←
+69, , Joey Marciano, , Chin Cheng, 217, 2, 70, 7," In play, no out", Sinker, 93.5, 2205, 16, ↓, 14, →
+70, , Joey Marciano, , Chin Cheng, 216, 1, 70, 7, Ball, Slider, 83.8, 2718, 45, ↓, 1, →
+71, , Stephen Woods Jr., , Chieh-Hsien Chen, 215, 62, 69, 7, Ball, Curveball, 76.3, 2262, 62, ↓, 9, →
+72, , Stephen Woods Jr., , Chieh-Hsien Chen, 214, 61, 69, 7, Called Strike, 4-Seam Fastball, 94.9, 1945, 14, ↓, 10, ←
+73, , Stephen Woods Jr., , Chieh-Hsien Chen, 213, 60, 69, 7, Called Strike, 4-Seam Fastball, 93.6, 1835, 17, ↓, 6, ←
+74, , Stephen Woods Jr., , Chieh-Hsien Chen, 212, 59, 69, 7, Ball, 4-Seam Fastball, 94.7, 2183, 12, ↓, 9, ←
+75, , Stephen Woods Jr., , Chieh-Hsien Chen, 211, 58, 69, 7, Ball, Changeup, 84.8, 1149, 29, ↓, 6, ←
+76, , Stephen Woods Jr., , Chieh-Hsien Chen, 210, 57, 69, 7, Ball, 4-Seam Fastball, 94.8, 2116, 14, ↓, 6, ←
+77, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 209, 56, 68, 7," In play, out(s)", Cutter, 87.2, 2251, 32, ↓, 0, 
+78, , Yen-Ching Lu, , Nicky Lopez, 208, 18, 67, 7," In play, out(s)", Changeup, 88.1, 2245, 20, ↓, 10, →
+79, , Yen-Ching Lu, , Vito Friscia, 207, 17, 66, 7, Ball In Dirt, Changeup, 83.5, 1492, 32, ↓, 14, →
+80, , Yen-Ching Lu, , Vito Friscia, 206, 16, 66, 7, Called Strike, Curveball, 69.9, 2356, 73, ↓, 7, ←
+81, , Yen-Ching Lu, , Vito Friscia, 205, 15, 66, 7, Called Strike, Sinker, 88.6, 2284, 19, ↓, 13, →
+82, , Yen-Ching Lu, , Vito Friscia, 204, 14, 66, 7, Ball In Dirt, Slider, 80.3, 2289, 42, ↓, 3, ←
+83, , Yen-Ching Lu, , Vito Friscia, 203, 13, 66, 7, Ball, Changeup, 88.3, 2261, 19, ↓, 10, →
+84, , Yen-Ching Lu, , Vito Friscia, 202, 12, 66, 7, Ball, Sinker, 89.1, 2406, 19, ↓, 15, →
+85, , Yen-Ching Lu, , Brett Sullivan, 201, 11, 65, 7, Ball, Sinker, 88.8, 2218, 18, ↓, 13, →
+86, , Yen-Ching Lu, , Brett Sullivan, 200, 10, 65, 7, Ball, Sinker, 90.0, 2290, 18, ↓, 12, →
+87, , Yen-Ching Lu, , Brett Sullivan, 199, 9, 65, 7, Ball, Curveball, 71.3, 2578, 71, ↓, 12, ←
+88, , Yen-Ching Lu, , Brett Sullivan, 198, 8, 65, 7, Swinging Strike, Slider, 82.2, 2280, 36, ↓, 4, ←
+89, , Yen-Ching Lu, , Brett Sullivan, 197, 7, 65, 7, Ball, Sinker, 90.1, 2246, 19, ↓, 10, →
+90, , Yen-Ching Lu, , Dominic Fletcher, 196, 6, 64, 7, Called Strike, Sinker, 90.9, 2259, 17, ↓, 11, →
+91, , Yen-Ching Lu, , Dominic Fletcher, 195, 5, 64, 7, Ball, Slider, 83.1, 2281, 37, ↓, 1, ←
+92, , Yen-Ching Lu, , Dominic Fletcher, 194, 4, 64, 7, Foul, Curveball, 71.3, 2539, 71, ↓, 11, ←
+93, , Yen-Ching Lu, , Dominic Fletcher, 193, 3, 64, 7, Swinging Strike, Slider, 81.4, 2170, 40, ↓, 3, ←
+94, , Yen-Ching Lu, , Dominic Fletcher, 192, 2, 64, 7, Called Strike, Changeup, 87.5, 2166, 21, ↓, 12, →
+95, , Yen-Ching Lu, , Vinnie Pasquantino, 191, 1, 63, 7," In play, out(s)", Changeup, 87.4, 2156, 23, ↓, 12, →
+96, , Stephen Woods Jr., , Nien-Ting Wu, 190, 55, 62, 6, Swinging Strike, Curveball, 78.6, 2408, 61, ↓, 6, →
+97, , Stephen Woods Jr., , Nien-Ting Wu, 189, 54, 62, 6, Foul, 4-Seam Fastball, 95.0, 2155, 13, ↓, 1, ←
+98, , Stephen Woods Jr., , Nien-Ting Wu, 188, 53, 62, 6, Called Strike, Curveball, 76.5, 2254, 66, ↓, 9, →
+99, , Stephen Woods Jr., , Nien-Ting Wu, 187, 52, 62, 6, Ball, Sinker, 95.7, 2047, 18, ↓, 12, ←
+100, , Stephen Woods Jr., , Yu Chang, 186, 51, 61, 6," In play, run(s)", Sinker, 94.3, 2156, 16, ↓, 14, ←
+101, , Stephen Woods Jr., , Tzu-Wei Lin, 185, 50, 60, 6," In play, out(s)", 4-Seam Fastball, 95.6, 2000, 13, ↓, 4, ←
+102, , Stephen Woods Jr., , Tzu-Wei Lin, 184, 49, 60, 6, Foul, Changeup, 86.8, 1439, 22, ↓, 6, ←
+103, , Stephen Woods Jr., , Tzu-Wei Lin, 183, 48, 60, 6, Foul, 4-Seam Fastball, 95.3, 2114, 13, ↓, 7, ←
+104, , Stephen Woods Jr., , Tzu-Wei Lin, 182, 47, 60, 6, Foul, 4-Seam Fastball, 94.8, 2099, 15, ↓, 9, ←
+105, , Stephen Woods Jr., , Tzu-Wei Lin, 181, 46, 60, 6, Ball, 4-Seam Fastball, 95.8, 2089, 12, ↓, 8, ←
+106, , Stephen Woods Jr., , Tzu-Wei Lin, 180, 45, 60, 6, Called Strike, Sinker, 93.9, 1849, 18, ↓, 12, ←
+107, , Stephen Woods Jr., , Li Lin, 179, 44, 59, 6, Ball, 4-Seam Fastball, 95.7, 2107, 13, ↓, 6, ←
+108, , Stephen Woods Jr., , Li Lin, 178, 43, 59, 6, Foul, 4-Seam Fastball, 95.5, 2122, 13, ↓, 7, ←
+109, , Stephen Woods Jr., , Li Lin, 177, 42, 59, 6, Ball, 4-Seam Fastball, 95.9, 2131, 12, ↓, 8, ←
+110, , Stephen Woods Jr., , Li Lin, 176, 41, 59, 6, Foul, 4-Seam Fastball, 94.8, 1952, 14, ↓, 5, ←
+111, , Stephen Woods Jr., , Li Lin, 175, 40, 59, 6, Ball, Sinker, 94.5, 2010, 15, ↓, 14, ←
+112, , Stephen Woods Jr., , Li Lin, 174, 39, 59, 6, Ball, Cutter, 89.3, 2151, 28, ↓, 7, →
+113, , Stephen Woods Jr., , Tsung-Che Cheng, 173, 38, 58, 6," In play, out(s)", Sinker, 94.4, 1851, 19, ↓, 12, ←
+114, , Stephen Woods Jr., , Tsung-Che Cheng, 172, 37, 58, 6, Ball, 4-Seam Fastball, 95.3, 1912, 15, ↓, 3, ←
+115, , Stephen Woods Jr., , Tsung-Che Cheng, 171, 36, 58, 6, Foul, Changeup, 86.3, 1016, 31, ↓, 7, ←
+116, , Stephen Woods Jr., , Tsung-Che Cheng, 170, 35, 58, 6, Foul, 4-Seam Fastball, 95.3, 1976, 15, ↓, 6, ←
+117, , Stephen Woods Jr., , Tsung-Che Cheng, 169, 34, 58, 6, Foul, 4-Seam Fastball, 94.7, 2136, 13, ↓, 6, ←
+118, , Stephen Woods Jr., , Tsung-Che Cheng, 168, 33, 58, 6, Ball, Curveball, 77.0, 2531, 61, ↓, 8, →
+119, , Stephen Woods Jr., , Tsung-Che Cheng, 167, 32, 58, 6, Called Strike, Sinker, 94.2, 2110, 17, ↓, 14, ←
+120, , Yu-Hsun Chen, , David Fletcher, 166, 21, 56, 6," In play, no out", 4-Seam Fastball, 91.0, 2217, 19, ↓, 5, ←
+121, , Yu-Hsun Chen, , David Fletcher, 165, 20, 56, 6, Called Strike, 4-Seam Fastball, 91.5, 2238, 16, ↓, 6, ←
+122, , Yu-Hsun Chen, , David Fletcher, 164, 19, 56, 6, Called Strike, 4-Seam Fastball, 91.9, 2259, 17, ↓, 9, ←
+123, , Yu-Hsun Chen, , David Fletcher, 163, 18, 56, 6, Ball, 4-Seam Fastball, 91.3, 2226, 18, ↓, 9, ←
+124, , Yu-Hsun Chen, , David Fletcher, 162, 17, 56, 6, Ball, 4-Seam Fastball, 92.1, 2283, 17, ↓, 9, ←
+125, , Yu-Hsun Chen, , David Fletcher, 161, 16, 56, 6, Ball, Curveball, 79.3, 2329, 49, ↓, 5, →
+126, , Yu-Hsun Chen, , Sal Frelick, 160, 15, 55, 6," In play, out(s)", 4-Seam Fastball, 91.9, 2369, 15, ↓, 7, ←
+127, , Yu-Hsun Chen, , Sal Frelick, 159, 14, 55, 6, Ball, 4-Seam Fastball, 92.4, 2383, 14, ↓, 9, ←
+128, , Yu-Hsun Chen, , Sal Frelick, 158, 13, 55, 6, Called Strike, 4-Seam Fastball, 91.3, 2359, 14, ↓, 9, ←
+129, , Yu-Hsun Chen, , Miles Mastrobuoni, 157, 12, 54, 6," In play, out(s)", 4-Seam Fastball, 90.8, 2249, 18, ↓, 12, ←
+130, , Yu-Hsun Chen, , Miles Mastrobuoni, 156, 11, 54, 6, Ball, Sinker, 90.8, 2256, 20, ↓, 12, ←
+131, , Yu-Hsun Chen, , Miles Mastrobuoni, 155, 10, 54, 6, Ball, Curveball, 79.8, 840, 51, ↓, 7, ←
+132, , Yu-Hsun Chen, , Miles Mastrobuoni, 154, 9, 54, 6, Ball, Curveball, 80.3, 853, 47, ↓, 8, ←
+133, , Stephen Woods Jr., , Kun-Yu Chiang, 153, 31, 53, 5," In play, out(s)", Sinker, 95.0, 2213, 15, ↓, 14, ←
+134, , Stephen Woods Jr., , Kun-Yu Chiang, 152, 30, 53, 5, Ball, Curveball, 79.9, 2487, 59, ↓, 7, →
+135, , Stephen Woods Jr., , Po-Jung Wang, 151, 29, 52, 5," In play, out(s)", 4-Seam Fastball, 94.7, 2035, 13, ↓, 7, ←
+136, , Stephen Woods Jr., , Po-Jung Wang, 150, 28, 52, 5, Ball, 4-Seam Fastball, 96.3, 2153, 10, ↓, 7, ←
+137, , Stephen Woods Jr., , Chieh-Hsien Chen, 149, 27, 51, 5," In play, no out", Curveball, 78.9, 2440, 60, ↓, 7, →
+138, , Stephen Woods Jr., , Chieh-Hsien Chen, 148, 26, 51, 5, Called Strike, Sinker, 94.5, 2124, 18, ↓, 15, ←
+139, , Stephen Woods Jr., , Chieh-Hsien Chen, 147, 25, 51, 5, Ball, 4-Seam Fastball, 95.4, 2005, 14, ↓, 5, ←
+140, , Stephen Woods Jr., , Chieh-Hsien Chen, 146, 24, 51, 5, Ball, Changeup, 86.9, 1141, 28, ↓, 6, ←
+141, , Stephen Woods Jr., , Chieh-Hsien Chen, 145, 23, 51, 5, Called Strike, Sinker, 95.0, 2117, 16, ↓, 13, ←
+142, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 144, 22, 50, 5, Swinging Strike, Curveball, 79.7, 2359, 56, ↓, 9, →
+143, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 143, 21, 50, 5, Foul, 4-Seam Fastball, 95.4, 2195, 15, ↓, 6, ←
+144, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 142, 20, 50, 5, Ball, 4-Seam Fastball, 94.4, 1974, 17, ↓, 5, ←
+145, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 141, 19, 50, 5, Foul, 4-Seam Fastball, 95.1, 2068, 16, ↓, 8, ←
+146, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 140, 18, 50, 5, Ball, Cutter, 84.8, 2311, 39, ↓, 1, →
+147, , Stephen Woods Jr., , Kungkuan Giljegiljaw, 139, 17, 50, 5, Called Strike, Sinker, 94.2, 2031, 16, ↓, 11, ←
+148, , Yu-Hsun Chen, , Ben DeLuzio, 138, 8, 49, 5," In play, out(s)", 4-Seam Fastball, 91.7, 2295, 17, ↓, 8, ←
+149, , Yu-Hsun Chen, , Ben DeLuzio, 137, 7, 49, 5, Ball, 4-Seam Fastball, 91.8, 2345, 16, ↓, 9, ←
+150, , Yu-Hsun Chen, , Nicky Lopez, 136, 6, 48, 5," In play, run(s)", 4-Seam Fastball, 91.5, 2349, 16, ↓, 13, ←
+151, , Yu-Hsun Chen, , Nicky Lopez, 135, 5, 48, 5, Ball In Dirt, Changeup, 82.3, 1343, 49, ↓, 7, ←
+152, , Yu-Hsun Chen, , Nicky Lopez, 134, 4, 48, 5, Foul, 4-Seam Fastball, 92.3, 2385, 17, ↓, 10, ←
+153, , Yu-Hsun Chen, , Nicky Lopez, 133, 3, 48, 5, Swinging Strike, 4-Seam Fastball, 91.6, 2344, 19, ↓, 10, ←
+154, , Yu-Hsun Chen, , Nicky Lopez, 132, 2, 48, 5, Ball, Curveball, 81.0, 860, 49, ↓, 9, ←
+155, , Yu-Hsun Chen, , Nicky Lopez, 131, 1, 48, 5, Called Strike, Curveball, 81.1, 1751, 49, ↓, 7, ←
+156, , Kuan-Yu Chen, , Vito Friscia, 130, 28, 47, 5, Ball, Changeup, 84.4, 1294, 32, ↓, 11, →
+157, , Kuan-Yu Chen, , Vito Friscia, 129, 27, 47, 5, Foul, Changeup, 86.6, 1666, 26, ↓, 9, →
+158, , Kuan-Yu Chen, , Vito Friscia, 128, 26, 47, 5, Ball In Dirt, Slider, 77.9, 2146, 48, ↓, 3, ←
+159, , Kuan-Yu Chen, , Vito Friscia, 127, 25, 47, 5, Foul, 4-Seam Fastball, 90.0, 2095, 18, ↓, 7, →
+160, , Kuan-Yu Chen, , Vito Friscia, 126, 24, 47, 5, Foul, Changeup, 85.0, 1396, 31, ↓, 11, →
+161, , Kuan-Yu Chen, , Vito Friscia, 125, 23, 47, 5, Foul, Changeup, 85.1, 1398, 29, ↓, 8, →
+162, , Kuan-Yu Chen, , Vito Friscia, 124, 22, 47, 5, Foul, 4-Seam Fastball, 90.7, 2046, 16, ↓, 7, →
+163, , Kuan-Yu Chen, , Vito Friscia, 123, 21, 47, 5, Foul, Changeup, 83.9, 1309, 29, ↓, 8, →
+164, , Kuan-Yu Chen, , Vito Friscia, 122, 20, 47, 5, Foul, 4-Seam Fastball, 90.4, 2161, 18, ↓, 8, →
+165, , Kuan-Yu Chen, , Vito Friscia, 121, 19, 47, 5, Ball In Dirt, Changeup, 84.2, 1236, 33, ↓, 12, →
+166, , Kuan-Yu Chen, , Vito Friscia, 120, 18, 47, 5, Ball, Sinker, 90.7, 2143, 19, ↓, 11, →
+167, , Kuan-Yu Chen, , Brett Sullivan, 119, 17, 46, 5, Ball, 4-Seam Fastball, 90.5, 2132, 20, ↓, 9, →
+168, , Kuan-Yu Chen, , Brett Sullivan, 118, 16, 46, 5, Ball, 4-Seam Fastball, 90.7, 2105, 19, ↓, 8, →
+169, , Kuan-Yu Chen, , Brett Sullivan, 117, 15, 46, 5, Ball, Changeup, 85.3, 1184, 33, ↓, 9, →
+170, , Kuan-Yu Chen, , Brett Sullivan, 116, 14, 46, 5, Ball, Changeup, 85.7, 1529, 27, ↓, 8, →
+171, , Kuan-Yu Chen, , Dominic Fletcher, 115, 13, 45, 5, Swinging Strike, Changeup, 84.3, 1152, 31, ↓, 8, →
+172, , Kuan-Yu Chen, , Dominic Fletcher, 114, 12, 45, 5, Ball, 4-Seam Fastball, 91.6, 2090, 16, ↓, 10, →
+173, , Kuan-Yu Chen, , Dominic Fletcher, 113, 11, 45, 5, Foul, 4-Seam Fastball, 92.4, 2221, 14, ↓, 9, →
+174, , Kuan-Yu Chen, , Dominic Fletcher, 112, 10, 45, 5, Foul, Slider, 77.9, 2124, 46, ↓, 2, ←
+175, , Kuan-Yu Chen, , Dominic Fletcher, 111, 9, 45, 5, Ball, 4-Seam Fastball, 91.6, 2163, 15, ↓, 5, →
+176, , Kuan-Yu Chen, , Dominic Fletcher, 110, 8, 45, 5, Called Strike, 4-Seam Fastball, 91.5, 2220, 16, ↓, 10, →
+177, , Kuan-Yu Chen, , Dominic Fletcher, 109, 7, 45, 5, Ball, 4-Seam Fastball, 91.9, 2193, 13, ↓, 6, →
+178, , Kuan-Yu Chen, , Vinnie Pasquantino, 108, 6, 44, 5, Called Strike, 4-Seam Fastball, 89.9, 2133, 17, ↓, 7, →
+179, , Kuan-Yu Chen, , Vinnie Pasquantino, 107, 5, 44, 5, Swinging Strike, Slider, 85.0, 1502, 25, ↓, 7, →
+180, , Kuan-Yu Chen, , Vinnie Pasquantino, 106, 4, 44, 5, Called Strike, 4-Seam Fastball, 90.3, 2132, 16, ↓, 6, →
+181, , Kuan-Yu Chen, , Vinnie Pasquantino, 105, 3, 44, 5, Ball, 4-Seam Fastball, 91.3, 2013, 18, ↓, 8, →
+182, , Kuan-Yu Chen, , Vinnie Pasquantino, 104, 2, 44, 5, Ball, Slider, 78.6, 2199, 45, ↓, 2, ←
+183, , Kuan-Yu Chen, , Vinnie Pasquantino, 103, 1, 44, 5, Ball, Slider, 77.8, 2164, 45, ↓, 3, ←
+184, , Stephen Woods Jr., , Nien-Ting Wu, 102, 16, 43, 4," In play, out(s)", Sinker, 95.4, 2114, 14, ↓, 11, ←
+185, , Stephen Woods Jr., , Nien-Ting Wu, 101, 15, 43, 4, Called Strike, Sinker, 94.6, 1868, 20, ↓, 13, ←
+186, , Stephen Woods Jr., , Nien-Ting Wu, 100, 14, 43, 4, Ball, Slider, 78.7, 2211, 46, ↓, 0, 
+187, , Stephen Woods Jr., , Nien-Ting Wu, 99, 13, 43, 4, Ball, Sinker, 96.1, 2078, 15, ↓, 14, ←
+188, , Stephen Woods Jr., , Nien-Ting Wu, 98, 12, 43, 4, Ball, Curveball, 78.4, 2551, 60, ↓, 8, →
+189, , Stephen Woods Jr., , Yu Chang, 97, 11, 42, 4," In play, out(s)", Sinker, 94.5, 1985, 17, ↓, 12, ←
+190, , Stephen Woods Jr., , Yu Chang, 96, 10, 42, 4, Ball, Sinker, 95.2, 2065, 15, ↓, 11, ←
+191, , Stephen Woods Jr., , Yu Chang, 95, 9, 42, 4, Ball, Curveball, 77.9, 2485, 62, ↓, 7, →
+192, , Stephen Woods Jr., , Tzu-Wei Lin, 94, 8, 41, 4," In play, out(s)", Sinker, 93.6, 2046, 15, ↓, 13, ←
+193, , Stephen Woods Jr., , Tzu-Wei Lin, 93, 7, 41, 4, Ball, Sinker, 93.4, 2059, 16, ↓, 12, ←
+194, , Wei-Chung Wang, , David Fletcher, 92, 41, 40, 4, Swinging Strike, Slider, 82.3, 1875, 20, ↓, 16, →
+195, , Wei-Chung Wang, , David Fletcher, 91, 40, 40, 4, Foul, Slider, 84.8, 2194, 32, ↓, 2, ←
+196, , Wei-Chung Wang, , David Fletcher, 90, 39, 40, 4, Foul, Changeup, 81.5, 1714, 29, ↓, 14, →
+197, , Wei-Chung Wang, , David Fletcher, 89, 38, 40, 4, Ball, Sinker, 88.5, 1948, 21, ↓, 12, →
+198, , Wei-Chung Wang, , David Fletcher, 88, 37, 40, 4, Foul, Slider, 82.2, 2148, 31, ↓, 3, ←
+199, , Wei-Chung Wang, , Sal Frelick, 87, 36, 39, 4," In play, run(s)", Changeup, 88.3, 2064, 21, ↓, 10, →
+200, , Wei-Chung Wang, , Miles Mastrobuoni, 86, 35, 38, 4," In play, run(s)", Slider, 82.5, 2224, 29, ↓, 3, ←
+201, , Wei-Chung Wang, , Miles Mastrobuoni, 85, 34, 38, 4, Ball, Slider, 82.8, 2402, 34, ↓, 6, ←
+202, , Wei-Chung Wang, , Miles Mastrobuoni, 84, 33, 38, 4, Foul, Changeup, 79.4, 1755, 31, ↓, 13, →
+203, , Wei-Chung Wang, , Ben DeLuzio, 83, 32, 37, 4," In play, out(s)", Changeup, 80.6, 1780, 35, ↓, 17, →
+204, , Wei-Chung Wang, , Ben DeLuzio, 82, 31, 37, 4, Ball, 4-Seam Fastball, 90.7, 2204, 13, ↓, 4, →
+205, , Wei-Chung Wang, , Ben DeLuzio, 81, 30, 37, 4, Ball, Slider, 84.1, 2190, 28, ↓, 4, ←
+206, , Wei-Chung Wang, , Ben DeLuzio, 80, 29, 37, 4, Swinging Strike, Slider, 82.2, 2136, 37, ↓, 5, ←
+207, , Wei-Chung Wang, , Ben DeLuzio, 79, 28, 37, 4, Called Strike, Changeup, 87.1, 1870, 21, ↓, 9, →
+208, , Wei-Chung Wang, , Ben DeLuzio, 78, 27, 37, 4, Ball, Changeup, 82.2, 1725, 30, ↓, 15, →
+209, , Wei-Chung Wang, , Nicky Lopez, 77, 26, 36, 4," In play, run(s)", 4-Seam Fastball, 90.2, 2125, 20, ↓, 7, →
+210, , Wei-Chung Wang, , Nicky Lopez, 76, 25, 36, 4, Ball, Slider, 83.5, 2202, 33, ↓, 4, ←
+211, , Wei-Chung Wang, , Vito Friscia, 75, 24, 35, 4, Swinging Strike, Changeup, 80.2, 1791, 31, ↓, 14, →
+212, , Wei-Chung Wang, , Vito Friscia, 74, 23, 35, 4, Foul, Slider, 83.2, 2126, 32, ↓, 2, ←
+213, , Wei-Chung Wang, , Vito Friscia, 73, 22, 35, 4, Foul, Changeup, 87.0, 1888, 23, ↓, 9, →
+214, , Wei-Chung Wang, , Vito Friscia, 72, 21, 35, 4, Called Strike, Changeup, 85.8, 1911, 27, ↓, 13, →
+215, , Wei-Chung Wang, , Vito Friscia, 71, 20, 35, 4, Ball, Changeup, 80.1, 1714, 33, ↓, 13, →
+216, , Wei-Chung Wang, , Vito Friscia, 70, 19, 35, 4, Ball In Dirt, Changeup, 80.1, 1660, 32, ↓, 13, →
+217, , Wei-Chung Wang, , Vito Friscia, 69, 18, 35, 4, Ball, Changeup, 86.9, 2016, 23, ↓, 12, →
+218, , Wei-Chung Wang, , Brett Sullivan, 68, 17, 34, 4," In play, no out", Changeup, 88.5, 1959, 22, ↓, 10, →
+219, , Wei-Chung Wang, , Brett Sullivan, 67, 16, 34, 4, Foul, Slider, 79.3, 2110, 43, ↓, 6, ←
+220, , Wei-Chung Wang, , Dominic Fletcher, 66, 15, 33, 4, Ball, Slider, 81.5, 2273, 37, ↓, 2, ←
+221, , Wei-Chung Wang, , Dominic Fletcher, 65, 14, 33, 4, Ball, 4-Seam Fastball, 91.4, 2316, 16, ↓, 7, →
+222, , Wei-Chung Wang, , Dominic Fletcher, 64, 13, 33, 4, Foul, Slider, 82.3, 2164, 34, ↓, 1, ←
+223, , Wei-Chung Wang, , Dominic Fletcher, 63, 12, 33, 4, Called Strike, Slider, 81.5, 2073, 33, ↓, 1, ←
+224, , Wei-Chung Wang, , Dominic Fletcher, 62, 11, 33, 4, Ball, Slider, 77.5, 2278, 40, ↓, 4, ←
+225, , Wei-Chung Wang, , Dominic Fletcher, 61, 10, 33, 4, Ball, Changeup, 87.0, 2108, 21, ↓, 12, →
+226, , Stephen Woods Jr., , Li Lin, 60, 6, 32, 3," In play, out(s)", Sinker, 96.1, 2144, 15, ↓, 12, ←
+227, , Stephen Woods Jr., , Li Lin, 59, 5, 32, 3, Ball, Curveball, 79.0, 2401, 58, ↓, 8, →
+228, , Stephen Woods Jr., , Li Lin, 58, 4, 32, 3, Foul, Sinker, 96.1, 2205, 13, ↓, 13, ←
+229, , Stephen Woods Jr., , Li Lin, 57, 3, 32, 3, Ball, Sinker, 96.4, 2191, 14, ↓, 12, ←
+230, , Stephen Woods Jr., , Tsung-Che Cheng, 56, 2, 31, 3," In play, out(s)", Curveball, 78.0, 2357, 63, ↓, 9, →
+231, , Stephen Woods Jr., , Kun-Yu Chiang, 55, 1, 30, 3," In play, run(s)", Sinker, 96.3, 2015, 15, ↓, 14, ←
+232, , Joe Biagini, , Po-Jung Wang, 54, 10, 29, 3," In play, run(s)", 4-Seam Fastball, 91.8, 2100, 15, ↓, 4, ←
+233, , Joe Biagini, , Po-Jung Wang, 53, 9, 29, 3, Ball, Slider, 85.1, 2191, 31, ↓, 4, →
+234, , Joe Biagini, , Po-Jung Wang, 52, 8, 29, 3, Ball, Cutter, 85.8, 2244, 29, ↓, 2, →
+235, , Joe Biagini, , Chieh-Hsien Chen, 51, 7, 28, 3," In play, run(s)", 4-Seam Fastball, 91.7, 2058, 14, ↓, 4, ←
+236, , Joe Biagini, , Chieh-Hsien Chen, 50, 6, 28, 3, Ball In Dirt, Slider, 84.7, 2119, 30, ↓, 1, →
+237, , Joe Biagini, , Kungkuan Giljegiljaw, 49, 5, 27, 3," In play, out(s)", 4-Seam Fastball, 91.4, 2075, 16, ↓, 11, ←
+238, , Joe Biagini, , Kungkuan Giljegiljaw, 48, 4, 27, 3, Swinging Strike, Slider, 84.5, 2153, 29, ↓, 1, ←
+239, , Joe Biagini, , Nien-Ting Wu, 47, 3, 26, 3," In play, no out", 4-Seam Fastball, 91.6, 2153, 16, ↓, 2, ←
+240, , Joe Biagini, , Nien-Ting Wu, 46, 2, 26, 3, Ball In Dirt, Changeup, 82.2, 1539, 45, ↓, 12, ←
+241, , Joe Biagini, , Yu Chang, 45, 1, 25, 3," In play, no out", 4-Seam Fastball, 92.2, 2129, 15, ↓, 11, ←
+242, , Wei-Chung Wang, , Vinnie Pasquantino, 44, 9, 24, 3," In play, out(s)", Slider, 80.7, 2290, 40, ↓, 3, ←
+243, , Wei-Chung Wang, , Vinnie Pasquantino, 43, 8, 24, 3, Swinging Strike, Slider, 83.0, 2252, 30, ↓, 5, ←
+244, , Wei-Chung Wang, , Vinnie Pasquantino, 42, 7, 24, 3, Foul, Changeup, 87.5, 2096, 20, ↓, 12, →
+245, , Wei-Chung Wang, , David Fletcher, 41, 6, 23, 3, Swinging Strike, Changeup, 79.4, 1773, 30, ↓, 16, →
+246, , Wei-Chung Wang, , David Fletcher, 40, 5, 23, 3, Swinging Strike, Changeup, 79.1, 1804, 32, ↓, 13, →
+247, , Wei-Chung Wang, , David Fletcher, 39, 4, 23, 3, Called Strike, Changeup, 84.9, 2122, 23, ↓, 12, →
+248, , Wei-Chung Wang, , Sal Frelick, 38, 3, 22, 3," In play, out(s)", Changeup, 84.7, 2018, 25, ↓, 9, →
+249, , Wei-Chung Wang, , Sal Frelick, 37, 2, 22, 3, Called Strike, Slider, 78.4, 2213, 38, ↓, 4, ←
+250, , Wei-Chung Wang, , Sal Frelick, 36, 1, 22, 3, Ball, Slider, 79.8, 2160, 36, ↓, 3, ←
+251, , Ryan Castellani, , Tzu-Wei Lin, 35, 28, 21, 2," In play, out(s)", Sinker, 92.3, 2383, 20, ↓, 13, ←
+252, , Ryan Castellani, , Tzu-Wei Lin, 34, 27, 21, 2, Called Strike, Changeup, 84.8, 1939, 37, ↓, 18, ←
+253, , Ryan Castellani, , Tzu-Wei Lin, 33, 26, 21, 2, Ball In Dirt, Sinker, 93.3, 2279, 23, ↓, 18, ←
+254, , Ryan Castellani, , Tzu-Wei Lin, 32, 25, 21, 2, Foul, Sinker, 91.9, 2284, 25, ↓, 17, ←
+255, , Ryan Castellani, , Li Lin, 31, 24, 20, 2," In play, no out", Cutter, 87.1, 2435, 29, ↓, 1, →
+256, , Ryan Castellani, , Li Lin, 30, 23, 20, 2, Foul, Sinker, 90.5, 2054, 28, ↓, 18, ←
+257, , Ryan Castellani, , Li Lin, 29, 22, 20, 2, Foul, Slider, 82.7, 2484, 40, ↓, 10, →
+258, , Ryan Castellani, , Li Lin, 28, 21, 20, 2, Foul, Sinker, 91.2, 2194, 31, ↓, 17, ←
+259, , Ryan Castellani, , Li Lin, 27, 20, 20, 2, Foul, Sinker, 91.8, 2266, 26, ↓, 16, ←
+260, , Ryan Castellani, , Li Lin, 26, 19, 20, 2, Ball, Cutter, 86.1, 2387, 32, ↓, 1, →
+261, , Ryan Castellani, , Li Lin, 25, 18, 20, 2, Ball, Slider, 81.4, 2442, 40, ↓, 13, →
+262, , Ryan Castellani, , Tsung-Che Cheng, 24, 17, 19, 2," In play, run(s)", Cutter, 86.3, 2467, 30, ↓, 2, →
+263, , Ryan Castellani, , Tsung-Che Cheng, 23, 16, 19, 2, Called Strike, Sinker, 91.8, 2298, 28, ↓, 15, ←
+264, , Ryan Castellani, , Tsung-Che Cheng, 22, 15, 19, 2, Ball, Cutter, 86.5, 2369, 33, ↓, 2, →
+265, , Ryan Castellani, , Tsung-Che Cheng, 21, 14, 19, 2, Ball, Changeup, 84.6, 1981, 32, ↓, 18, ←
+266, , Ryan Castellani, , Tsung-Che Cheng, 20, 13, 19, 2, Ball, Cutter, 87.5, 2466, 28, ↓, 0, 
+267, , Ryan Castellani, , Kun-Yu Chiang, 19, 12, 18, 2," In play, out(s)", Cutter, 86.1, 2331, 31, ↓, 4, →
+268, , Ryan Castellani, , Kun-Yu Chiang, 18, 11, 18, 2, Ball, Sinker, 90.7, 2198, 31, ↓, 17, ←
+269, , Ryan Castellani, , Po-Jung Wang, 17, 10, 17, 2," In play, out(s)", Cutter, 85.6, 2403, 35, ↓, 4, →
+270, , Ryan Castellani, , Po-Jung Wang, 16, 9, 17, 2, Foul, Sinker, 92.8, 2267, 26, ↓, 18, ←
+271, , Ryan Castellani, , Chieh-Hsien Chen, 15, 8, 16, 2, Hit By Pitch, Sinker, 92.2, 2363, 19, ↓, 12, ←
+272, , Ryan Castellani, , Chieh-Hsien Chen, 14, 7, 16, 2, Foul Tip, Cutter, 87.0, 2485, 28, ↓, 2, →
+273, , Ryan Castellani, , Chieh-Hsien Chen, 13, 6, 16, 2, Called Strike, Cutter, 86.7, 2487, 30, ↓, 4, →
+274, , Ryan Castellani, , Chieh-Hsien Chen, 12, 5, 16, 2, Ball, Sinker, 91.3, 2205, 26, ↓, 18, ←
+275, , Shao-Ching Chiang, , Nicky Lopez, 11, 7, 13, 2," In play, run(s)", , , , , ↓, , 
+276, , Shao-Ching Chiang, , Vito Friscia, 10, 6, 12, 2," In play, out(s)", , , , , ↓, , 
+277, , Shao-Ching Chiang, , Brett Sullivan, 9, 5, 11, 2," In play, no out", , , , , ↓, , 
+278, , Shao-Ching Chiang, , Dominic Fletcher, 8, 4, 10, 2," In play, no out", , , , , ↓, , 
+279, , Ryan Castellani, , Kungkuan Giljegiljaw, 7, 4, 9, 1," In play, out(s)", , , , , ↓, , 
+280, , Ryan Castellani, , Yu Chang, 6, 3, 7, 1," In play, no out", , , , , ↓, , 
+281, , Ryan Castellani, , Tzu-Wei Lin, 5, 2, 6, 1," In play, run(s)", , , , , ↓, , 
+282, , Ryan Castellani, , Li Lin, 4, 1, 5, 1," In play, out(s)", , , , , ↓, , 
+283, , Shao-Ching Chiang, , Vinnie Pasquantino, 3, 3, 3, 1," In play, out(s)", , , , , ↓, , 
+284, , Shao-Ching Chiang, , David Fletcher, 2, 2, 2, 1," In play, out(s)", , , , , ↓, , 
+285, , Shao-Ching Chiang, , Sal Frelick, 1, 1, 1, 1," In play, out(s)", , , , , ↓, , 

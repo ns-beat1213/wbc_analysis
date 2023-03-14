@@ -1,0 +1,254 @@
+,Statcast Metrics
+Rk.,,Pitcher,,Batter,Game Pitch #,Pitch,PA,Inning,Result,Pitch Type,Pitch Vel  (MPH),Spin (RPM),VBreak (In.)Vertical Break (Inches),,HBreak (In.)Horizontal Break (Inches),
+1, , Javy Guerra, , Nicky Lopez, 252, 20, 67, 9," In play, out(s)", 2-Seam Fastball, 99.1, 2325, 23, ↓, 17, ←
+2, , Javy Guerra, , Nicky Lopez, 251, 19, 67, 9, Foul, 2-Seam Fastball, 98.0, 2294, 7, ↓, 22, ←
+3, , Javy Guerra, , Nicky Lopez, 250, 18, 67, 9, Ball, 2-Seam Fastball, 98.2, 2192, 20, ↓, 16, ←
+4, , Javy Guerra, , Nicky Lopez, 249, 17, 67, 9, Called Strike, 2-Seam Fastball, 98.9, 2316, 22, ↓, 18, ←
+5, , Javy Guerra, , Nicky Lopez, 248, 16, 67, 9, Ball, 2-Seam Fastball, 98.5, 2241, 21, ↓, 18, ←
+6, , Javy Guerra, , John Valente, 247, 15, 66, 9, Swinging Strike, 4-Seam Fastball, 90.4, 2418, 25, ↓, 3, ←
+7, , Javy Guerra, , John Valente, 246, 14, 66, 9, Foul, 2-Seam Fastball, 97.5, 2188, 23, ↓, 20, ←
+8, , Javy Guerra, , John Valente, 245, 13, 66, 9, Foul, 2-Seam Fastball, 97.8, 2277, 23, ↓, 19, ←
+9, , Javy Guerra, , John Valente, 244, 12, 66, 9, Swinging Strike, 2-Seam Fastball, 96.9, 2244, 24, ↓, 18, ←
+10, , Javy Guerra, , John Valente, 243, 11, 66, 9, Called Strike, 2-Seam Fastball, 98.8, 2305, 20, ↓, 20, ←
+11, , Javy Guerra, , Brett Sullivan, 242, 10, 65, 9," In play, no out", 2-Seam Fastball, 98.9, 2235, 21, ↓, 18, ←
+12, , Javy Guerra, , Dominic Fletcher, 241, 9, 64, 9, Ball, 4-Seam Fastball, 98.5, 2363, 15, ↓, 8, ←
+13, , Javy Guerra, , Dominic Fletcher, 240, 8, 64, 9, Foul, 2-Seam Fastball, 99.5, 2469, 13, ↓, 12, ←
+14, , Javy Guerra, , Dominic Fletcher, 239, 7, 64, 9, Foul, 4-Seam Fastball, 98.4, 2542, 13, ↓, 11, ←
+15, , Javy Guerra, , Dominic Fletcher, 238, 6, 64, 9, Ball, 4-Seam Fastball, 92.3, 2547, 22, ↓, 6, ←
+16, , Javy Guerra, , Dominic Fletcher, 237, 5, 64, 9, Foul, 4-Seam Fastball, 99.5, 2574, 10, ↓, 11, ←
+17, , Javy Guerra, , Dominic Fletcher, 236, 4, 64, 9, Foul, 2-Seam Fastball, 97.5, 2292, 20, ↓, 17, ←
+18, , Javy Guerra, , Dominic Fletcher, 235, 3, 64, 9, Called Strike, 4-Seam Fastball, 98.5, 2599, 12, ↓, 10, ←
+19, , Javy Guerra, , Dominic Fletcher, 234, 2, 64, 9, Ball, 2-Seam Fastball, 98.4, 2353, 22, ↓, 19, ←
+20, , Javy Guerra, , Dominic Fletcher, 233, 1, 64, 9, Ball, 4-Seam Fastball, 98.3, 2503, 13, ↓, 12, ←
+21, , Glenn Albanese Jr., , Allen Cordoba, 232, 13, 63, 9," In play, out(s)", Curveball, 76.2, 2241, 51, ↓, 11, →
+22, , Glenn Albanese Jr., , Allen Cordoba, 231, 12, 63, 9, Swinging Strike, Curveball, 76.9, 2345, 49, ↓, 8, →
+23, , Glenn Albanese Jr., , Jhonny Santos, 230, 11, 62, 9," In play, out(s)", Curveball, 74.6, 2243, 55, ↓, 12, →
+24, , Glenn Albanese Jr., , Jhonny Santos, 229, 10, 62, 9, Called Strike, Sinker, 89.9, 2324, 26, ↓, 13, ←
+25, , Glenn Albanese Jr., , Jhonny Santos, 228, 9, 62, 9, Ball, Sinker, 90.9, 2293, 22, ↓, 12, ←
+26, , Glenn Albanese Jr., , Edgar Munoz, 227, 8, 61, 9," In play, no out", Sinker, 90.6, 2354, 21, ↓, 11, ←
+27, , Glenn Albanese Jr., , Edgar Munoz, 226, 7, 61, 9, Foul, Curveball, 75.7, 2284, 48, ↓, 14, →
+28, , Glenn Albanese Jr., , Edgar Munoz, 225, 6, 61, 9, Ball, Sinker, 88.5, 2249, 23, ↓, 11, ←
+29, , Glenn Albanese Jr., , Edgar Munoz, 224, 5, 61, 9, Ball, Curveball, 75.6, 2295, 46, ↓, 16, →
+30, , Glenn Albanese Jr., , Edgar Munoz, 223, 4, 61, 9, Called Strike, Curveball, 75.3, 2255, 44, ↓, 15, →
+31, , Glenn Albanese Jr., , Jose Ramos, 222, 3, 60, 9," In play, out(s)", Curveball, 75.6, 2179, 44, ↓, 11, →
+32, , Glenn Albanese Jr., , Jose Ramos, 221, 2, 60, 9, Foul, 4-Seam Fastball, 89.1, 2261, 24, ↓, 7, ←
+33, , Glenn Albanese Jr., , Jose Ramos, 220, 1, 60, 9, Ball, Curveball, 76.9, 2158, 45, ↓, 12, →
+34, , Alberto Baldonado, , Vinnie Pasquantino, 219, 23, 59, 8, Called Strike, Sinker, 96.5, 2500, 14, ↓, 13, →
+35, , Alberto Baldonado, , Vinnie Pasquantino, 218, 22, 59, 8, Foul, Sinker, 95.7, 2373, 15, ↓, 11, →
+36, , Alberto Baldonado, , Vinnie Pasquantino, 217, 21, 59, 8, Called Strike, Slider, 86.7, 2435, 28, ↓, 3, ←
+37, , Alberto Baldonado, , Vinnie Pasquantino, 216, 20, 59, 8, Ball, Slider, 87.0, 2427, 31, ↓, 4, ←
+38, , Alberto Baldonado, , Vinnie Pasquantino, 215, 19, 59, 8, Ball, Slider, 85.6, 2307, 33, ↓, 3, ←
+39, , Alberto Baldonado, , Sal Frelick, 214, 18, 58, 8," In play, no out", 4-Seam Fastball, 96.4, 2463, 15, ↓, 9, →
+40, , Alberto Baldonado, , Sal Frelick, 213, 17, 58, 8, Called Strike, Slider, 87.8, 2366, 28, ↓, 2, ←
+41, , Alberto Baldonado, , Sal Frelick, 212, 16, 58, 8, Ball, Slider, 87.0, 2394, 30, ↓, 2, ←
+42, , Alberto Baldonado, , Sal Frelick, 211, 15, 58, 8, Called Strike, Sinker, 96.0, 2340, 12, ↓, 10, →
+43, , Alberto Baldonado, , David Fletcher, 210, 14, 57, 8," In play, out(s)", 4-Seam Fastball, 95.8, 2390, 14, ↓, 7, →
+44, , Alberto Baldonado, , David Fletcher, 209, 13, 57, 8, Foul, Sinker, 95.8, 2398, 15, ↓, 12, →
+45, , Alberto Baldonado, , David Fletcher, 208, 12, 57, 8, Ball, Sinker, 95.1, 2382, 12, ↓, 13, →
+46, , Alberto Baldonado, , David Fletcher, 207, 11, 57, 8, Called Strike, Sinker, 94.3, 2454, 15, ↓, 14, →
+47, , Alberto Baldonado, , Dominic Miroglio, 206, 10, 56, 8," In play, out(s)", Slider, 83.9, 2193, 28, ↓, 1, →
+48, , Alberto Baldonado, , Dominic Miroglio, 205, 9, 56, 8, Ball, Changeup, 83.8, 2192, 27, ↓, 15, →
+49, , Matteo Bocchi, , Christian Bethancourt, 204, 18, 55, 8, Swinging Strike, Slider, 82.5, 2471, 38, ↓, 6, →
+50, , Matteo Bocchi, , Christian Bethancourt, 203, 17, 55, 8, Swinging Strike, Slider, 80.7, 2527, 40, ↓, 5, →
+51, , Matteo Bocchi, , Christian Bethancourt, 202, 16, 55, 8, Swinging Strike, Slider, 81.2, 2527, 38, ↓, 4, →
+52, , Matteo Bocchi, , Jonathan Arauz, 201, 15, 54, 8, Ball, Sinker, 90.3, 2231, 25, ↓, 18, ←
+53, , Matteo Bocchi, , Jonathan Arauz, 200, 14, 54, 8, Ball, Sinker, 90.2, 2366, 26, ↓, 19, ←
+54, , Matteo Bocchi, , Jonathan Arauz, 199, 13, 54, 8, Foul, Sinker, 90.7, 2263, 26, ↓, 17, ←
+55, , Matteo Bocchi, , Jonathan Arauz, 198, 12, 54, 8, Ball, Sinker, 89.1, 2273, 26, ↓, 16, ←
+56, , Matteo Bocchi, , Jonathan Arauz, 197, 11, 54, 8, Foul Tip, Sinker, 89.3, 2293, 26, ↓, 18, ←
+57, , Matteo Bocchi, , Jonathan Arauz, 196, 10, 54, 8, Ball, Sinker, 90.8, 2239, 26, ↓, 15, ←
+58, , Matteo Bocchi, , Ruben Tejada, 195, 9, 53, 8, Swinging Strike, Slider, 82.2, 2489, 40, ↓, 6, →
+59, , Matteo Bocchi, , Ruben Tejada, 194, 8, 53, 8, Foul, Slider, 81.7, 2481, 37, ↓, 5, →
+60, , Matteo Bocchi, , Ruben Tejada, 193, 7, 53, 8, Called Strike, Slider, 79.6, 2512, 40, ↓, 3, →
+61, , Matteo Bocchi, , Jose Caballero, 192, 6, 52, 8," In play, out(s)", Sinker, 89.4, 2293, 26, ↓, 18, ←
+62, , Matteo Bocchi, , Jose Caballero, 191, 5, 52, 8, Ball, Sinker, 90.5, 2247, 28, ↓, 17, ←
+63, , Matteo Bocchi, , Jose Caballero, 190, 4, 52, 8, Foul, Slider, 81.9, 2516, 37, ↓, 6, →
+64, , Matteo Bocchi, , Jose Caballero, 189, 3, 52, 8, Called Strike, Slider, 80.3, 2519, 41, ↓, 4, →
+65, , Matteo Bocchi, , Jose Caballero, 188, 2, 52, 8, Called Strike, Slider, 81.0, 2444, 40, ↓, 0, 
+66, , Matteo Bocchi, , Jose Caballero, 187, 1, 52, 8, Ball, Slider, 80.6, 2480, 40, ↓, 3, →
+67, , Alberto Baldonado, , Miles Mastrobuoni, 186, 8, 51, 7, Ball, 4-Seam Fastball, 95.7, 2402, 2, ↓, 5, →
+68, , Alberto Baldonado, , Miles Mastrobuoni, 185, 7, 51, 7, Ball, Slider, 86.5, 2429, 32, ↓, 3, ←
+69, , Alberto Baldonado, , Miles Mastrobuoni, 184, 6, 51, 7, Called Strike, Slider, 85.6, 2302, 30, ↓, 3, ←
+70, , Alberto Baldonado, , Miles Mastrobuoni, 183, 5, 51, 7, Ball, Slider, 84.7, 2338, 29, ↓, 1, →
+71, , Alberto Baldonado, , Nicky Lopez, 182, 4, 50, 7," In play, out(s)", 4-Seam Fastball, 94.9, 2410, 15, ↓, 7, →
+72, , Alberto Baldonado, , Nicky Lopez, 181, 3, 50, 7, Called Strike, Slider, 86.0, 2122, 6, ↓, 7, ←
+73, , Alberto Baldonado, , John Valente, 180, 2, 49, 7," In play, out(s)", Sinker, 92.0, 2405, 19, ↓, 14, →
+74, , Alberto Baldonado, , John Valente, 179, 1, 49, 7, Swinging Strike, Sinker, 93.5, 2336, 15, ↓, 10, →
+75, , Sam Gaviglio, , Jahdiel Santamaria, 178, 30, 48, 7," In play, out(s)", Slider, 82.3, 2156, 31, ↓, 4, ←
+76, , Sam Gaviglio, , Allen Cordoba, 177, 29, 47, 7," In play, run(s)", Changeup, 80.1, 1675, 32, ↓, 13, ←
+77, , Sam Gaviglio, , Luis Castillo, 176, 28, 46, 7," In play, out(s)", Changeup, 79.1, 1550, 39, ↓, 14, ←
+78, , Sam Gaviglio, , Luis Castillo, 175, 27, 46, 7, Ball, Sinker, 83.3, 2001, 32, ↓, 11, ←
+79, , Sam Gaviglio, , Erasmo Caballero, 174, 26, 45, 7," In play, out(s)", Sinker, 85.9, 2099, 32, ↓, 13, ←
+80, , Sam Gaviglio, , Erasmo Caballero, 173, 25, 45, 7, Ball, Sinker, 85.9, 2122, 29, ↓, 13, ←
+81, , Sam Gaviglio, , Erasmo Caballero, 172, 24, 45, 7, Called Strike, Sinker, 85.0, 2070, 30, ↓, 14, ←
+82, , Sam Gaviglio, , Jose Ramos, 171, 23, 44, 7," In play, no out", Sinker, 85.5, 2140, 30, ↓, 14, ←
+83, , Sam Gaviglio, , Jose Ramos, 170, 22, 44, 7, Ball, Changeup, 79.5, 1417, 38, ↓, 13, ←
+84, , Humberto Mejia, , Brett Sullivan, 169, 27, 43, 6," In play, out(s)", Curveball, 78.5, 2485, 56, ↓, 5, →
+85, , Humberto Mejia, , Brett Sullivan, 168, 26, 43, 6, Ball, Curveball, 78.7, 2511, 60, ↓, 8, →
+86, , Humberto Mejia, , Brett Sullivan, 167, 25, 43, 6, Foul, 4-Seam Fastball, 94.3, 2302, 12, ↓, 8, ←
+87, , Humberto Mejia, , Brett Sullivan, 166, 24, 43, 6, Foul, 4-Seam Fastball, 93.5, 2355, 15, ↓, 8, ←
+88, , Humberto Mejia, , Brett Sullivan, 165, 23, 43, 6, Called Strike, Curveball, 79.1, 2545, 55, ↓, 3, →
+89, , Humberto Mejia, , Brett Sullivan, 164, 22, 43, 6, Foul, 4-Seam Fastball, 94.0, 2281, 15, ↓, 8, ←
+90, , Humberto Mejia, , Dominic Fletcher, 163, 21, 42, 6," In play, out(s)", 4-Seam Fastball, 93.7, 2294, 14, ↓, 6, ←
+91, , Humberto Mejia, , Dominic Fletcher, 162, 20, 42, 6, Foul, Changeup, 86.4, 1977, 28, ↓, 15, ←
+92, , Humberto Mejia, , Dominic Fletcher, 161, 19, 42, 6, Ball, 4-Seam Fastball, 93.7, 2320, 15, ↓, 10, ←
+93, , Humberto Mejia, , Dominic Fletcher, 160, 18, 42, 6, Foul, Changeup, 85.8, 1911, 30, ↓, 15, ←
+94, , Humberto Mejia, , Dominic Fletcher, 159, 17, 42, 6, Ball, 4-Seam Fastball, 93.1, 2218, 14, ↓, 9, ←
+95, , Humberto Mejia, , Vinnie Pasquantino, 158, 16, 41, 6, Called Strike, 4-Seam Fastball, 93.2, 2235, 17, ↓, 9, ←
+96, , Humberto Mejia, , Vinnie Pasquantino, 157, 15, 41, 6, Swinging Strike, 4-Seam Fastball, 92.8, 2248, 17, ↓, 9, ←
+97, , Humberto Mejia, , Vinnie Pasquantino, 156, 14, 41, 6, Foul Bunt, Changeup, 85.2, 1857, 34, ↓, 15, ←
+98, , Sam Gaviglio, , Christian Bethancourt, 155, 21, 40, 6," In play, out(s)", Sinker, 85.2, 2151, 30, ↓, 5, ←
+99, , Sam Gaviglio, , Christian Bethancourt, 154, 20, 40, 6, Foul, Sinker, 84.4, 1996, 30, ↓, 10, ←
+100, , Sam Gaviglio, , Christian Bethancourt, 153, 19, 40, 6, Foul, Sinker, 85.7, 2008, 30, ↓, 15, ←
+101, , Sam Gaviglio, , Jonathan Arauz, 152, 18, 39, 6, Hit By Pitch, Sinker, 86.2, 2057, 27, ↓, 17, ←
+102, , Sam Gaviglio, , Jonathan Arauz, 151, 17, 39, 6, Foul, Changeup, 81.3, 1293, 41, ↓, 9, ←
+103, , Sam Gaviglio, , Jonathan Arauz, 150, 16, 39, 6, Foul, Sinker, 86.1, 2086, 31, ↓, 14, ←
+104, , Sam Gaviglio, , Jonathan Arauz, 149, 15, 39, 6, Foul, Sinker, 85.4, 2020, 31, ↓, 15, ←
+105, , Sam Gaviglio, , Jonathan Arauz, 148, 14, 39, 6, Ball, Changeup, 79.5, 1483, 40, ↓, 16, ←
+106, , Sam Gaviglio, , Jonathan Arauz, 147, 13, 39, 6, Ball, Sinker, 85.9, 2001, 31, ↓, 16, ←
+107, , Sam Gaviglio, , Ruben Tejada, 146, 12, 38, 6," In play, out(s)", Sinker, 83.7, 2103, 32, ↓, 12, ←
+108, , Sam Gaviglio, , Jose Caballero, 145, 11, 37, 6," In play, no out", Sinker, 85.4, 2032, 30, ↓, 12, ←
+109, , Humberto Mejia, , Sal Frelick, 144, 13, 36, 5," In play, out(s)", 4-Seam Fastball, 93.8, 2353, 13, ↓, 12, ←
+110, , Humberto Mejia, , Sal Frelick, 143, 12, 36, 5, Ball, Changeup, 86.6, 2002, 27, ↓, 16, ←
+111, , Humberto Mejia, , Sal Frelick, 142, 11, 36, 5, Swinging Strike, Changeup, 86.1, 2053, 29, ↓, 16, ←
+112, , Humberto Mejia, , Sal Frelick, 141, 10, 36, 5, Ball, Sinker, 93.0, 2286, 17, ↓, 14, ←
+113, , Humberto Mejia, , David Fletcher, 140, 9, 35, 5," In play, out(s)", Sinker, 93.3, 2297, 17, ↓, 12, ←
+114, , Humberto Mejia, , Dominic Miroglio, 139, 8, 34, 5," In play, out(s)", 4-Seam Fastball, 92.9, 2201, 15, ↓, 9, ←
+115, , Humberto Mejia, , Dominic Miroglio, 138, 7, 34, 5, Ball, 4-Seam Fastball, 93.4, 2340, 13, ↓, 9, ←
+116, , Humberto Mejia, , Miles Mastrobuoni, 137, 6, 33, 5, Ball, 4-Seam Fastball, 93.0, 2301, 14, ↓, 8, ←
+117, , Humberto Mejia, , Miles Mastrobuoni, 136, 5, 33, 5, Ball, Curveball, 80.7, 2516, 48, ↓, 1, ←
+118, , Humberto Mejia, , Miles Mastrobuoni, 135, 4, 33, 5, Ball, 4-Seam Fastball, 92.4, 2285, 16, ↓, 11, ←
+119, , Humberto Mejia, , Miles Mastrobuoni, 134, 3, 33, 5, Ball, 4-Seam Fastball, 92.1, 2283, 15, ↓, 9, ←
+120, , Humberto Mejia, , Nicky Lopez, 133, 2, 32, 5," In play, no out", 4-Seam Fastball, 93.6, 2300, 14, ↓, 7, ←
+121, , Humberto Mejia, , Nicky Lopez, 132, 1, 32, 5, Called Strike, 4-Seam Fastball, 93.4, 2291, 11, ↓, 8, ←
+122, , Sam Gaviglio, , Jahdiel Santamaria, 131, 10, 31, 5," In play, out(s)", Slider, 82.3, 2226, 33, ↓, 1, ←
+123, , Sam Gaviglio, , Jahdiel Santamaria, 130, 9, 31, 5, Called Strike, Sinker, 86.4, 2182, 25, ↓, 11, ←
+124, , Sam Gaviglio, , Allen Cordoba, 129, 8, 30, 5, Hit By Pitch, Sinker, 84.9, 2069, 30, ↓, 12, ←
+125, , Sam Gaviglio, , Allen Cordoba, 128, 7, 30, 5, Ball, Changeup, 82.4, 1692, 29, ↓, 14, ←
+126, , Sam Gaviglio, , Allen Cordoba, 127, 6, 30, 5, Swinging Strike, Sinker, 83.8, 2170, 24, ↓, 2, ←
+127, , Sam Gaviglio, , Luis Castillo, 126, 5, 29, 5," In play, out(s)", Changeup, 81.7, 1559, 34, ↓, 14, ←
+128, , Sam Gaviglio, , Luis Castillo, 125, 4, 29, 5, Foul, Sinker, 85.7, 2036, 29, ↓, 17, ←
+129, , Sam Gaviglio, , Luis Castillo, 124, 3, 29, 5, Ball, Sinker, 86.0, 2048, 28, ↓, 18, ←
+130, , Sam Gaviglio, , Erasmo Caballero, 123, 2, 28, 5," In play, no out", Sinker, 84.8, 2010, 32, ↓, 16, ←
+131, , Sam Gaviglio, , Erasmo Caballero, 122, 1, 28, 5, Ball, Sinker, 86.1, 2024, 29, ↓, 15, ←
+132, , Harold Arauz, , Robel Garcia, 121, 64, 27, 4, Called Strike, Slider, 82.4, 2363, 36, ↓, 1, →
+133, , Harold Arauz, , Robel Garcia, 120, 63, 27, 4, Ball, Slider, 83.2, 2248, 36, ↓, 1, →
+134, , Harold Arauz, , Robel Garcia, 119, 62, 27, 4, Swinging Strike, Cutter, 88.0, 2410, 24, ↓, 2, →
+135, , Harold Arauz, , Robel Garcia, 118, 61, 27, 4, Ball, Slider, 84.3, 2373, 33, ↓, 3, →
+136, , Harold Arauz, , Robel Garcia, 117, 60, 27, 4, Swinging Strike, Slider, 84.4, 2329, 35, ↓, 1, →
+137, , Harold Arauz, , Brett Sullivan, 116, 59, 26, 4," In play, out(s)", Cutter, 88.5, 2363, 24, ↓, 3, ←
+138, , Harold Arauz, , Brett Sullivan, 115, 58, 26, 4, Ball, Cutter, 88.3, 2383, 27, ↓, 2, ←
+139, , Harold Arauz, , Brett Sullivan, 114, 57, 26, 4, Called Strike, Cutter, 89.2, 2307, 26, ↓, 2, ←
+140, , Harold Arauz, , Brett Sullivan, 113, 56, 26, 4, Ball, Slider, 82.1, 2366, 39, ↓, 6, →
+141, , Harold Arauz, , Brett Sullivan, 112, 55, 26, 4, Ball, Curveball, 77.9, 2564, 59, ↓, 6, →
+142, , Harold Arauz, , Dominic Fletcher, 111, 54, 25, 4," In play, out(s)", Slider, 82.4, 2411, 36, ↓, 5, →
+143, , Harold Arauz, , Dominic Fletcher, 110, 53, 25, 4, Called Strike, Slider, 81.3, 2224, 40, ↓, 4, →
+144, , Harold Arauz, , Dominic Fletcher, 109, 52, 25, 4, Ball, Cutter, 87.9, 2294, 25, ↓, 0, 
+145, , Harold Arauz, , Dominic Fletcher, 108, 51, 25, 4, Foul, Cutter, 88.2, 2268, 24, ↓, 2, ←
+146, , Harold Arauz, , Dominic Fletcher, 107, 50, 25, 4, Ball, Curveball, 76.1, 2370, 60, ↓, 5, →
+147, , Michele Vassalotti, , Jose Ramos, 106, 57, 24, 4, Swinging Strike, Cutter, 85.8, 2587, 27, ↓, 2, →
+148, , Michele Vassalotti, , Jose Ramos, 105, 56, 24, 4, Swinging Strike, Cutter, 86.3, 2485, 27, ↓, 4, →
+149, , Michele Vassalotti, , Jose Ramos, 104, 55, 24, 4, Foul, Changeup, 85.1, 1720, 36, ↓, 16, ←
+150, , Michele Vassalotti, , Jose Ramos, 103, 54, 24, 4, Ball, Cutter, 84.4, 2298, 28, ↓, 5, ←
+151, , Michele Vassalotti, , Christian Bethancourt, 102, 53, 23, 4," In play, out(s)", 4-Seam Fastball, 91.6, 2336, 18, ↓, 5, ←
+152, , Michele Vassalotti, , Christian Bethancourt, 101, 52, 23, 4, Foul, 4-Seam Fastball, 92.3, 2306, 16, ↓, 8, ←
+153, , Michele Vassalotti, , Christian Bethancourt, 100, 51, 23, 4, Ball In Dirt, Cutter, 84.6, 2527, 34, ↓, 2, →
+154, , Michele Vassalotti, , Christian Bethancourt, 99, 50, 23, 4, Foul, 4-Seam Fastball, 92.5, 2443, 14, ↓, 6, ←
+155, , Michele Vassalotti, , Christian Bethancourt, 98, 49, 23, 4, Swinging Strike, 4-Seam Fastball, 91.0, 2217, 19, ↓, 5, ←
+156, , Michele Vassalotti, , Christian Bethancourt, 97, 48, 23, 4, Swinging Strike, 4-Seam Fastball, 90.5, 2311, 17, ↓, 7, ←
+157, , Michele Vassalotti, , Jonathan Arauz, 96, 47, 22, 4, Ball, 4-Seam Fastball, 90.7, 2363, 18, ↓, 5, ←
+158, , Michele Vassalotti, , Jonathan Arauz, 95, 46, 22, 4, Ball, Changeup, 85.7, 1722, 32, ↓, 16, ←
+159, , Michele Vassalotti, , Jonathan Arauz, 94, 45, 22, 4, Foul, 4-Seam Fastball, 90.6, 2377, 17, ↓, 8, ←
+160, , Michele Vassalotti, , Jonathan Arauz, 93, 44, 22, 4, Called Strike, 4-Seam Fastball, 90.0, 2335, 17, ↓, 9, ←
+161, , Michele Vassalotti, , Jonathan Arauz, 92, 43, 22, 4, Ball, 4-Seam Fastball, 91.3, 2347, 17, ↓, 10, ←
+162, , Michele Vassalotti, , Jonathan Arauz, 91, 42, 22, 4, Ball, 4-Seam Fastball, 92.2, 2371, 16, ↓, 8, ←
+163, , Harold Arauz, , Vinnie Pasquantino, 90, 49, 21, 3, Swinging Strike, Curveball, 78.3, 2417, 53, ↓, 8, →
+164, , Harold Arauz, , Vinnie Pasquantino, 89, 48, 21, 3, Ball, Slider, 82.1, 2259, 37, ↓, 2, →
+165, , Harold Arauz, , Vinnie Pasquantino, 88, 47, 21, 3, Foul, Cutter, 88.8, 2448, 25, ↓, 2, →
+166, , Harold Arauz, , Vinnie Pasquantino, 87, 46, 21, 3, Foul, Slider, 83.9, 2387, 36, ↓, 1, →
+167, , Harold Arauz, , Vinnie Pasquantino, 86, 45, 21, 3, Ball, Cutter, 90.0, 2488, 26, ↓, 0, 
+168, , Harold Arauz, , Vinnie Pasquantino, 85, 44, 21, 3, Swinging Strike, Slider, 83.6, 2340, 35, ↓, 4, →
+169, , Harold Arauz, , Sal Frelick, 84, 43, 20, 3," In play, out(s)", Slider, 83.1, 2264, 34, ↓, 2, →
+170, , Harold Arauz, , Sal Frelick, 83, 42, 20, 3, Foul, Cutter, 88.9, 2415, 27, ↓, 2, ←
+171, , Harold Arauz, , Sal Frelick, 82, 41, 20, 3, Ball, Slider, 82.5, 2206, 36, ↓, 3, →
+172, , Harold Arauz, , Sal Frelick, 81, 40, 20, 3, Swinging Strike, Slider, 83.6, 2226, 36, ↓, 1, →
+173, , Harold Arauz, , Sal Frelick, 80, 39, 20, 3, Called Strike, Cutter, 89.7, 2360, 24, ↓, 4, ←
+174, , Harold Arauz, , David Fletcher, 79, 38, 19, 3," In play, out(s)", Slider, 82.1, 2100, 36, ↓, 2, ←
+175, , Harold Arauz, , David Fletcher, 78, 37, 19, 3, Ball, Slider, 84.2, 2257, 34, ↓, 3, ←
+176, , Harold Arauz, , David Fletcher, 77, 36, 19, 3, Foul, Curveball, 78.9, 2483, 53, ↓, 3, →
+177, , Harold Arauz, , David Fletcher, 76, 35, 19, 3, Foul, Cutter, 89.4, 2315, 23, ↓, 4, ←
+178, , Harold Arauz, , David Fletcher, 75, 34, 19, 3, Swinging Strike, Cutter, 88.5, 2273, 24, ↓, 1, ←
+179, , Michele Vassalotti, , Ruben Tejada, 74, 41, 18, 3," In play, out(s)", 4-Seam Fastball, 94.1, 2408, 16, ↓, 6, ←
+180, , Michele Vassalotti, , Ruben Tejada, 73, 40, 18, 3, Ball, 4-Seam Fastball, 94.9, 2395, 15, ↓, 8, ←
+181, , Michele Vassalotti, , Ruben Tejada, 72, 39, 18, 3, Ball, Cutter, 84.5, 2427, 33, ↓, 5, →
+182, , Michele Vassalotti, , Ruben Tejada, 71, 38, 18, 3, Foul, 4-Seam Fastball, 93.6, 2466, 17, ↓, 5, ←
+183, , Michele Vassalotti, , Ruben Tejada, 70, 37, 18, 3, Swinging Strike, 4-Seam Fastball, 92.5, 2484, 18, ↓, 6, ←
+184, , Michele Vassalotti, , Ruben Tejada, 69, 36, 18, 3, Ball, Cutter, 85.0, 2264, 28, ↓, 4, →
+185, , Michele Vassalotti, , Jose Caballero, 68, 35, 17, 3," In play, out(s)", 4-Seam Fastball, 93.0, 2358, 16, ↓, 5, ←
+186, , Michele Vassalotti, , Jose Caballero, 67, 34, 17, 3, Foul, 4-Seam Fastball, 92.9, 2377, 16, ↓, 7, ←
+187, , Michele Vassalotti, , Jahdiel Santamaria, 66, 33, 16, 3, Swinging Strike, 4-Seam Fastball, 91.8, 2371, 16, ↓, 7, ←
+188, , Michele Vassalotti, , Jahdiel Santamaria, 65, 32, 16, 3, Foul, 4-Seam Fastball, 93.5, 2354, 16, ↓, 7, ←
+189, , Michele Vassalotti, , Jahdiel Santamaria, 64, 31, 16, 3, Called Strike, 4-Seam Fastball, 90.3, 2322, 19, ↓, 8, ←
+190, , Harold Arauz, , Dominic Miroglio, 63, 33, 15, 2," In play, out(s)", Slider, 83.6, 2265, 36, ↓, 3, →
+191, , Harold Arauz, , Dominic Miroglio, 62, 32, 15, 2, Swinging Strike, Slider, 83.1, 2500, 39, ↓, 2, →
+192, , Harold Arauz, , Dominic Miroglio, 61, 31, 15, 2, Ball, Cutter, 89.0, 2440, 24, ↓, 2, →
+193, , Harold Arauz, , Miles Mastrobuoni, 60, 30, 14, 2," In play, out(s)", Curveball, 78.2, 2396, 54, ↓, 3, →
+194, , Harold Arauz, , Miles Mastrobuoni, 59, 29, 14, 2, Swinging Strike, Curveball, 78.5, 2453, 52, ↓, 4, →
+195, , Harold Arauz, , Miles Mastrobuoni, 58, 28, 14, 2, Ball, Curveball, 78.0, 2393, 58, ↓, 5, →
+196, , Harold Arauz, , Miles Mastrobuoni, 57, 27, 14, 2, Called Strike, Cutter, 89.5, 2338, 20, ↓, 5, ←
+197, , Harold Arauz, , Miles Mastrobuoni, 56, 26, 14, 2, Ball, Slider, 81.6, 2554, 37, ↓, 1, →
+198, , Harold Arauz, , Miles Mastrobuoni, 55, 25, 14, 2, Ball, Cutter, 89.3, 2460, 21, ↓, 1, ←
+199, , Harold Arauz, , Nicky Lopez, 54, 24, 13, 2," In play, no out", Cutter, 89.1, , 24, ↓, 1, →
+200, , Harold Arauz, , Nicky Lopez, 53, 23, 13, 2, Called Strike, Cutter, 88.1, 2352, 23, ↓, 0, 
+201, , Harold Arauz, , Nicky Lopez, 52, 22, 13, 2, Swinging Strike, Cutter, 88.1, 2295, 26, ↓, 2, →
+202, , Harold Arauz, , Nicky Lopez, 51, 21, 13, 2, Ball, Cutter, 88.0, 2249, 24, ↓, 0, 
+203, , Harold Arauz, , Nicky Lopez, 50, 20, 13, 2, Ball, Cutter, 88.0, 2209, 26, ↓, 2, →
+204, , Harold Arauz, , Robel Garcia, 49, 19, 12, 2, Swinging Strike, Curveball, 79.4, 2466, 50, ↓, 3, →
+205, , Harold Arauz, , Robel Garcia, 48, 18, 12, 2, Ball, Cutter, 89.2, 2386, 24, ↓, 1, →
+206, , Harold Arauz, , Robel Garcia, 47, 17, 12, 2, Foul, Curveball, 77.7, 2468, 61, ↓, 5, →
+207, , Harold Arauz, , Robel Garcia, 46, 16, 12, 2, Ball, Curveball, 78.6, 2452, 57, ↓, 2, →
+208, , Harold Arauz, , Robel Garcia, 45, 15, 12, 2, Called Strike, Cutter, 89.6, 2375, 20, ↓, 2, ←
+209, , Michele Vassalotti, , Allen Cordoba, 44, 30, 11, 2," In play, out(s)", 4-Seam Fastball, 94.6, 2489, 13, ↓, 8, ←
+210, , Michele Vassalotti, , Allen Cordoba, 43, 29, 11, 2, Foul, Curveball, 76.2, 2474, 55, ↓, 10, →
+211, , Michele Vassalotti, , Allen Cordoba, 42, 28, 11, 2, Ball, Cutter, 85.9, 2367, 33, ↓, 4, →
+212, , Michele Vassalotti, , Allen Cordoba, 41, 27, 11, 2, Foul, 4-Seam Fastball, 94.8, 2441, 15, ↓, 8, ←
+213, , Michele Vassalotti, , Allen Cordoba, 40, 26, 11, 2, Foul, Cutter, 87.4, 2315, 28, ↓, 2, ←
+214, , Michele Vassalotti, , Luis Castillo, 39, 25, 10, 2," In play, out(s)", 4-Seam Fastball, 92.2, 2417, 18, ↓, 8, ←
+215, , Michele Vassalotti, , Luis Castillo, 38, 24, 10, 2, Ball In Dirt, Changeup, 87.4, 1786, 32, ↓, 15, ←
+216, , Michele Vassalotti, , Luis Castillo, 37, 23, 10, 2, Ball, 4-Seam Fastball, 95.0, 2414, 14, ↓, 7, ←
+217, , Michele Vassalotti, , Luis Castillo, 36, 22, 10, 2, Called Strike, 4-Seam Fastball, 93.0, 2426, 17, ↓, 6, ←
+218, , Michele Vassalotti, , Erasmo Caballero, 35, 21, 9, 2, Ball, 4-Seam Fastball, 95.7, 2515, 14, ↓, 9, ←
+219, , Michele Vassalotti, , Erasmo Caballero, 34, 20, 9, 2, Foul, Cutter, 85.6, 2394, 30, ↓, 6, →
+220, , Michele Vassalotti, , Erasmo Caballero, 33, 19, 9, 2, Foul, 4-Seam Fastball, 94.3, 2421, 15, ↓, 3, ←
+221, , Michele Vassalotti, , Erasmo Caballero, 32, 18, 9, 2, Ball, Cutter, 85.0, 2333, 30, ↓, 6, →
+222, , Michele Vassalotti, , Erasmo Caballero, 31, 17, 9, 2, Swinging Strike, 4-Seam Fastball, 91.7, 2386, 17, ↓, 2, ←
+223, , Michele Vassalotti, , Erasmo Caballero, 30, 16, 9, 2, Foul, 4-Seam Fastball, 93.8, 2428, 17, ↓, 6, ←
+224, , Michele Vassalotti, , Erasmo Caballero, 29, 15, 9, 2, Ball, 4-Seam Fastball, 92.7, 2469, 16, ↓, 5, ←
+225, , Michele Vassalotti, , Erasmo Caballero, 28, 14, 9, 2, Ball, 4-Seam Fastball, 93.6, 2485, 14, ↓, 10, ←
+226, , Michele Vassalotti, , Jose Ramos, 27, 13, 8, 2," In play, run(s)", 4-Seam Fastball, 93.2, 2430, 17, ↓, 9, ←
+227, , Michele Vassalotti, , Jose Ramos, 26, 12, 8, 2, Ball, 4-Seam Fastball, 91.8, 2377, 17, ↓, 5, ←
+228, , Michele Vassalotti, , Jose Ramos, 25, 11, 8, 2, Ball, Cutter, 82.9, 2422, 39, ↓, 6, →
+229, , Michele Vassalotti, , Jose Ramos, 24, 10, 8, 2, Ball, Cutter, 83.0, 2365, 34, ↓, 4, →
+230, , Harold Arauz, , Brett Sullivan, 23, 14, 7, 1," In play, out(s)", Cutter, 88.4, 2366, 22, ↓, 0, 
+231, , Harold Arauz, , Dominic Fletcher, 22, 13, 6, 1, Ball, Cutter, 88.5, 2312, 24, ↓, 1, ←
+232, , Harold Arauz, , Dominic Fletcher, 21, 12, 6, 1, Foul, Cutter, 88.2, 2375, 24, ↓, 0, 
+233, , Harold Arauz, , Dominic Fletcher, 20, 11, 6, 1, Called Strike, Cutter, 88.9, 2262, 27, ↓, 0, 
+234, , Harold Arauz, , Dominic Fletcher, 19, 10, 6, 1, Ball, Cutter, 88.8, 2385, 25, ↓, 0, 
+235, , Harold Arauz, , Dominic Fletcher, 18, 9, 6, 1, Ball, Curveball, 78.8, 2504, 57, ↓, 4, →
+236, , Harold Arauz, , Dominic Fletcher, 17, 8, 6, 1, Ball, Changeup, 85.5, 2182, 23, ↓, 10, ←
+237, , Harold Arauz, , Dominic Fletcher, 16, 7, 6, 1, Swinging Strike, Cutter, 90.7, 2269, 19, ↓, 4, ←
+238, , Harold Arauz, , Vinnie Pasquantino, 15, 6, 5, 1," In play, out(s)", Cutter, 88.4, 2221, 22, ↓, 3, ←
+239, , Harold Arauz, , Vinnie Pasquantino, 14, 5, 5, 1, Ball, Cutter, 89.5, 2255, 21, ↓, 2, ←
+240, , Harold Arauz, , Sal Frelick, 13, 4, 4, 1," In play, no out", Curveball, 80.0, 2419, 53, ↓, 0, 
+241, , Harold Arauz, , Sal Frelick, 12, 3, 4, 1, Swinging Strike, Cutter, 89.8, 2274, 24, ↓, 0, 
+242, , Harold Arauz, , Sal Frelick, 11, 2, 4, 1, Ball, Curveball, 78.6, 2466, 57, ↓, 2, →
+243, , Harold Arauz, , Sal Frelick, 10, 1, 4, 1, Called Strike, Cutter, 88.5, 2299, 24, ↓, 3, ←
+244, , Michele Vassalotti, , Christian Bethancourt, 9, 9, 3, 1, Swinging Strike, Cutter, 85.6, 2479, 30, ↓, 5, →
+245, , Michele Vassalotti, , Christian Bethancourt, 8, 8, 3, 1, Ball, 4-Seam Fastball, 96.1, 2574, 14, ↓, 3, ←
+246, , Michele Vassalotti, , Christian Bethancourt, 7, 7, 3, 1, Swinging Strike, 4-Seam Fastball, 95.7, 2468, 14, ↓, 5, ←
+247, , Michele Vassalotti, , Christian Bethancourt, 6, 6, 3, 1, Ball, Cutter, 84.4, 2717, 29, ↓, 5, →
+248, , Michele Vassalotti, , Christian Bethancourt, 5, 5, 3, 1, Swinging Strike, Cutter, 85.0, 2398, 30, ↓, 6, →
+249, , Michele Vassalotti, , Jonathan Arauz, 4, 4, 2, 1," In play, out(s)", 4-Seam Fastball, 91.8, 2396, 20, ↓, 2, ←
+250, , Michele Vassalotti, , Ruben Tejada, 3, 3, 1, 1," In play, no out", 4-Seam Fastball, 92.5, 2451, 17, ↓, 1, ←
+251, , Michele Vassalotti, , Ruben Tejada, 2, 2, 1, 1, Called Strike, Cutter, 83.2, 2488, 32, ↓, 12, →
+252, , Michele Vassalotti, , Ruben Tejada, 1, 1, 1, 1, Ball, 4-Seam Fastball, 91.0, 2392, 18, ↓, 3, ←

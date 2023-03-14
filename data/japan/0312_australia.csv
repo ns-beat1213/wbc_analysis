@@ -1,0 +1,326 @@
+,Statcast Metrics
+Rk.,,Pitcher,,Batter,Game Pitch #,Pitch,PA,Inning,Result,Pitch Type,Pitch Vel  (MPH),Spin (RPM),VBreak (In.)Vertical Break (Inches),,HBreak (In.)Horizontal Break (Inches),
+1, , Hiroto Takahashi, , Andrew Campbell, 324, 16, 77, 9, Swinging Strike, Cutter, 89.8, 1406, 30, ↓, 7, ←
+2, , Hiroto Takahashi, , Andrew Campbell, 323, 15, 77, 9, Foul, Cutter, 88.9, 1379, 28, ↓, 6, ←
+3, , Hiroto Takahashi, , Andrew Campbell, 322, 14, 77, 9, Swinging Strike, 4-Seam Fastball, 94.3, 2032, 18, ↓, 9, ←
+4, , Hiroto Takahashi, , Andrew Campbell, 321, 13, 77, 9, Swinging Strike, Changeup, 89.0, 1432, 33, ↓, 11, ←
+5, , Hiroto Takahashi, , Andrew Campbell, 320, 12, 77, 9, Ball, Sinker, 96.0, 1992, 19, ↓, 10, ←
+6, , Hiroto Takahashi, , Liam Spence, 319, 11, 76, 9," In play, out(s)", Cutter, 89.0, 1371, 31, ↓, 5, ←
+7, , Hiroto Takahashi, , Liam Spence, 318, 10, 76, 9, Swinging Strike, Sinker, 95.7, 2077, 16, ↓, 11, ←
+8, , Hiroto Takahashi, , Liam Spence, 317, 9, 76, 9, Ball, 4-Seam Fastball, 96.2, 1975, 16, ↓, 8, ←
+9, , Hiroto Takahashi, , Jake Bowey, 316, 8, 75, 9, Swinging Strike, Changeup, 88.6, 1120, 37, ↓, 10, ←
+10, , Hiroto Takahashi, , Jake Bowey, 315, 7, 75, 9, Swinging Strike, Sinker, 96.4, 2125, 15, ↓, 12, ←
+11, , Hiroto Takahashi, , Jake Bowey, 314, 6, 75, 9, Ball, Cutter, 87.3, 1537, 32, ↓, 5, ←
+12, , Hiroto Takahashi, , Jake Bowey, 313, 5, 75, 9, Ball, Sinker, 96.3, 2074, 18, ↓, 13, ←
+13, , Hiroto Takahashi, , Jake Bowey, 312, 4, 75, 9, Swinging Strike, Changeup, 88.9, 1080, 35, ↓, 13, ←
+14, , Hiroto Takahashi, , Jake Bowey, 311, 3, 75, 9, Ball, Cutter, 88.7, 1307, 31, ↓, 7, ←
+15, , Hiroto Takahashi, , Alex Hall, 310, 2, 74, 9," In play, run(s)", Sinker, 95.9, 2143, 16, ↓, 13, ←
+16, , Hiroto Takahashi, , Alex Hall, 309, 1, 74, 9, Ball, Sinker, 96.6, 2118, 15, ↓, 12, ←
+17, , Sam Holland, , Takumi Ohshiro, 308, 18, 73, 9," In play, out(s)", Changeup, 85.2, 1876, 34, ↓, 21, ←
+18, , Sam Holland, , Takumi Ohshiro, 307, 17, 73, 9, Called Strike, Slider, 85.2, 2591, 39, ↓, 2, ←
+19, , Sam Holland, , Takumu Nakano, 306, 16, 72, 9, Called Strike, Sinker, 89.7, 2277, 29, ↓, 20, ←
+20, , Sam Holland, , Takumu Nakano, 305, 15, 72, 9, Ball, Sinker, 89.2, 2255, 30, ↓, 19, ←
+21, , Sam Holland, , Takumu Nakano, 304, 14, 72, 9, Ball, Sinker, 89.7, 2275, 27, ↓, 19, ←
+22, , Sam Holland, , Takumu Nakano, 303, 13, 72, 9, Swinging Strike, Sinker, 89.5, 2259, 30, ↓, 20, ←
+23, , Sam Holland, , Takumu Nakano, 302, 12, 72, 9, Ball, Slider, 83.9, 2693, 39, ↓, 1, ←
+24, , Sam Holland, , Takumu Nakano, 301, 11, 72, 9, Called Strike, Sinker, 89.1, 2254, 31, ↓, 21, ←
+25, , Sam Holland, , Tetsuto Yamada, 300, 10, 71, 9, Called Strike, Sinker, 89.6, 2240, 31, ↓, 20, ←
+26, , Sam Holland, , Tetsuto Yamada, 299, 9, 71, 9, Ball, Slider, 84.8, 2678, 38, ↓, 1, ←
+27, , Sam Holland, , Tetsuto Yamada, 298, 8, 71, 9, Foul, Sinker, 89.1, 2210, 35, ↓, 21, ←
+28, , Sam Holland, , Tetsuto Yamada, 297, 7, 71, 9, Swinging Strike, Sinker, 88.7, 2161, 31, ↓, 18, ←
+29, , Sam Holland, , Tetsuto Yamada, 296, 6, 71, 9, Ball, Sinker, 89.1, 2169, 35, ↓, 19, ←
+30, , Sam Holland, , Shugo Maki, 295, 5, 70, 9," In play, no out", Sinker, 89.2, 2080, 34, ↓, 20, ←
+31, , Sam Holland, , Shugo Maki, 294, 4, 70, 9, Foul, Sinker, 89.1, 2308, 33, ↓, 20, ←
+32, , Sam Holland, , Shugo Maki, 293, 3, 70, 9, Ball, Sinker, 89.8, 2239, 32, ↓, 19, ←
+33, , Sam Holland, , Shugo Maki, 292, 2, 70, 9, Ball, Sinker, 90.2, 2226, 32, ↓, 19, ←
+34, , Sam Holland, , Shugo Maki, 291, 1, 70, 9, Called Strike, Sinker, 89.1, 2275, 33, ↓, 19, ←
+35, , Atsuki Yuasa, , Jordan McArdle, 290, 16, 69, 8," In play, out(s)", 4-Seam Fastball, 92.5, 2160, 12, ↓, 3, ←
+36, , Atsuki Yuasa, , Jordan McArdle, 289, 15, 69, 8, Ball, Changeup, 85.7, 1352, 29, ↓, 9, ←
+37, , Atsuki Yuasa, , Jordan McArdle, 288, 14, 69, 8, Swinging Strike, Changeup, 85.7, 1206, 34, ↓, 9, ←
+38, , Atsuki Yuasa, , Jordan McArdle, 287, 13, 69, 8, Ball, Changeup, 86.0, 1177, 31, ↓, 13, ←
+39, , Atsuki Yuasa, , Ulrich Bojarski, 286, 12, 68, 8," In play, out(s)", 4-Seam Fastball, 91.8, 2147, 15, ↓, 2, ←
+40, , Atsuki Yuasa, , Ryan Battaglia, 285, 11, 67, 8, Ball, Changeup, 86.4, 1073, 35, ↓, 10, ←
+41, , Atsuki Yuasa, , Ryan Battaglia, 284, 10, 67, 8, Foul, 4-Seam Fastball, 93.1, 2194, 14, ↓, 4, ←
+42, , Atsuki Yuasa, , Ryan Battaglia, 283, 9, 67, 8, Ball, 4-Seam Fastball, 92.7, 2243, 12, ↓, 6, ←
+43, , Atsuki Yuasa, , Ryan Battaglia, 282, 8, 67, 8, Foul, 4-Seam Fastball, 93.1, 2223, 13, ↓, 4, ←
+44, , Atsuki Yuasa, , Ryan Battaglia, 281, 7, 67, 8, Ball, Changeup, 88.3, 1415, 31, ↓, 9, ←
+45, , Atsuki Yuasa, , Ryan Battaglia, 280, 6, 67, 8, Called Strike, Changeup, 86.0, 1208, 35, ↓, 8, ←
+46, , Atsuki Yuasa, , Ryan Battaglia, 279, 5, 67, 8, Ball In Dirt, Changeup, 84.8, 1323, 32, ↓, 11, ←
+47, , Atsuki Yuasa, , Ryan Battaglia, 278, 4, 67, 8, Swinging Strike, 4-Seam Fastball, 92.0, 2210, 14, ↓, 5, ←
+48, , Atsuki Yuasa, , Jarryd Dale, 277, 3, 66, 8," In play, no out", 4-Seam Fastball, 92.5, 2179, 14, ↓, 4, ←
+49, , Atsuki Yuasa, , Jarryd Dale, 276, 2, 66, 8, Ball, 4-Seam Fastball, 92.7, 2188, 15, ↓, 4, ←
+50, , Atsuki Yuasa, , Rixon Wingrove, 275, 1, 65, 8," In play, out(s)", 4-Seam Fastball, 92.4, 2192, 13, ↓, 3, ←
+51, , Josh Guyer, , Masataka Yoshida, 274, 20, 64, 8," In play, out(s)", 4-Seam Fastball, 91.5, 1958, 16, ↓, 9, ←
+52, , Josh Guyer, , Masataka Yoshida, 273, 19, 64, 8, Foul, 4-Seam Fastball, 91.3, 1925, 18, ↓, 11, ←
+53, , Josh Guyer, , Masataka Yoshida, 272, 18, 64, 8, Ball, Sinker, 90.6, 1973, 21, ↓, 14, ←
+54, , Josh Guyer, , Masataka Yoshida, 271, 17, 64, 8, Ball, 4-Seam Fastball, 91.3, 1924, 19, ↓, 11, ←
+55, , Josh Guyer, , Munetaka Murakami, 270, 16, 63, 8, Ball, 4-Seam Fastball, 91.0, 1895, 17, ↓, 11, ←
+56, , Josh Guyer, , Munetaka Murakami, 269, 15, 63, 8, Called Strike, 4-Seam Fastball, 91.6, 2005, 19, ↓, 12, ←
+57, , Josh Guyer, , Munetaka Murakami, 268, 14, 63, 8, Ball, Cutter, 86.3, 2143, 30, ↓, 2, →
+58, , Josh Guyer, , Munetaka Murakami, 267, 13, 63, 8, Foul, Cutter, 85.7, 2081, 32, ↓, 3, →
+59, , Josh Guyer, , Munetaka Murakami, 266, 12, 63, 8, Ball, 4-Seam Fastball, 92.1, 1967, 18, ↓, 12, ←
+60, , Josh Guyer, , Munetaka Murakami, 265, 11, 63, 8, Ball, Cutter, 86.9, 2136, 28, ↓, 3, →
+61, , Josh Guyer, , Hotaka Yamakawa, 264, 10, 62, 8," In play, out(s)", 4-Seam Fastball, 90.3, 1921, 18, ↓, 10, ←
+62, , Josh Guyer, , Hotaka Yamakawa, 263, 9, 62, 8, Ball, 4-Seam Fastball, 90.9, 1973, 18, ↓, 10, ←
+63, , Josh Guyer, , Hotaka Yamakawa, 262, 8, 62, 8, Ball, Curveball, 73.4, 2644, 70, ↓, 12, →
+64, , Josh Guyer, , Hotaka Yamakawa, 261, 7, 62, 8, Foul, 4-Seam Fastball, 91.2, 1979, 16, ↓, 11, ←
+65, , Josh Guyer, , Hotaka Yamakawa, 260, 6, 62, 8, Ball, Cutter, 85.9, 2176, 26, ↓, 1, ←
+66, , Josh Guyer, , Hotaka Yamakawa, 259, 5, 62, 8, Swinging Strike, Cutter, 85.6, 2136, 34, ↓, 1, →
+67, , Josh Guyer, , Kensuke Kondoh, 258, 4, 61, 8," In play, out(s)", 4-Seam Fastball, 92.1, 2104, 15, ↓, 11, ←
+68, , Josh Guyer, , Kensuke Kondoh, 257, 3, 61, 8, Called Strike, Cutter, 86.2, 2168, 29, ↓, 2, →
+69, , Josh Guyer, , Kensuke Kondoh, 256, 2, 61, 8, Called Strike, 4-Seam Fastball, 91.3, 2129, 17, ↓, 12, ←
+70, , Josh Guyer, , Kensuke Kondoh, 255, 1, 61, 8, Ball, 4-Seam Fastball, 90.9, 2036, 16, ↓, 11, ←
+71, , Taisei Ota, , Andrew Campbell, 254, 13, 60, 7, Called Strike, Sinker, 96.1, 2237, 17, ↓, 19, ←
+72, , Taisei Ota, , Andrew Campbell, 253, 12, 60, 7, Ball, Sinker, 96.1, 2265, 19, ↓, 15, ←
+73, , Taisei Ota, , Andrew Campbell, 252, 11, 60, 7, Ball, Splitter, 87.4, 1126, 36, ↓, 9, ←
+74, , Taisei Ota, , Andrew Campbell, 251, 10, 60, 7, Swinging Strike, Splitter, 87.3, 1003, 39, ↓, 11, ←
+75, , Taisei Ota, , Andrew Campbell, 250, 9, 60, 7, Called Strike, Splitter, 86.6, 859, 40, ↓, 10, ←
+76, , Taisei Ota, , Liam Spence, 249, 8, 59, 7," In play, out(s)", Splitter, 87.6, 3379, 36, ↓, 10, ←
+77, , Taisei Ota, , Liam Spence, 248, 7, 59, 7, Foul, Splitter, 85.4, 869, 39, ↓, 2, ←
+78, , Taisei Ota, , Liam Spence, 247, 6, 59, 7, Ball, Sinker, 96.1, 2263, 17, ↓, 18, ←
+79, , Taisei Ota, , Liam Spence, 246, 5, 59, 7, Called Strike, Sinker, 95.9, 2267, 17, ↓, 15, ←
+80, , Taisei Ota, , Robbie Glendinning, 245, 4, 58, 7," In play, no out", Sinker, 96.1, 2329, 18, ↓, 18, ←
+81, , Taisei Ota, , Robbie Glendinning, 244, 3, 58, 7, Swinging Strike, Splitter, 84.0, 746, 38, ↓, 7, ←
+82, , Taisei Ota, , Robbie Glendinning, 243, 2, 58, 7, Ball, Sinker, 96.2, 2270, 15, ↓, 15, ←
+83, , Taisei Ota, , Robbie Glendinning, 242, 1, 58, 7, Swinging Strike, Sinker, 96.8, 2296, 16, ↓, 16, ←
+84, , Todd Van Steensel, , Lars Nootbaar, 241, 37, 57, 7, Swinging Strike, Slider, 83.6, 2455, 40, ↓, 1, →
+85, , Todd Van Steensel, , Lars Nootbaar, 240, 36, 57, 7, Ball, Slider, 83.8, 2507, 43, ↓, 4, →
+86, , Todd Van Steensel, , Lars Nootbaar, 239, 35, 57, 7, Called Strike, 4-Seam Fastball, 94.0, 2325, 16, ↓, 9, ←
+87, , Todd Van Steensel, , Lars Nootbaar, 238, 34, 57, 7, Ball In Dirt, Slider, 82.1, 2499, 41, ↓, 4, →
+88, , Todd Van Steensel, , Lars Nootbaar, 237, 33, 57, 7, Called Strike, Changeup, 85.3, 2397, 24, ↓, 17, ←
+89, , Todd Van Steensel, , Lars Nootbaar, 236, 32, 57, 7, Ball, 4-Seam Fastball, 89.5, 2421, 19, ↓, 7, ←
+90, , Todd Van Steensel, , Yuhei Nakamura, 235, 31, 56, 7," In play, no out", 4-Seam Fastball, 92.4, 2471, 17, ↓, 6, ←
+91, , Todd Van Steensel, , Yuhei Nakamura, 234, 30, 56, 7, Foul, 4-Seam Fastball, 91.5, 2421, 15, ↓, 7, ←
+92, , Todd Van Steensel, , Yuhei Nakamura, 233, 29, 56, 7, Ball, Slider, 82.4, 2450, 41, ↓, 6, →
+93, , Todd Van Steensel, , Yuhei Nakamura, 232, 28, 56, 7, Called Strike, 4-Seam Fastball, 91.2, 2383, 19, ↓, 5, ←
+94, , Todd Van Steensel, , Yuhei Nakamura, 231, 27, 56, 7, Called Strike, 4-Seam Fastball, 91.3, 2327, 19, ↓, 8, ←
+95, , Todd Van Steensel, , Yuhei Nakamura, 230, 26, 56, 7, Ball, 4-Seam Fastball, 91.2, 2334, 21, ↓, 4, ←
+96, , Todd Van Steensel, , Yuhei Nakamura, 229, 25, 56, 7, Ball, Slider, 82.4, 2554, 42, ↓, 1, →
+97, , Todd Van Steensel, , Takumu Nakano, 228, 24, 55, 7," In play, out(s)", Sinker, 93.1, 2259, 19, ↓, 13, ←
+98, , Todd Van Steensel, , Tetsuto Yamada, 227, 23, 54, 7, Called Strike, Slider, 83.2, 2352, 38, ↓, 1, →
+99, , Todd Van Steensel, , Tetsuto Yamada, 226, 22, 54, 7, Foul, Curveball, 81.5, 2434, 46, ↓, 5, →
+100, , Todd Van Steensel, , Tetsuto Yamada, 225, 21, 54, 7, Foul, 4-Seam Fastball, 92.4, 2378, 16, ↓, 7, ←
+101, , Todd Van Steensel, , Tetsuto Yamada, 224, 20, 54, 7, Ball, 4-Seam Fastball, 93.0, 2473, 19, ↓, 8, ←
+102, , Todd Van Steensel, , Tetsuto Yamada, 223, 19, 54, 7, Foul, Slider, 81.0, 2660, 42, ↓, 6, →
+103, , Todd Van Steensel, , Tetsuto Yamada, 222, 18, 54, 7, Called Strike, 4-Seam Fastball, 91.1, 2475, 20, ↓, 9, ←
+104, , Todd Van Steensel, , Tetsuto Yamada, 221, 17, 54, 7, Ball, 4-Seam Fastball, 91.9, 2488, 20, ↓, 8, ←
+105, , Todd Van Steensel, , Tetsuto Yamada, 220, 16, 54, 7, Ball, Slider, 81.6, 2554, 42, ↓, 1, →
+106, , Keiji Takahashi, , Alex Hall, 219, 28, 53, 6," In play, out(s)", Sinker, 93.2, 2405, 17, ↓, 13, →
+107, , Keiji Takahashi, , Alex Hall, 218, 27, 53, 6, Ball, Sinker, 93.2, 2373, 14, ↓, 12, →
+108, , Keiji Takahashi, , Alex Hall, 217, 26, 53, 6, Ball, 4-Seam Fastball, 92.9, 2363, 12, ↓, 6, →
+109, , Keiji Takahashi, , Alex Hall, 216, 25, 53, 6, Swinging Strike, 4-Seam Fastball, 92.9, 2434, 11, ↓, 9, →
+110, , Keiji Takahashi, , Alex Hall, 215, 24, 53, 6, Ball, Curveball, 70.9, 3020, 74, ↓, 13, ←
+111, , Keiji Takahashi, , Alex Hall, 214, 23, 53, 6, Called Strike, Changeup, 78.3, 1770, 38, ↓, 14, →
+112, , Keiji Takahashi, , Jordan McArdle, 213, 22, 52, 6, Swinging Strike, 4-Seam Fastball, 92.6, 2365, 13, ↓, 9, →
+113, , Keiji Takahashi, , Jordan McArdle, 212, 21, 52, 6, Called Strike, Sinker, 91.7, 2313, 18, ↓, 11, →
+114, , Keiji Takahashi, , Jordan McArdle, 211, 20, 52, 6, Called Strike, Sinker, 91.6, 2305, 19, ↓, 13, →
+115, , Keiji Takahashi, , Ulrich Bojarski, 210, 19, 51, 6," In play, no out", 4-Seam Fastball, 94.5, 2381, 13, ↓, 9, →
+116, , Keiji Takahashi, , Ulrich Bojarski, 209, 18, 51, 6, Ball, Curveball, 72.7, 3003, 71, ↓, 6, ←
+117, , Keiji Takahashi, , Ulrich Bojarski, 208, 17, 51, 6, Swinging Strike, Slider, 83.5, 2350, 36, ↓, 5, ←
+118, , Keiji Takahashi, , Robbie Perkins, 207, 16, 50, 6," In play, out(s)", 4-Seam Fastball, 93.6, 2290, 15, ↓, 9, →
+119, , Keiji Takahashi, , Robbie Perkins, 206, 15, 50, 6, Foul, 4-Seam Fastball, 93.2, 2271, 14, ↓, 7, →
+120, , Keiji Takahashi, , Robbie Perkins, 205, 14, 50, 6, Ball, Changeup, 80.2, 1695, 48, ↓, 16, →
+121, , Keiji Takahashi, , Robbie Perkins, 204, 13, 50, 6, Swinging Strike, 4-Seam Fastball, 92.0, 2260, 16, ↓, 9, →
+122, , Keiji Takahashi, , Robbie Perkins, 203, 12, 50, 6, Ball, 4-Seam Fastball, 92.1, 2363, 17, ↓, 10, →
+123, , Todd Van Steensel, , Kazuma Okamoto, 202, 15, 49, 6," In play, out(s)", 4-Seam Fastball, 92.6, 2444, 17, ↓, 9, ←
+124, , Todd Van Steensel, , Kazuma Okamoto, 201, 14, 49, 6, Ball, Slider, 83.2, 2654, 39, ↓, 2, →
+125, , Todd Van Steensel, , Masataka Yoshida, 200, 13, 48, 6," In play, out(s)", Changeup, 83.1, 2227, 31, ↓, 20, ←
+126, , Todd Van Steensel, , Masataka Yoshida, 199, 12, 48, 6, Ball, 4-Seam Fastball, 90.9, 2317, 20, ↓, 10, ←
+127, , Todd Van Steensel, , Munetaka Murakami, 198, 11, 47, 6," In play, no out", 4-Seam Fastball, 91.7, 2425, 19, ↓, 8, ←
+128, , Todd Van Steensel, , Munetaka Murakami, 197, 10, 47, 6, Ball, Slider, 83.8, 2535, 39, ↓, 3, →
+129, , Todd Van Steensel, , Munetaka Murakami, 196, 9, 47, 6, Foul, 4-Seam Fastball, 93.4, 2534, 21, ↓, 8, ←
+130, , Todd Van Steensel, , Munetaka Murakami, 195, 8, 47, 6, Ball, Slider, 82.7, 2471, 42, ↓, 5, →
+131, , Todd Van Steensel, , Munetaka Murakami, 194, 7, 47, 6, Called Strike, Slider, 83.1, 2400, 40, ↓, 2, →
+132, , Todd Van Steensel, , Shohei Ohtani, 193, 6, 46, 6, Swinging Strike, 4-Seam Fastball, 92.5, 2444, 19, ↓, 10, ←
+133, , Todd Van Steensel, , Shohei Ohtani, 192, 5, 46, 6, Called Strike, 4-Seam Fastball, 91.3, 2352, 18, ↓, 8, ←
+134, , Todd Van Steensel, , Shohei Ohtani, 191, 4, 46, 6, Ball, 4-Seam Fastball, 93.1, 2407, 18, ↓, 7, ←
+135, , Todd Van Steensel, , Shohei Ohtani, 190, 3, 46, 6, Ball, Changeup, 83.5, 2412, 30, ↓, 20, ←
+136, , Todd Van Steensel, , Shohei Ohtani, 189, 2, 46, 6, Ball, Changeup, 83.8, 2429, 29, ↓, 20, ←
+137, , Todd Van Steensel, , Shohei Ohtani, 188, 1, 46, 6, Called Strike, 4-Seam Fastball, 92.7, 2415, 18, ↓, 8, ←
+138, , Keiji Takahashi, , Jarryd Dale, 187, 11, 45, 5," In play, out(s)", Curveball, 72.4, 3070, 71, ↓, 13, ←
+139, , Keiji Takahashi, , Jarryd Dale, 186, 10, 45, 5, Called Strike, Curveball, 72.0, 3026, 72, ↓, 12, ←
+140, , Keiji Takahashi, , Rixon Wingrove, 185, 9, 44, 5," In play, out(s)", Sinker, 94.5, 2469, 12, ↓, 11, →
+141, , Keiji Takahashi, , Rixon Wingrove, 184, 8, 44, 5, Ball, Curveball, 74.4, 3038, 65, ↓, 11, ←
+142, , Keiji Takahashi, , Rixon Wingrove, 183, 7, 44, 5, Swinging Strike, 4-Seam Fastball, 94.5, 2376, 15, ↓, 7, →
+143, , Keiji Takahashi, , Aaron Whitefield, 182, 6, 43, 5, Swinging Strike, 4-Seam Fastball, 93.7, 2291, 14, ↓, 10, →
+144, , Keiji Takahashi, , Aaron Whitefield, 181, 5, 43, 5, Ball, Changeup, 83.4, 1974, 29, ↓, 14, →
+145, , Keiji Takahashi, , Aaron Whitefield, 180, 4, 43, 5, Ball, 4-Seam Fastball, 94.2, 2312, 13, ↓, 9, →
+146, , Keiji Takahashi, , Aaron Whitefield, 179, 3, 43, 5, Ball, 4-Seam Fastball, 93.7, 2319, 13, ↓, 8, →
+147, , Keiji Takahashi, , Aaron Whitefield, 178, 2, 43, 5, Swinging Strike, 4-Seam Fastball, 93.1, 2369, 14, ↓, 7, →
+148, , Keiji Takahashi, , Aaron Whitefield, 177, 1, 43, 5, Swinging Strike, 4-Seam Fastball, 92.4, 2288, 15, ↓, 9, →
+149, , Liam Doolan, , Kensuke Kondoh, 176, 28, 42, 5, Swinging Strike, 4-Seam Fastball, 93.0, 2142, 18, ↓, 7, ←
+150, , Liam Doolan, , Kensuke Kondoh, 175, 27, 42, 5, Ball, 4-Seam Fastball, 93.4, 2213, 15, ↓, 8, ←
+151, , Liam Doolan, , Kensuke Kondoh, 174, 26, 42, 5, Ball, Slider, 78.9, 1719, 50, ↓, 0, 
+152, , Liam Doolan, , Kensuke Kondoh, 173, 25, 42, 5, Ball, 4-Seam Fastball, 94.3, 2226, 20, ↓, 8, ←
+153, , Liam Doolan, , Kensuke Kondoh, 172, 24, 42, 5, Called Strike, 4-Seam Fastball, 92.4, 2113, 17, ↓, 7, ←
+154, , Liam Doolan, , Kensuke Kondoh, 171, 23, 42, 5, Foul, 4-Seam Fastball, 91.4, 2157, 19, ↓, 7, ←
+155, , Liam Doolan, , Lars Nootbaar, 170, 22, 41, 5, Swinging Strike, Slider, 80.6, 1658, 47, ↓, 2, →
+156, , Liam Doolan, , Lars Nootbaar, 169, 21, 41, 5, Called Strike, Slider, 80.3, 1766, 46, ↓, 2, →
+157, , Liam Doolan, , Lars Nootbaar, 168, 20, 41, 5, Foul, 4-Seam Fastball, 91.2, 2165, 17, ↓, 7, ←
+158, , Liam Doolan, , Yuhei Nakamura, 167, 19, 40, 5," In play, run(s)", Sinker, 93.5, 2177, 18, ↓, 11, ←
+159, , Liam Doolan, , Yuhei Nakamura, 166, 18, 40, 5, Foul, 4-Seam Fastball, 92.8, 2114, 19, ↓, 9, ←
+160, , Liam Doolan, , Yuhei Nakamura, 165, 17, 40, 5, Ball In Dirt, Slider, 81.0, 3202, 40, ↓, 2, ←
+161, , Liam Doolan, , Yuhei Nakamura, 164, 16, 40, 5, Foul, Slider, 80.9, 1648, 42, ↓, 0, 
+162, , Liam Doolan, , Yuhei Nakamura, 163, 15, 40, 5, Foul, 4-Seam Fastball, 93.7, 2131, 15, ↓, 9, ←
+163, , Liam Doolan, , Yuhei Nakamura, 162, 14, 40, 5, Called Strike, Slider, 80.0, 1652, 45, ↓, 1, ←
+164, , Liam Doolan, , Yuhei Nakamura, 161, 13, 40, 5, Ball In Dirt, Slider, 81.1, 1898, 44, ↓, 0, 
+165, , Liam Doolan, , Yuhei Nakamura, 160, 12, 40, 5, Called Strike, 4-Seam Fastball, 91.4, 2095, 17, ↓, 9, ←
+166, , Liam Doolan, , Takumu Nakano, 159, 11, 39, 5, Ball, 4-Seam Fastball, 92.6, 2144, 15, ↓, 9, ←
+167, , Liam Doolan, , Takumu Nakano, 158, 10, 39, 5, Ball, 4-Seam Fastball, 93.3, 2260, 13, ↓, 9, ←
+168, , Liam Doolan, , Takumu Nakano, 157, 9, 39, 5, Called Strike, 4-Seam Fastball, 92.4, 2175, 15, ↓, 9, ←
+169, , Liam Doolan, , Takumu Nakano, 156, 8, 39, 5, Ball, Sinker, 92.0, 2142, 17, ↓, 11, ←
+170, , Liam Doolan, , Takumu Nakano, 155, 7, 39, 5, Ball, 4-Seam Fastball, 93.1, 2187, 15, ↓, 7, ←
+171, , Liam Doolan, , Tetsuto Yamada, 154, 6, 38, 5," In play, out(s)", 4-Seam Fastball, 93.8, 2198, 16, ↓, 7, ←
+172, , Liam Doolan, , Tetsuto Yamada, 153, 5, 38, 5, Called Strike, 4-Seam Fastball, 93.6, 2189, 16, ↓, 7, ←
+173, , Liam Doolan, , Kazuma Okamoto, 152, 4, 37, 5, Ball, 4-Seam Fastball, 93.2, 2238, 14, ↓, 9, ←
+174, , Liam Doolan, , Kazuma Okamoto, 151, 3, 37, 5, Ball, 4-Seam Fastball, 94.9, 2261, 13, ↓, 6, ←
+175, , Liam Doolan, , Kazuma Okamoto, 150, 2, 37, 5, Ball, Slider, 82.2, 1899, 43, ↓, 1, →
+176, , Liam Doolan, , Kazuma Okamoto, 149, 1, 37, 5, Ball, 4-Seam Fastball, 94.4, 2237, 18, ↓, 7, ←
+177, , Yoshinobu Yamamoto, , Darryl George, 148, 60, 36, 4, Swinging Strike, Changeup, 91.1, 1540, 35, ↓, 15, ←
+178, , Yoshinobu Yamamoto, , Darryl George, 147, 59, 36, 4, Foul, 4-Seam Fastball, 96.9, 2285, 11, ↓, 10, ←
+179, , Yoshinobu Yamamoto, , Darryl George, 146, 58, 36, 4, Foul, Changeup, 89.9, 1305, 32, ↓, 15, ←
+180, , Yoshinobu Yamamoto, , Darryl George, 145, 57, 36, 4, Foul, Curveball, 78.7, 2972, 63, ↓, 10, →
+181, , Yoshinobu Yamamoto, , Darryl George, 144, 56, 36, 4, Foul, 4-Seam Fastball, 96.0, 2212, 13, ↓, 10, ←
+182, , Yoshinobu Yamamoto, , Darryl George, 143, 55, 36, 4, Called Strike, 4-Seam Fastball, 95.6, 2249, 14, ↓, 12, ←
+183, , Yoshinobu Yamamoto, , Darryl George, 142, 54, 36, 4, Ball, 4-Seam Fastball, 96.0, 2219, 14, ↓, 11, ←
+184, , Yoshinobu Yamamoto, , Darryl George, 141, 53, 36, 4, Foul, Changeup, 87.6, 1569, 35, ↓, 16, ←
+185, , Yoshinobu Yamamoto, , Darryl George, 140, 52, 36, 4, Ball, Curveball, 76.7, 2838, 65, ↓, 9, →
+186, , Yoshinobu Yamamoto, , Robbie Glendinning, 139, 51, 35, 4, Swinging Strike, Changeup, 90.1, 1487, 30, ↓, 8, ←
+187, , Yoshinobu Yamamoto, , Robbie Glendinning, 138, 50, 35, 4, Ball, 4-Seam Fastball, 95.0, 2243, 15, ↓, 10, ←
+188, , Yoshinobu Yamamoto, , Robbie Glendinning, 137, 49, 35, 4, Called Strike, 4-Seam Fastball, 95.8, 2309, 13, ↓, 10, ←
+189, , Yoshinobu Yamamoto, , Robbie Glendinning, 136, 48, 35, 4, Ball, Curveball, 77.1, 2725, 63, ↓, 11, →
+190, , Yoshinobu Yamamoto, , Robbie Glendinning, 135, 47, 35, 4, Called Strike, Curveball, 77.4, 2743, 64, ↓, 12, →
+191, , Yoshinobu Yamamoto, , Alex Hall, 134, 46, 34, 4," In play, out(s)", 4-Seam Fastball, 96.3, 2279, 12, ↓, 11, ←
+192, , Yoshinobu Yamamoto, , Alex Hall, 133, 45, 34, 4, Ball, 4-Seam Fastball, 95.5, 2354, 13, ↓, 11, ←
+193, , Yoshinobu Yamamoto, , Alex Hall, 132, 44, 34, 4, Ball, 4-Seam Fastball, 94.7, 2128, 15, ↓, 8, ←
+194, , Yoshinobu Yamamoto, , Alex Hall, 131, 43, 34, 4, Foul, 4-Seam Fastball, 94.5, 2281, 14, ↓, 11, ←
+195, , Yoshinobu Yamamoto, , Alex Hall, 130, 42, 34, 4, Swinging Strike, Changeup, 89.8, 1449, 33, ↓, 16, ←
+196, , Yoshinobu Yamamoto, , Alex Hall, 129, 41, 34, 4, Ball, Curveball, 75.5, 2704, 64, ↓, 13, →
+197, , Yoshinobu Yamamoto, , Alex Hall, 128, 40, 34, 4, Called Strike, Changeup, 89.3, 1465, 37, ↓, 13, ←
+198, , Blake Townsend, , Masataka Yoshida, 127, 21, 33, 4," In play, out(s)", Curveball, 73.4, 2521, 55, ↓, 13, ←
+199, , Blake Townsend, , Masataka Yoshida, 126, 20, 33, 4, Ball, Curveball, 71.9, 2508, 58, ↓, 16, ←
+200, , Blake Townsend, , Masataka Yoshida, 125, 19, 33, 4, Ball, Curveball, 73.1, 2510, 55, ↓, 19, ←
+201, , Blake Townsend, , Masataka Yoshida, 124, 18, 33, 4, Swinging Strike, Curveball, 72.6, 2458, 54, ↓, 16, ←
+202, , Blake Townsend, , Masataka Yoshida, 123, 17, 33, 4, Ball, Curveball, 71.7, 2462, 56, ↓, 14, ←
+203, , Blake Townsend, , Munetaka Murakami, 122, 16, 32, 4, Swinging Strike, Curveball, 73.5, 2543, 51, ↓, 15, ←
+204, , Blake Townsend, , Munetaka Murakami, 121, 15, 32, 4, Called Strike, Curveball, 72.7, 2523, 54, ↓, 16, ←
+205, , Blake Townsend, , Munetaka Murakami, 120, 14, 32, 4, Called Strike, Curveball, 72.4, 2427, 54, ↓, 16, ←
+206, , Blake Townsend, , Shohei Ohtani, 119, 13, 31, 4, Ball, 4-Seam Fastball, 90.0, 2379, 16, ↓, 9, →
+207, , Blake Townsend, , Shohei Ohtani, 118, 12, 31, 4, Ball, Curveball, 72.4, 2444, 53, ↓, 14, ←
+208, , Blake Townsend, , Shohei Ohtani, 117, 11, 31, 4, Ball, 4-Seam Fastball, 89.2, 2336, 17, ↓, 7, →
+209, , Blake Townsend, , Shohei Ohtani, 116, 10, 31, 4, Ball, Sinker, 89.8, 2333, 16, ↓, 11, →
+210, , Blake Townsend, , Kensuke Kondoh, 115, 9, 30, 4, Ball, 4-Seam Fastball, 89.8, 2348, 17, ↓, 9, →
+211, , Blake Townsend, , Kensuke Kondoh, 114, 8, 30, 4, Ball, Curveball, 71.8, 2403, 56, ↓, 16, ←
+212, , Blake Townsend, , Kensuke Kondoh, 113, 7, 30, 4, Ball, 4-Seam Fastball, 88.2, 2295, 19, ↓, 10, →
+213, , Blake Townsend, , Kensuke Kondoh, 112, 6, 30, 4, Ball, 4-Seam Fastball, 89.0, 2330, 17, ↓, 9, →
+214, , Blake Townsend, , Lars Nootbaar, 111, 5, 29, 4, Ball, 4-Seam Fastball, 89.4, 2379, 16, ↓, 9, →
+215, , Blake Townsend, , Lars Nootbaar, 110, 4, 29, 4, Ball, Curveball, 70.1, 2327, 58, ↓, 18, ←
+216, , Blake Townsend, , Lars Nootbaar, 109, 3, 29, 4, Ball, Curveball, 70.0, 2360, 60, ↓, 15, ←
+217, , Blake Townsend, , Lars Nootbaar, 108, 2, 29, 4, Ball In Dirt, Curveball, 69.3, 2377, 64, ↓, 17, ←
+218, , Blake Townsend, , Lars Nootbaar, 107, 1, 29, 4, Called Strike, Curveball, 71.0, 2365, 63, ↓, 15, ←
+219, , Luke Wilkins, , Yuhei Nakamura, 106, 42, 28, 4," In play, no out", Sweeper, 78.0, 2452, 45, ↓, 7, →
+220, , Luke Wilkins, , Yuhei Nakamura, 105, 41, 28, 4, Called Strike, Curveball, 79.2, 2313, 48, ↓, 2, →
+221, , Yoshinobu Yamamoto, , Tim Kennelly, 104, 39, 27, 3," In play, out(s)", 4-Seam Fastball, 94.8, 2356, 16, ↓, 14, ←
+222, , Yoshinobu Yamamoto, , Tim Kennelly, 103, 38, 27, 3, Swinging Strike, Curveball, 76.6, 2982, 66, ↓, 14, →
+223, , Yoshinobu Yamamoto, , Ulrich Bojarski, 102, 37, 26, 3, Swinging Strike, 4-Seam Fastball, 96.1, 2477, 10, ↓, 12, ←
+224, , Yoshinobu Yamamoto, , Ulrich Bojarski, 101, 36, 26, 3, Swinging Strike, Curveball, 77.0, 2962, 63, ↓, 14, →
+225, , Yoshinobu Yamamoto, , Ulrich Bojarski, 100, 35, 26, 3, Foul, 4-Seam Fastball, 95.0, 2222, 15, ↓, 12, ←
+226, , Yoshinobu Yamamoto, , Robbie Perkins, 99, 34, 25, 3," In play, no out", Cutter, 88.3, 2656, 32, ↓, 2, →
+227, , Yoshinobu Yamamoto, , Logan Wade, 98, 33, 24, 3, Swinging Strike, 4-Seam Fastball, 95.9, 2069, 15, ↓, 11, ←
+228, , Yoshinobu Yamamoto, , Logan Wade, 97, 32, 24, 3, Swinging Strike, Changeup, 89.5, 1349, 33, ↓, 14, ←
+229, , Yoshinobu Yamamoto, , Logan Wade, 96, 31, 24, 3, Ball, 4-Seam Fastball, 95.1, 1995, 14, ↓, 7, ←
+230, , Yoshinobu Yamamoto, , Logan Wade, 95, 30, 24, 3, Foul, Cutter, 92.8, 2385, 20, ↓, 5, ←
+231, , Yoshinobu Yamamoto, , Logan Wade, 94, 29, 24, 3, Ball, 4-Seam Fastball, 95.3, 2232, 15, ↓, 14, ←
+232, , Luke Wilkins, , Takumu Nakano, 93, 40, 23, 3," In play, out(s)", Changeup, 79.9, 1444, 45, ↓, 13, ←
+233, , Luke Wilkins, , Takumu Nakano, 92, 39, 23, 3, Swinging Strike, Changeup, 79.5, 1445, 40, ↓, 13, ←
+234, , Luke Wilkins, , Takumu Nakano, 91, 38, 23, 3, Ball, Sinker, 91.2, 2487, 18, ↓, 13, ←
+235, , Luke Wilkins, , Takumu Nakano, 90, 37, 23, 3, Called Strike, Sinker, 90.0, 2522, 19, ↓, 13, ←
+236, , Luke Wilkins, , Tetsuto Yamada, 89, 36, 22, 3, Called Strike, Curveball, 78.7, 2588, 52, ↓, 1, →
+237, , Luke Wilkins, , Tetsuto Yamada, 88, 35, 22, 3, Ball, Sweeper, 76.5, 2621, 58, ↓, 12, →
+238, , Luke Wilkins, , Tetsuto Yamada, 87, 34, 22, 3, Foul, Curveball, 80.6, 2686, 49, ↓, 3, →
+239, , Luke Wilkins, , Tetsuto Yamada, 86, 33, 22, 3, Ball, Changeup, 79.6, 1517, 41, ↓, 11, ←
+240, , Luke Wilkins, , Tetsuto Yamada, 85, 32, 22, 3, Foul, Curveball, 79.6, 2446, 51, ↓, 2, →
+241, , Luke Wilkins, , Tetsuto Yamada, 84, 31, 22, 3, Called Strike, Sinker, 90.0, 2298, 22, ↓, 15, ←
+242, , Luke Wilkins, , Tetsuto Yamada, 83, 30, 22, 3, Ball, Curveball, 80.2, 2537, 51, ↓, 0, 
+243, , Luke Wilkins, , Kazuma Okamoto, 82, 29, 21, 3," In play, out(s)", Curveball, 80.3, 2463, 50, ↓, 2, →
+244, , Luke Wilkins, , Kazuma Okamoto, 81, 28, 21, 3, Ball, Curveball, 79.7, 2510, 50, ↓, 3, →
+245, , Yoshinobu Yamamoto, , Rixon Wingrove, 80, 28, 20, 2, Swinging Strike, 4-Seam Fastball, 94.7, 2110, 15, ↓, 11, ←
+246, , Yoshinobu Yamamoto, , Rixon Wingrove, 79, 27, 20, 2, Called Strike, Curveball, 77.2, 2745, 65, ↓, 12, →
+247, , Yoshinobu Yamamoto, , Rixon Wingrove, 78, 26, 20, 2, Foul, Cutter, 92.4, 2475, 21, ↓, 3, ←
+248, , Yoshinobu Yamamoto, , Rixon Wingrove, 77, 25, 20, 2, Ball, Cutter, 93.1, 2550, 16, ↓, 4, ←
+249, , Yoshinobu Yamamoto, , Aaron Whitefield, 76, 24, 19, 2," In play, out(s)", Changeup, 89.1, 1371, 30, ↓, 4, ←
+250, , Yoshinobu Yamamoto, , Aaron Whitefield, 75, 23, 19, 2, Foul, Changeup, 91.0, 1353, 31, ↓, 7, ←
+251, , Yoshinobu Yamamoto, , Aaron Whitefield, 74, 22, 19, 2, Called Strike, Curveball, 76.5, 2775, 65, ↓, 11, →
+252, , Yoshinobu Yamamoto, , Aaron Whitefield, 73, 21, 19, 2, Ball, 4-Seam Fastball, 95.2, 2230, 15, ↓, 10, ←
+253, , Yoshinobu Yamamoto, , Aaron Whitefield, 72, 20, 19, 2, Called Strike, Curveball, 75.9, 2569, 64, ↓, 13, →
+254, , Yoshinobu Yamamoto, , Darryl George, 71, 19, 18, 2, Swinging Strike, Changeup, 90.7, 1445, 27, ↓, 16, ←
+255, , Yoshinobu Yamamoto, , Darryl George, 70, 18, 18, 2, Foul, 4-Seam Fastball, 96.4, 2229, 11, ↓, 12, ←
+256, , Yoshinobu Yamamoto, , Darryl George, 69, 17, 18, 2, Foul, 4-Seam Fastball, 95.5, 2364, 11, ↓, 12, ←
+257, , Yoshinobu Yamamoto, , Darryl George, 68, 16, 18, 2, Called Strike, 4-Seam Fastball, 95.3, 2385, 12, ↓, 11, ←
+258, , Yoshinobu Yamamoto, , Darryl George, 67, 15, 18, 2, Ball, 4-Seam Fastball, 94.9, 2343, 12, ↓, 12, ←
+259, , Yoshinobu Yamamoto, , Darryl George, 66, 14, 18, 2, Ball, 4-Seam Fastball, 94.6, 2354, 12, ↓, 10, ←
+260, , Luke Wilkins, , Masataka Yoshida, 65, 27, 17, 2," In play, out(s)", Changeup, 78.3, 1653, 44, ↓, 10, ←
+261, , Luke Wilkins, , Masataka Yoshida, 64, 26, 17, 2, Ball In Dirt, Changeup, 78.9, 1744, 49, ↓, 11, ←
+262, , Luke Wilkins, , Masataka Yoshida, 63, 25, 17, 2, Swinging Strike, Changeup, 78.3, 1605, 42, ↓, 13, ←
+263, , Luke Wilkins, , Munetaka Murakami, 62, 24, 16, 2," In play, out(s)", Changeup, 78.4, 1551, 47, ↓, 14, ←
+264, , Luke Wilkins, , Munetaka Murakami, 61, 23, 16, 2, Ball, Changeup, 80.0, 1548, 44, ↓, 10, ←
+265, , Luke Wilkins, , Munetaka Murakami, 60, 22, 16, 2, Swinging Strike, Changeup, 79.4, 1503, 44, ↓, 10, ←
+266, , Luke Wilkins, , Kensuke Kondoh, 59, 21, 14, 2," In play, run(s)", Curveball, 81.0, 2367, 48, ↓, 0, 
+267, , Luke Wilkins, , Kensuke Kondoh, 58, 20, 14, 2, Ball, Changeup, 78.6, 1441, 52, ↓, 12, ←
+268, , Luke Wilkins, , Kensuke Kondoh, 57, 19, 14, 2, Ball, Changeup, 77.0, 1356, 48, ↓, 13, ←
+269, , Luke Wilkins, , Kensuke Kondoh, 56, 18, 14, 2, Called Strike, Curveball, 79.6, 2363, 51, ↓, 2, →
+270, , Luke Wilkins, , Lars Nootbaar, 55, 17, 13, 2," In play, run(s)", Sinker, 91.7, 2312, 20, ↓, 15, ←
+271, , Luke Wilkins, , Lars Nootbaar, 54, 16, 13, 2, Ball, Changeup, 80.2, 1643, 45, ↓, 8, ←
+272, , Luke Wilkins, , Lars Nootbaar, 53, 15, 13, 2, Foul, Changeup, 80.0, 1407, 37, ↓, 13, ←
+273, , Luke Wilkins, , Yuhei Nakamura, 52, 14, 12, 2," In play, out(s)", Sinker, 88.6, 2421, 21, ↓, 14, ←
+274, , Luke Wilkins, , Yuhei Nakamura, 51, 13, 12, 2, Ball, Curveball, 78.8, 2390, 51, ↓, 1, ←
+275, , Luke Wilkins, , Yuhei Nakamura, 50, 12, 12, 2, Called Strike, Sinker, 88.0, 2350, 22, ↓, 15, ←
+276, , Luke Wilkins, , Yuhei Nakamura, 49, 11, 12, 2, Ball, Sinker, 87.1, 2339, 21, ↓, 14, ←
+277, , Luke Wilkins, , Yuhei Nakamura, 48, 10, 12, 2, Ball, Curveball, 78.6, 2239, 52, ↓, 1, →
+278, , Luke Wilkins, , Takumu Nakano, 47, 9, 11, 2," In play, no out", Curveball, 81.1, 2530, 51, ↓, 2, →
+279, , Luke Wilkins, , Takumu Nakano, 46, 8, 11, 2, Ball, Curveball, 82.5, 2355, 45, ↓, 1, →
+280, , Luke Wilkins, , Takumu Nakano, 45, 7, 11, 2, Called Strike, Changeup, 80.9, 1387, 28, ↓, 8, ←
+281, , Luke Wilkins, , Takumu Nakano, 44, 6, 11, 2, Called Strike, Sinker, 90.1, 2190, 20, ↓, 14, ←
+282, , Yoshinobu Yamamoto, , Robbie Glendinning, 43, 13, 10, 1, Called Strike, Changeup, 89.5, 1399, 33, ↓, 4, ←
+283, , Yoshinobu Yamamoto, , Robbie Glendinning, 42, 12, 10, 1, Ball, Changeup, 91.4, 1521, 32, ↓, 15, ←
+284, , Yoshinobu Yamamoto, , Robbie Glendinning, 41, 11, 10, 1, Foul, 4-Seam Fastball, 96.4, 2331, 13, ↓, 13, ←
+285, , Yoshinobu Yamamoto, , Robbie Glendinning, 40, 10, 10, 1, Called Strike, 4-Seam Fastball, 95.4, 2348, 14, ↓, 13, ←
+286, , Yoshinobu Yamamoto, , Robbie Glendinning, 39, 9, 10, 1, Swinging Strike, Changeup, 88.9, 1580, 29, ↓, 13, ←
+287, , Yoshinobu Yamamoto, , Robbie Glendinning, 38, 8, 10, 1, Ball, 4-Seam Fastball, 96.3, 2290, 12, ↓, 9, ←
+288, , Yoshinobu Yamamoto, , Alex Hall, 37, 7, 9, 1," In play, out(s)", 4-Seam Fastball, 96.6, 2211, 13, ↓, 13, ←
+289, , Yoshinobu Yamamoto, , Alex Hall, 36, 6, 9, 1, Ball, 4-Seam Fastball, 95.0, 2338, 13, ↓, 13, ←
+290, , Yoshinobu Yamamoto, , Alex Hall, 35, 5, 9, 1, Ball, 4-Seam Fastball, 96.1, 2198, 17, ↓, 13, ←
+291, , Yoshinobu Yamamoto, , Tim Kennelly, 34, 4, 8, 1, Swinging Strike, Changeup, 90.6, 1338, 37, ↓, 11, ←
+292, , Yoshinobu Yamamoto, , Tim Kennelly, 33, 3, 8, 1, Ball, Changeup, 91.0, 1518, 29, ↓, 11, ←
+293, , Yoshinobu Yamamoto, , Tim Kennelly, 32, 2, 8, 1, Foul, Curveball, 77.0, 2874, 68, ↓, 9, →
+294, , Yoshinobu Yamamoto, , Tim Kennelly, 31, 1, 8, 1, Foul, 4-Seam Fastball, 95.5, 2402, 12, ↓, 11, ←
+295, , Luke Wilkins, , Tetsuto Yamada, 30, 5, 7, 1," In play, out(s)", Curveball, 80.4, 2441, 51, ↓, 2, →
+296, , Luke Wilkins, , Tetsuto Yamada, 29, 4, 7, 1, Ball, Curveball, 77.4, 2328, 56, ↓, 2, →
+297, , Luke Wilkins, , Tetsuto Yamada, 28, 3, 7, 1, Foul, Curveball, 79.8, 2498, 49, ↓, 1, →
+298, , Luke Wilkins, , Tetsuto Yamada, 27, 2, 7, 1, Ball, Curveball, 78.6, 2418, 53, ↓, 4, →
+299, , Luke Wilkins, , Tetsuto Yamada, 26, 1, 7, 1, Called Strike, Curveball, 80.1, 2444, 51, ↓, 1, →
+300, , Will Sherriff, , Kazuma Okamoto, 25, 25, 6, 1, Swinging Strike, Changeup, 79.4, 1818, 39, ↓, 19, →
+301, , Will Sherriff, , Kazuma Okamoto, 24, 24, 6, 1, Swinging Strike, Curveball, 68.1, 2788, 76, ↓, 13, ←
+302, , Will Sherriff, , Kazuma Okamoto, 23, 23, 6, 1, Called Strike, Changeup, 77.7, 1831, 38, ↓, 17, →
+303, , Will Sherriff, , Kazuma Okamoto, 22, 22, 6, 1, Ball In Dirt, Changeup, 78.8, 1611, 36, ↓, 16, →
+304, , Will Sherriff, , Masataka Yoshida, 21, 21, 5, 1, Hit By Pitch, Curveball, 69.1, 2774, 76, ↓, 13, ←
+305, , Will Sherriff, , Masataka Yoshida, 20, 20, 5, 1, Ball, Curveball, 71.8, 2734, 64, ↓, 11, ←
+306, , Will Sherriff, , Masataka Yoshida, 19, 19, 5, 1, Foul, Changeup, 78.4, 1652, 42, ↓, 19, →
+307, , Will Sherriff, , Masataka Yoshida, 18, 18, 5, 1, Ball, Curveball, 70.5, 2862, 67, ↓, 12, ←
+308, , Will Sherriff, , Masataka Yoshida, 17, 17, 5, 1, Ball, Changeup, 79.3, 1760, 38, ↓, 16, →
+309, , Will Sherriff, , Masataka Yoshida, 16, 16, 5, 1, Called Strike, 4-Seam Fastball, 83.0, 2342, 26, ↓, 8, →
+310, , Will Sherriff, , Munetaka Murakami, 15, 15, 4, 1," In play, out(s)", Changeup, 78.5, 1802, 40, ↓, 16, →
+311, , Will Sherriff, , Munetaka Murakami, 14, 14, 4, 1, Called Strike, Curveball, 70.4, 2853, 69, ↓, 14, ←
+312, , Will Sherriff, , Munetaka Murakami, 13, 13, 4, 1, Ball, 4-Seam Fastball, 84.2, 2218, 23, ↓, 8, →
+313, , Will Sherriff, , Shohei Ohtani, 12, 12, 3, 1," In play, run(s)", Curveball, 70.7, 2800, 69, ↓, 14, ←
+314, , Will Sherriff, , Shohei Ohtani, 11, 11, 3, 1, Swinging Strike, Curveball, 70.1, 2808, 70, ↓, 14, ←
+315, , Will Sherriff, , Kensuke Kondoh, 10, 10, 2, 1," In play, no out", Changeup, 79.8, 1716, 39, ↓, 17, →
+316, , Will Sherriff, , Kensuke Kondoh, 9, 9, 2, 1, Called Strike, Changeup, 79.0, 1708, 39, ↓, 18, →
+317, , Will Sherriff, , Kensuke Kondoh, 8, 8, 2, 1, Called Strike, Curveball, 71.2, 2925, 68, ↓, 15, ←
+318, , Will Sherriff, , Lars Nootbaar, 7, 7, 1, 1, Ball, Changeup, 79.0, 1535, 39, ↓, 17, →
+319, , Will Sherriff, , Lars Nootbaar, 6, 6, 1, 1, Ball, 4-Seam Fastball, 84.4, 2320, 21, ↓, 4, →
+320, , Will Sherriff, , Lars Nootbaar, 5, 5, 1, 1, Foul, Changeup, 80.0, 1718, 41, ↓, 20, →
+321, , Will Sherriff, , Lars Nootbaar, 4, 4, 1, 1, Called Strike, Changeup, 79.7, 1647, 38, ↓, 18, →
+322, , Will Sherriff, , Lars Nootbaar, 3, 3, 1, 1, Ball, Curveball, 70.7, 2916, 72, ↓, 13, ←
+323, , Will Sherriff, , Lars Nootbaar, 2, 2, 1, 1, Ball, Curveball, 70.4, 2871, 67, ↓, 15, ←
+324, , Will Sherriff, , Lars Nootbaar, 1, 1, 1, 1, Called Strike, 4-Seam Fastball, 83.1, 2282, 22, ↓, 7, →
